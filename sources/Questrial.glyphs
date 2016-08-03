@@ -12709,6 +12709,40 @@ unicode = 00B5;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoDescender;
+value = -210;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 820;
+},
+{
+name = typoAscender;
+value = 820;
+},
+{
+name = hheaDescender;
+value = -210;
+},
+{
+name = winDescent;
+value = 210;
+},
+{
+name = winAscent;
+value = 820;
+}
+);
 instanceInterpolations = {
 UUID0 = 1;
 };
