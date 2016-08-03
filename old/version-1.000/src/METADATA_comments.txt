@@ -1,0 +1,7 @@
+# COMMENTS
+# cd ~/src/font-optimizer/; ./subset.pl -v \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="Questrial" \
+#     ~/googlefontdirectory/questrial/Questrial-Regular.ttf \
+#     ~/googlefontdirectory/questrial/Questrial-Regular.menu; \
+#  cd ~/googlefontdirectory/questrial/; \
