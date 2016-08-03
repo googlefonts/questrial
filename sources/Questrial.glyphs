@@ -293,6 +293,45 @@ date = "2016-08-03 12:33:20 +0000";
 designer = "Joe Prince";
 designerURL = "http://www.admixdesigns.com/";
 familyName = Questrial;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature sups;\012feature frac;\012feature ordn;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "sub two by twosuperior;\012sub three by threesuperior;\012sub one by onesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub f j by f_j;\012";
+name = dlig;
+},
+{
+automatic = 1;
+code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+name = liga;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -12712,6 +12751,7 @@ unicode = 00B5;
 }
 );
 disablesAutomaticAlignment = 1;
+keepAlternatesTogether = 1;
 instances = (
 {
 customParameters = (
@@ -12849,9 +12889,9 @@ J = -91;
 S = -11;
 ampersand = -12;
 at = -30;
-idotless = -54;
 germandbls = -26;
 idieresis = 47;
+idotless = -54;
 longs = -12;
 registered = -26;
 s = -79;
@@ -13099,10 +13139,10 @@ F = {
 "@MMK_R_y" = -16;
 AE = -96;
 J = -122;
-idotless = -25;
 germandbls = -10;
 icircumflex = 23;
 idieresis = 25;
+idotless = -25;
 longs = -12;
 s = -21;
 slash = -20;
@@ -13218,10 +13258,10 @@ T = {
 AE = -79;
 J = -96;
 at = -25;
-idotless = -68;
 germandbls = -17;
 icircumflex = 33;
 idieresis = 35;
+idotless = -68;
 longs = -23;
 registered = -21;
 s = -90;
@@ -13260,10 +13300,10 @@ V = {
 AE = -83;
 J = -75;
 at = -14;
-idotless = -29;
 germandbls = -14;
 icircumflex = 26;
 idieresis = 45;
+idotless = -29;
 registered = -10;
 s = -35;
 slash = -33;
@@ -13279,10 +13319,10 @@ W = {
 "@MMK_R_u" = -18;
 AE = -68;
 J = -40;
-idotless = -19;
 germandbls = -11;
 icircumflex = 28;
 idieresis = 39;
+idotless = -19;
 s = -25;
 slash = -27;
 };
