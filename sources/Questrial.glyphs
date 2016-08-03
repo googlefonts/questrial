@@ -349,16 +349,6 @@ xHeight = 500;
 );
 glyphs = (
 {
-glyphname = .null;
-lastChange = "2016-08-03 12:40:05 +0000";
-layers = (
-{
-layerId = UUID0;
-width = 0;
-}
-);
-},
-{
 glyphname = space;
 lastChange = "2016-08-03 12:24:03 +0000";
 layers = (
