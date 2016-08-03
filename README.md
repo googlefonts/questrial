@@ -11,7 +11,11 @@ This project is a fork from the old Google font repository.
 
 # Completed tasks:
 
+* Converted project files to .glyphs from .vfb.
+* Fixed tasks listed in ProjectChecklist.md and internal planning spreadsheet.
+
 # Todo:
 
 * Improve README.md
 * Run fonts through Fontbakery and ship fonts.
+* Fix glyphs, anchors and components
