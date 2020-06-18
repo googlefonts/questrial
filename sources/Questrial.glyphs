@@ -26,7 +26,11 @@ copyright = "Copyright 2011 -2020 The Questrial Project Authors with Reserved Fo
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = description;
@@ -35,10 +39,6 @@ value = "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with R
 {
 name = trademark;
 value = "Questrial is a trademark of Admix Designs (www.admixdesigns.com)";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = panose;
@@ -338,6 +338,10 @@ value = (
 91,
 116
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-06-02 08:10:34 +0000";
