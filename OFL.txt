@@ -1,4 +1,4 @@
-Copyright 2011 -2020 The Questrial Project Authors with Reserved Font Name Questrial
+Copyright 2011 -2020 The Questrial Project Authors (https://github.com/googlefonts/questrial)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

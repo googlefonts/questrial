@@ -470,19 +470,19 @@ value = -220;
 },
 {
 name = typoLineGap;
-value = 569;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 1028;
+value = 1030;
 },
 {
 name = hheaDescender;
-value = -439;
+value = -440;
 },
 {
 name = hheaLineGap;
-value = 474;
+value = 0;
 },
 {
 name = winAscent;
