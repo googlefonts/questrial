@@ -23,7 +23,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 -2020 The Questrial Project Authors (https://github.com/googlefonts/questrial)";
+copyright = "Copyright 2011 The Questrial Project Authors (https://github.com/googlefonts/questrial)";
 customParameters = (
 {
 name = licenseURL;
@@ -32,10 +32,6 @@ value = "https://scripts.sil.org/OFL";
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-},
-{
-name = description;
-value = "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Questrial.";
 },
 {
 name = trademark;
@@ -463,11 +459,11 @@ capHeight = 662;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 820;
 },
 {
 name = typoDescender;
-value = -220;
+value = -210;
 },
 {
 name = typoLineGap;
@@ -475,11 +471,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1030;
+value = 820;
 },
 {
 name = hheaDescender;
-value = -440;
+value = -210;
 },
 {
 name = hheaLineGap;
@@ -487,11 +483,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1028;
+value = 1030;
 },
 {
 name = winDescent;
-value = -439;
+value = -440;
 }
 );
 descender = -198;
