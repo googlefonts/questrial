@@ -487,7 +487,7 @@ value = 1030;
 },
 {
 name = winDescent;
-value = -440;
+value = 440;
 }
 );
 descender = -198;
