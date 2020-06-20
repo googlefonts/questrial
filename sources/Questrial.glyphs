@@ -13,7 +13,8 @@ DisplayStrings = (
 "ç/ccedillaacute",
 "/Tbar",
 "/fi",
-"a/ogonekcomb/aogonek"
+"a/ogonekcomb/aogonek",
+"/fi  /fl  /f_j  /f_f  /f_f_i  /f_f_l  \012/T_h  /c_h  /c_t  /s_t"
 );
 classes = (
 {
@@ -22,23 +23,19 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011, The Questrial Project Authors (joe@admixdesigns.com), with Reserved Font Name Questrial";
+copyright = "Copyright 2011 The Questrial Project Authors (https://github.com/LauraMeseguer/Questrial-Font)";
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
-name = description;
-value = "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Questrial.";
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = trademark;
 value = "Questrial is a trademark of Admix Designs (www.admixdesigns.com)";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = panose;
@@ -338,6 +335,10 @@ value = (
 91,
 116
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-06-02 08:10:34 +0000";
@@ -458,35 +459,35 @@ capHeight = 662;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 820;
 },
 {
 name = typoDescender;
-value = -220;
+value = -210;
 },
 {
 name = typoLineGap;
-value = 569;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 1028;
+value = 820;
 },
 {
 name = hheaDescender;
-value = -439;
+value = -210;
 },
 {
 name = hheaLineGap;
-value = 474;
+value = 0;
 },
 {
 name = winAscent;
-value = 1028;
+value = 1030;
 },
 {
 name = winDescent;
-value = -439;
+value = 440;
 }
 );
 descender = -198;
@@ -5120,7 +5121,7 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2020-06-09 14:40:54 +0000";
+lastChange = "2020-06-18 21:37:41 +0000";
 layers = (
 {
 anchors = (
@@ -13664,9 +13665,15 @@ unicode = 017F;
 },
 {
 glyphname = fi;
-lastChange = "2020-06-17 16:45:43 +0000";
+lastChange = "2020-06-18 21:38:51 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{267, 0}";
+}
+);
 components = (
 {
 name = i;
@@ -13745,9 +13752,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2020-05-29 11:09:19 +0000";
+lastChange = "2020-06-18 21:38:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{269, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -13767,9 +13780,15 @@ unicode = FB02;
 },
 {
 glyphname = f_j;
-lastChange = "2020-06-01 08:04:27 +0000";
+lastChange = "2020-06-18 21:39:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{269, 0}";
+}
+);
 hints = (
 {
 place = "{99, 75}";
@@ -13858,9 +13877,15 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f;
-lastChange = "2020-06-01 08:04:27 +0000";
+lastChange = "2020-06-18 21:39:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{298, 0}";
+}
+);
 hints = (
 {
 place = "{99, 75}";
@@ -13939,9 +13964,19 @@ rightKerningGroup = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2020-06-01 08:04:27 +0000";
+lastChange = "2020-06-18 21:39:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{290, 0}";
+},
+{
+name = caret_2;
+position = "{562, 0}";
+}
+);
 hints = (
 {
 place = "{99, 75}";
@@ -14044,9 +14079,19 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2020-06-01 08:04:27 +0000";
+lastChange = "2020-06-18 21:39:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{277, 0}";
+},
+{
+name = caret_2;
+position = "{559, 0}";
+}
+);
 hints = (
 {
 place = "{99, 75}";
@@ -36567,9 +36612,15 @@ unicode = 01B6;
 },
 {
 glyphname = T_h;
-lastChange = "2020-06-09 10:58:58 +0000";
+lastChange = "2020-06-18 21:39:44 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{479, 0}";
+}
+);
 components = (
 {
 name = T;
@@ -36590,9 +36641,15 @@ rightMetricsKey = h;
 },
 {
 glyphname = c_h;
-lastChange = "2020-05-29 11:09:19 +0000";
+lastChange = "2020-06-18 21:39:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{551, 0}";
+}
+);
 components = (
 {
 name = c;
@@ -36613,9 +36670,15 @@ rightMetricsKey = h;
 },
 {
 glyphname = c_t;
-lastChange = "2020-05-29 11:09:19 +0000";
+lastChange = "2020-06-18 21:40:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{574, 0}";
+}
+);
 components = (
 {
 name = c;
@@ -36636,9 +36699,15 @@ rightMetricsKey = t;
 },
 {
 glyphname = s_t;
-lastChange = "2020-05-29 11:09:19 +0000";
+lastChange = "2020-06-18 21:40:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{519, 0}";
+}
+);
 components = (
 {
 name = s;
@@ -54487,40 +54556,6 @@ width = 332;
 );
 instances = (
 {
-customParameters = (
-{
-name = typoDescender;
-value = -210;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 820;
-},
-{
-name = typoAscender;
-value = 820;
-},
-{
-name = hheaDescender;
-value = -210;
-},
-{
-name = winDescent;
-value = 210;
-},
-{
-name = winAscent;
-value = 820;
-}
-);
 instanceInterpolations = {
 UUID0 = 1;
 };
@@ -54733,8 +54768,10 @@ j.sc = -9;
 "@MMK_L_f" = {
 "@MMK_R_A" = -34;
 "@MMK_R_Y" = 10;
+"@MMK_R_f" = -18;
 "@MMK_R_guilsinglleft" = -18;
 "@MMK_R_hyphen" = -25;
+"@MMK_R_i" = -15;
 "@MMK_R_o" = -10;
 "@MMK_R_period" = -19;
 "@MMK_R_quotesinglbase" = -19;
