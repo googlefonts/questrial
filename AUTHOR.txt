@@ -5,4 +5,6 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Admix Designs <joe@admixdesigns.com>
+Joe Prince <joe.admix@gmail.com>
+Laura Meseguer <mail@laurameseguer.com>
+
