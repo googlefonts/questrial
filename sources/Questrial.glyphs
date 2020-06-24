@@ -23,7 +23,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Questrial Project Authors (https://github.com/LauraMeseguer/Questrial-Font)";
+copyright = "Copyright 2011 The Questrial Project Authors (https://github.com/googlefonts/questrial)";
 customParameters = (
 {
 name = licenseURL;
@@ -342,8 +342,7 @@ value = 1;
 }
 );
 date = "2020-06-02 08:10:34 +0000";
-designer = "Joe Prince";
-designerURL = "http://www.admixdesigns.com/";
+designer = "Joe Prince, Laura Meseguer";
 familyName = Questrial;
 featurePrefixes = (
 {
@@ -55622,8 +55621,8 @@ z.sc = {
 };
 };
 };
-manufacturer = "Joe Prince";
-manufacturerURL = "http://www.admixdesigns.com/";
+manufacturer = "Joe Prince, Laura Meseguer";
+manufacturerURL = "https://www.laurameseguer.com/";
 unitsPerEm = 1000;
 userData = {
 LWPluginVersion = "1429";
