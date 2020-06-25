@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lmiddletilde" format="2">
+  <advance width="533"/>
+  <unicode hex="2C62"/>
+  <anchor x="128.178" y="368.023" name="top"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="267" y="331" name="center"/>
+  <anchor x="406" y="464" name="topright"/>
+  <outline>
+    <contour>
+      <point x="198" y="273" type="curve" smooth="yes"/>
+      <point x="271" y="273"/>
+      <point x="301" y="326"/>
+      <point x="309" y="379" type="curve"/>
+      <point x="271" y="379" type="line"/>
+      <point x="267" y="361"/>
+      <point x="249" y="336"/>
+      <point x="216" y="336" type="curve" smooth="yes"/>
+      <point x="157" y="336"/>
+      <point x="125" y="380"/>
+      <point x="42" y="380" type="curve" smooth="yes"/>
+      <point x="-32" y="380"/>
+      <point x="-62" y="326"/>
+      <point x="-70" y="274" type="curve"/>
+      <point x="-33" y="274" type="line"/>
+      <point x="-26" y="291"/>
+      <point x="-12" y="317"/>
+      <point x="23" y="317" type="curve" smooth="yes"/>
+      <point x="83" y="317"/>
+      <point x="114" y="273"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-53</integer>
+            <real>361.203</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>328.787</real>
+            <real>68.086</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>282.627</real>
+            <real>66.932</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

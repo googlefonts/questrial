@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ismall" format="2">
+  <advance width="329"/>
+  <unicode hex="026A"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="211" y="0" name="ogonek"/>
+  <anchor x="165" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="62" y="434" type="line"/>
+      <point x="267" y="434" type="line"/>
+      <point x="267" y="500" type="line"/>
+      <point x="62" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="66" type="line"/>
+      <point x="62" y="66" type="line"/>
+    </contour>
+    <component base="idotless" xOffset="62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambdastroke" format="2">
+  <advance width="600"/>
+  <unicode hex="019B"/>
+  <anchor x="462.764" y="729.569" name="_top"/>
+  <outline>
+    <contour>
+      <point x="135" y="698" type="line"/>
+      <point x="226" y="493" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="266" y="410" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="285" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="534" type="line"/>
+      <point x="243" y="633"/>
+      <point x="210" y="708"/>
+      <point x="116" y="708" type="curve" smooth="yes"/>
+      <point x="66" y="708"/>
+      <point x="23" y="679"/>
+      <point x="8" y="600" type="curve"/>
+      <point x="64" y="575" type="line"/>
+      <point x="75" y="609"/>
+      <point x="85" y="634"/>
+      <point x="117" y="634" type="curve" smooth="yes"/>
+      <point x="169" y="634"/>
+      <point x="194" y="569"/>
+      <point x="218" y="512" type="curve"/>
+    </contour>
+    <contour>
+      <point x="58.749" y="696.042" type="curve" smooth="yes"/>
+      <point x="49.544" y="692.134"/>
+      <point x="41.65" y="687.697"/>
+      <point x="31.915" y="682.479" type="curve"/>
+      <point x="58.485" y="619.885" type="line"/>
+      <point x="65.988" y="625.242"/>
+      <point x="72.041" y="628.898"/>
+      <point x="79.405" y="632.024" type="curve" smooth="yes"/>
+      <point x="145.681" y="660.156"/>
+      <point x="166.555" y="621.217"/>
+      <point x="179.449" y="590.841" type="curve" smooth="yes"/>
+      <point x="250.171" y="424.23" type="line"/>
+      <point x="319.209" y="453.535" type="line"/>
+      <point x="248.487" y="620.145" type="line" smooth="yes"/>
+      <point x="223.089" y="679.978"/>
+      <point x="173.812" y="744.883"/>
+    </contour>
+  </outline>
+</glyph>

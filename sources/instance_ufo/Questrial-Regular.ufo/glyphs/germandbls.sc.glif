@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls.sc" format="2">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="343" y="300" type="curve" smooth="yes"/>
+      <point x="338" y="300" type="line"/>
+      <point x="465" y="477" type="line"/>
+      <point x="465" y="546" type="line"/>
+      <point x="214" y="546" type="line" smooth="yes"/>
+      <point x="115" y="546"/>
+      <point x="52" y="485"/>
+      <point x="52" y="392" type="curve" smooth="yes"/>
+      <point x="52" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="389" type="line" smooth="yes"/>
+      <point x="127" y="451"/>
+      <point x="159" y="475"/>
+      <point x="229" y="475" type="curve" smooth="yes"/>
+      <point x="369" y="475" type="line"/>
+      <point x="248" y="300" type="line"/>
+      <point x="248" y="231" type="line"/>
+      <point x="327" y="231" type="line" smooth="yes"/>
+      <point x="388" y="231"/>
+      <point x="424" y="200"/>
+      <point x="424" y="149" type="curve" smooth="yes"/>
+      <point x="424" y="97"/>
+      <point x="383" y="69"/>
+      <point x="308" y="69" type="curve" smooth="yes"/>
+      <point x="206" y="69" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="307" y="0" type="line" smooth="yes"/>
+      <point x="423" y="0"/>
+      <point x="499" y="58"/>
+      <point x="499" y="148" type="curve" smooth="yes"/>
+      <point x="499" y="239"/>
+      <point x="437" y="300"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

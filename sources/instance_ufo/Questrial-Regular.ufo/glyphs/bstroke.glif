@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke" format="2">
+  <advance width="594"/>
+  <unicode hex="0180"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="312" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="355" y="623" type="line"/>
+      <point x="7" y="623" type="line"/>
+      <point x="7" y="558" type="line"/>
+      <point x="355" y="558" type="line"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+</glyph>

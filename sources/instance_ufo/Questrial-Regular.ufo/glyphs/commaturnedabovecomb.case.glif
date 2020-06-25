@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <anchor x="58.5" y="662" name="_top"/>
+  <anchor x="58.5" y="736" name="top"/>
+  <outline>
+    <component base="commaaccentcomb" yScale="-1" yOffset="648"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>117</integer>
+    </dict>
+  </lib>
+</glyph>

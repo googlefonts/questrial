@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow" format="2">
+  <advance width="205"/>
+  <unicode hex="1E3B"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="103" y="350" name="center"/>
+  <anchor x="103" y="700" name="top"/>
+  <anchor x="185" y="499" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-108" type="line"/>
+      <point x="210" y="-108" type="line"/>
+      <point x="210" y="-48" type="line"/>
+      <point x="-5" y="-48" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+</glyph>

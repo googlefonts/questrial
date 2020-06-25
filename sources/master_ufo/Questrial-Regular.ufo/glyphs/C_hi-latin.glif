@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chi-latin" format="2">
+  <advance width="722"/>
+  <unicode hex="A7B3"/>
+  <anchor x="348" y="-198" name="bottom"/>
+  <anchor x="348" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="675" y="-75" type="line"/>
+      <point x="665" y="-104"/>
+      <point x="650" y="-135"/>
+      <point x="616" y="-135" type="curve" smooth="yes"/>
+      <point x="567" y="-135"/>
+      <point x="567" y="-123"/>
+      <point x="392" y="256" type="curve"/>
+      <point x="624" y="659" type="line"/>
+      <point x="536" y="659" type="line"/>
+      <point x="352" y="340" type="line"/>
+      <point x="272" y="512" type="line" smooth="yes"/>
+      <point x="233" y="595"/>
+      <point x="192" y="662"/>
+      <point x="114" y="662" type="curve" smooth="yes"/>
+      <point x="58" y="662"/>
+      <point x="16" y="626"/>
+      <point x="-3" y="560" type="curve"/>
+      <point x="46" y="533" type="line"/>
+      <point x="56" y="562"/>
+      <point x="71" y="593"/>
+      <point x="105" y="593" type="curve" smooth="yes"/>
+      <point x="152" y="593"/>
+      <point x="182" y="529"/>
+      <point x="206" y="477" type="curve" smooth="yes"/>
+      <point x="305" y="259" type="line"/>
+      <point x="43" y="-195" type="line"/>
+      <point x="131" y="-195" type="line"/>
+      <point x="344" y="174" type="line"/>
+      <point x="444" y="-46" type="line" smooth="yes"/>
+      <point x="483" y="-131"/>
+      <point x="522" y="-203"/>
+      <point x="607" y="-203" type="curve" smooth="yes"/>
+      <point x="665" y="-203"/>
+      <point x="708" y="-167"/>
+      <point x="725" y="-102" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-3</integer>
+            <real>804.139</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-198</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>662</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

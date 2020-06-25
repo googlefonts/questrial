@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="600"/>
+  <unicode hex="20A3"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="368" y="174" type="line"/>
+      <point x="31" y="174" type="line"/>
+      <point x="31" y="108" type="line"/>
+      <point x="368" y="108" type="line"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ystroke" format="2">
+  <advance width="636"/>
+  <unicode hex="024E"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="319" y="662" name="top"/>
+  <anchor x="24" y="662" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="636" y="542" type="line"/>
+      <point x="0" y="542" type="line"/>
+      <point x="0" y="477" type="line"/>
+      <point x="636" y="477" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+</glyph>

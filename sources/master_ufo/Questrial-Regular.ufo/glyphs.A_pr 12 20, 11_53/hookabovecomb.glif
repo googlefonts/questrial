@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="100.5" y="500" name="_top"/>
+  <anchor x="100.5" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="718" type="curve"/>
+      <point x="30" y="673" type="line"/>
+      <point x="45" y="683"/>
+      <point x="63" y="690"/>
+      <point x="84" y="690" type="curve" smooth="yes"/>
+      <point x="114" y="690"/>
+      <point x="139" y="678"/>
+      <point x="139" y="654" type="curve" smooth="yes"/>
+      <point x="139" y="624"/>
+      <point x="115" y="609"/>
+      <point x="60" y="609" type="curve"/>
+      <point x="71" y="521" type="line"/>
+      <point x="114" y="521" type="line"/>
+      <point x="128" y="578" type="line"/>
+      <point x="178" y="578"/>
+      <point x="212" y="600"/>
+      <point x="212" y="653" type="curve" smooth="yes"/>
+      <point x="212" y="709"/>
+      <point x="164" y="734"/>
+      <point x="108" y="734" type="curve" smooth="yes"/>
+      <point x="78" y="734"/>
+      <point x="52" y="727"/>
+    </contour>
+    <contour>
+      <point x="-29" y="591" type="line"/>
+      <point x="-29" y="591" type="line"/>
+      <point x="-29" y="653.667"/>
+      <point x="-75" y="682"/>
+      <point x="-155" y="682" type="curve" smooth="yes"/>
+      <point x="-179.667" y="682"/>
+      <point x="-198" y="680"/>
+      <point x="-210" y="676" type="curve"/>
+      <point x="-210" y="624" type="line"/>
+      <point x="-199.333" y="626.667"/>
+      <point x="-179.333" y="628"/>
+      <point x="-162" y="628" type="curve" smooth="yes"/>
+      <point x="-124.667" y="628"/>
+      <point x="-97" y="620"/>
+      <point x="-97" y="588" type="curve" smooth="yes"/>
+      <point x="-97" y="557.333"/>
+      <point x="-128" y="544"/>
+      <point x="-176" y="536" type="curve"/>
+      <point x="-169" y="451" type="line"/>
+      <point x="-115" y="451" type="line"/>
+      <point x="-110" y="504" type="line"/>
+      <point x="-63.333" y="514.667"/>
+      <point x="-29" y="540.333"/>
+      <point x="-29" y="591" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>201</integer>
+    </dict>
+  </lib>
+</glyph>

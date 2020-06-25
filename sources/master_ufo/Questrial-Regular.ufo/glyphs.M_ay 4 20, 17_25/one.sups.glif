@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sups" format="2">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="233" y="448" type="line"/>
+      <point x="308" y="448" type="line"/>
+      <point x="308" y="911" type="line"/>
+      <point x="135" y="911" type="line"/>
+      <point x="135" y="839" type="line"/>
+      <point x="233" y="839" type="line"/>
+    </contour>
+    <component base="one" xScale="0.7" yScale="0.7" xOffset="41" yOffset="449"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=one-80</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=one-80</string>
+    </dict>
+  </lib>
+</glyph>

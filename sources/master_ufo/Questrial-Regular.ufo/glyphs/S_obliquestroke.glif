@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sobliquestroke" format="2">
+  <advance width="615"/>
+  <unicode hex="A7A8"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="308" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="599" y="433" type="line"/>
+      <point x="7" y="325" type="line"/>
+      <point x="7" y="252" type="line"/>
+      <point x="599" y="360" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+</glyph>

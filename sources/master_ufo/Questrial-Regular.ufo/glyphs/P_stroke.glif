@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pstroke" format="2">
+  <advance width="628"/>
+  <unicode hex="2C63"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="314" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="344" y="483" type="line"/>
+      <point x="16" y="483" type="line"/>
+      <point x="16" y="418" type="line"/>
+      <point x="344" y="418" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+</glyph>

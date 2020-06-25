@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow" format="2">
+  <advance width="205"/>
+  <unicode hex="1E3D"/>
+  <anchor x="103" y="-231" name="bottom"/>
+  <anchor x="103" y="350" name="center"/>
+  <anchor x="103" y="700" name="top"/>
+  <anchor x="185" y="499" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="circumflexbelowcomb" xOffset="-38"/>
+  </outline>
+</glyph>

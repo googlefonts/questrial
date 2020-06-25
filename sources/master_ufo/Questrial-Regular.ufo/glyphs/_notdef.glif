@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="662" type="line"/>
+      <point x="33" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="370" type="line"/>
+      <point x="91" y="617" type="line"/>
+      <point x="434" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="104" type="line"/>
+      <point x="78" y="558" type="line"/>
+      <point x="235" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="104" type="line"/>
+      <point x="290" y="331" type="line"/>
+      <point x="448" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="45" type="line"/>
+      <point x="263" y="292" type="line"/>
+      <point x="434" y="45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>33</integer>
+            <integer>45</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>448</integer>
+            <integer>45</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>45</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>617</integer>
+            <integer>45</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

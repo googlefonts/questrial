@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="550"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="231" y="359" type="line"/>
+      <point x="319" y="359" type="line"/>
+      <point x="319" y="452" type="line"/>
+      <point x="231" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="200" type="line"/>
+      <point x="512" y="200" type="line"/>
+      <point x="512" y="269" type="line"/>
+      <point x="38" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="17" type="line"/>
+      <point x="319" y="17" type="line"/>
+      <point x="319" y="110" type="line"/>
+      <point x="231" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>231</integer>
+            <integer>88</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>17</integer>
+            <integer>93</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>200</integer>
+            <integer>69</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>359</integer>
+            <integer>93</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

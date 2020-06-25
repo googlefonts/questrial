@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_t" format="2">
+  <advance width="870"/>
+  <anchor x="574" y="0" name="caret_1"/>
+  <anchor x="272" y="0" name="bottom_1"/>
+  <anchor x="700" y="0" name="bottom_2"/>
+  <anchor x="707" y="250" name="center"/>
+  <anchor x="272" y="500" name="top_1"/>
+  <anchor x="701" y="679" name="top_2"/>
+  <anchor x="850" y="500" name="topright"/>
+  <outline>
+    <component base="c"/>
+    <component base="t" xOffset="544"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

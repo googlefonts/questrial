@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi-latin" format="2">
+  <outline>
+    <contour>
+      <point x="62" y="-198" type="line"/>
+      <point x="157" y="-198" type="line"/>
+      <point x="299" y="87" type="line"/>
+      <point x="440" y="-198" type="line"/>
+      <point x="536" y="-198" type="line"/>
+      <point x="342" y="162" type="line"/>
+      <point x="523" y="500" type="line"/>
+      <point x="427" y="500" type="line"/>
+      <point x="299" y="236" type="line"/>
+      <point x="170" y="500" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="255" y="162" type="line"/>
+    </contour>
+  </outline>
+</glyph>

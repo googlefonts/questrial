@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_h" format="2">
+  <advance width="1131"/>
+  <anchor x="479" y="0" name="caret_1"/>
+  <anchor x="283" y="0" name="bottom_1"/>
+  <anchor x="848" y="0" name="bottom_2"/>
+  <anchor x="283" y="331" name="center_1"/>
+  <anchor x="677" y="574" name="center_2"/>
+  <anchor x="283" y="662" name="top_1"/>
+  <anchor x="667" y="700" name="top_2"/>
+  <outline>
+    <component base="T"/>
+    <component base="h" xOffset="565"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

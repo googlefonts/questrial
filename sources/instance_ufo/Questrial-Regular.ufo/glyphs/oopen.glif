@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopen" format="2">
+  <advance width="544"/>
+  <unicode hex="0254"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="500" name="top"/>
+  <outline>
+    <component base="c" xScale="-1" xOffset="544"/>
+  </outline>
+</glyph>

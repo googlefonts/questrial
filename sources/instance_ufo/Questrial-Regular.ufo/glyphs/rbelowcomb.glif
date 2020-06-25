@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rbelowcomb" format="2">
+  <unicode hex="1DCA"/>
+  <anchor x="-252.9" y="-439.0" name="bottom"/>
+  <anchor x="-203.9" y="-114.0" name="top"/>
+  <outline>
+    <component base="r" xScale="0.7" yScale="0.65" xOffset="-325" yOffset="-439"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>r</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

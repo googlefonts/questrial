@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook" format="2">
+  <advance width="652"/>
+  <unicode hex="01B4"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="249" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="584" y="670" type="curve" smooth="yes"/>
+      <point x="490" y="670"/>
+      <point x="453" y="597"/>
+      <point x="411" y="498" type="curve" smooth="yes"/>
+      <point x="248" y="90" type="line"/>
+      <point x="87" y="500" type="line"/>
+      <point x="4" y="500" type="line"/>
+      <point x="208" y="7" type="line"/>
+      <point x="117" y="-198" type="line"/>
+      <point x="198" y="-198" type="line"/>
+      <point x="494" y="500" type="line" smooth="yes"/>
+      <point x="515" y="549"/>
+      <point x="539" y="596"/>
+      <point x="583" y="596" type="curve" smooth="yes"/>
+      <point x="615" y="596"/>
+      <point x="625" y="571"/>
+      <point x="636" y="537" type="curve"/>
+      <point x="692" y="562" type="line"/>
+      <point x="677" y="641"/>
+      <point x="634" y="670"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>LWTimeline</key>
+      <string>H4sIAAAAAAAAA21Ry2rDMBD8FbFnpVixHpGOTRtaSBtI2uYQQhG2EpvacrCVhmL875Xi9GBT0GF3Zmd2WLVwqHVpGlC7ForLZ2MKX+44Jjja7zGsN/egJkQyDCftsn4uKarGpKBcfTYYbJVe9UBnMaKCouXz6yNgYJFALCZotVjM39cfV8i3TPIB5EUBuvZo87JavT15mBM2nuRTD4mBH4+5XyF6cejlFDE+/UvAhUCcjhQUcRENE/TQKAGV0XiSspBVDCBCEJWzW4J95092yVOXgaJSYEiq8lRZY11/OOtPDQp+vFAX+dGWngEVYXC1ts2hqkvPtgSj6PpuRQfB9tyY+kE7DaqF5fYtD06EyYgwQQm/kzEhMfbMPDPJ16nKg/OY7zB8m9pt+4QT4ufD/9LgX5ukqtPcHkEddNH4jy104+aZtsd/NnW/RL8gIzkCAAA=</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>4</integer>
+            <integer>490</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-198</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>500</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

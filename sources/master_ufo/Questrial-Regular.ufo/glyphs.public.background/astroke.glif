@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="astroke" format="2">
+  <outline>
+    <contour>
+      <point x="154" y="-198" type="line"/>
+      <point x="224" y="-198" type="line"/>
+      <point x="426" y="760" type="line"/>
+      <point x="356" y="760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

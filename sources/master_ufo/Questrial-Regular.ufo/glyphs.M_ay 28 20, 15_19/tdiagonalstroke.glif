@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdiagonalstroke" format="2">
+  <advance width="336"/>
+  <unicode hex="2C66"/>
+  <outline>
+    <contour>
+      <point x="94" y="-112" type="line"/>
+      <point x="164" y="-112" type="line"/>
+      <point x="358" y="621" type="line"/>
+      <point x="288" y="621" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+</glyph>

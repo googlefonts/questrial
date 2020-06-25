@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrossedtail" format="2">
+  <outline>
+    <contour>
+      <point x="-557" y="27" type="curve"/>
+      <point x="-557" y="-28" type="line"/>
+      <point x="-432" y="-28"/>
+      <point x="-356" y="-58"/>
+      <point x="-356" y="-157" type="curve"/>
+      <point x="-307" y="-157" type="line"/>
+      <point x="-307" y="-39"/>
+      <point x="-385" y="27"/>
+    </contour>
+  </outline>
+</glyph>

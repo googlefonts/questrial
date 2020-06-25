@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nlongrightleg" format="2">
+  <outline>
+    <contour>
+      <point x="81" y="216" type="line"/>
+      <point x="156" y="216" type="line"/>
+      <point x="156" y="466" type="line" smooth="yes"/>
+      <point x="156" y="555"/>
+      <point x="245" y="602"/>
+      <point x="332" y="602" type="curve" smooth="yes"/>
+      <point x="417" y="602"/>
+      <point x="501" y="558"/>
+      <point x="501" y="467" type="curve" smooth="yes"/>
+      <point x="501" y="216" type="line"/>
+      <point x="576" y="216" type="line"/>
+      <point x="576" y="469" type="line" smooth="yes"/>
+      <point x="576" y="599"/>
+      <point x="468" y="671"/>
+      <point x="350" y="671" type="curve" smooth="yes"/>
+      <point x="283" y="671"/>
+      <point x="212" y="648"/>
+      <point x="156" y="600" type="curve"/>
+      <point x="156" y="878" type="line"/>
+      <point x="81" y="878" type="line"/>
+    </contour>
+  </outline>
+</glyph>

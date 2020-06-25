@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sups" format="2">
+  <outline>
+    <contour>
+      <point x="69" y="577" type="move"/>
+      <point x="215" y="782" type="line"/>
+    </contour>
+  </outline>
+</glyph>

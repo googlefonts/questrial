@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcrossedtail" format="2">
+  <advance width="464"/>
+  <unicode hex="A7B2"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="350" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="373" y="275" type="curve"/>
+      <point x="371" y="205" type="line"/>
+      <point x="416" y="188"/>
+      <point x="450" y="164"/>
+      <point x="478" y="139" type="curve"/>
+      <point x="478" y="216" type="line"/>
+      <point x="450" y="241"/>
+      <point x="415" y="261"/>
+    </contour>
+    <contour>
+      <point x="389" y="214" type="curve" smooth="yes"/>
+      <point x="389" y="253" type="line"/>
+      <point x="389" y="662" type="line"/>
+      <point x="314" y="662" type="line"/>
+      <point x="314" y="273" type="line"/>
+      <point x="314" y="236" type="line" smooth="yes"/>
+      <point x="316" y="167"/>
+      <point x="306" y="65"/>
+      <point x="187" y="65" type="curve" smooth="yes"/>
+      <point x="125" y="65"/>
+      <point x="90" y="109"/>
+      <point x="90" y="147" type="curve" smooth="yes"/>
+      <point x="90" y="200"/>
+      <point x="137" y="231"/>
+      <point x="216" y="231" type="curve" smooth="yes"/>
+      <point x="259" y="231"/>
+      <point x="295" y="227"/>
+      <point x="328" y="219" type="curve"/>
+      <point x="328" y="287" type="line"/>
+      <point x="296" y="292"/>
+      <point x="258" y="296"/>
+      <point x="217" y="296" type="curve"/>
+      <point x="217" y="296"/>
+      <point x="217" y="296"/>
+      <point x="216" y="296" type="curve" smooth="yes"/>
+      <point x="215" y="296" type="line" smooth="yes"/>
+      <point x="81" y="295"/>
+      <point x="15" y="236"/>
+      <point x="15" y="147" type="curve" smooth="yes"/>
+      <point x="15" y="71"/>
+      <point x="73" y="-8"/>
+      <point x="183" y="-8" type="curve" smooth="yes"/>
+      <point x="331" y="-8"/>
+      <point x="387" y="99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=J</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>377</integer>
+            <integer>75</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-8</integer>
+            <integer>73</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>662</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

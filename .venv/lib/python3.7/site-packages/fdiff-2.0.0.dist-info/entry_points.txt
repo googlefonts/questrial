@@ -1,0 +1,3 @@
+[console_scripts]
+fdiff = fdiff.__main__:main
+

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke.dotless" format="2">
+  <advance width="205"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="149" y="0" name="ogonek"/>
+  <anchor x="103" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="218" type="line"/>
+      <point x="205" y="218" type="line"/>
+      <point x="205" y="283" type="line"/>
+      <point x="0" y="283" type="line"/>
+    </contour>
+    <component base="idotless"/>
+  </outline>
+</glyph>

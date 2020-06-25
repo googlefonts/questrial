@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kstroke" format="2">
+  <advance width="502"/>
+  <unicode hex="A741"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="105" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="255" y="623" type="line"/>
+      <point x="8" y="623" type="line"/>
+      <point x="8" y="558" type="line"/>
+      <point x="255" y="558" type="line"/>
+    </contour>
+    <component base="k"/>
+  </outline>
+</glyph>

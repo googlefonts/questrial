@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute.sc" format="2">
+  <advance width="569"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="321" y="683" name="top"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="acutecomb.case" xOffset="240" yOffset="-116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
