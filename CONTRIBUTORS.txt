@@ -8,4 +8,5 @@
 #
 # Names should be added to this file as:
 # Laura Meseguer <mail@laurameseguer.com>>
+# Denis Jacquerye <moyogo@gmail.com>
 
