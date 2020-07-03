@@ -2,7 +2,11 @@
 .appVersion = "1286";
 DisplayStrings = (
 "/Yhook/Bhook \012\012/Khook T /Khook W /Khook Y /Yhook T /Yhook Y\012/yhook/bhook  /yhook i /yhook k /whook i\012\012/Khook ASAR MI/Khook E /Khook HIYINNA YA/Khook I NJA/Khook/Khook A BA/Khook NAS RO/Khook O ZI/Khook TIYA DUR/Khook USHE /Khook WALAI /Khook YI GAA/Yhook -AT\012/Yhook II/Yhook AM /Yhook O/Yhook/Bhook E KA/Yhook CO TA/Yhook DE /Bhook OO/Yhook E TAA/Yhook GUWO/Eng  GU/Yhook II/Bhook E KA/Yhook KO KA/Yhook NI MO/Yhook/Yhook O DEE/Yhook RE WE/Yhook TU FE/Yhook/Yhook U/Dhook O MO/Yhook YERE\012/Whook AGA /Whook ELE /Whook/Eopen/Oopen  /Whook I/Schwa  /Whook/Iotaafrican/Iotaafrican RE /Whook/Oopen  /Whook/Vhook A\012/khook asar mi/khook e /khook hiyinna ya/khook i nja/khook/khook a ba/khook nas ro/khook o Zi/khook tiya dur/khook ushe /khook walai /khook yi Gaa/yhook -at\012/yhook ii/yhook am /yhook o/yhook/bhook e ka/yhook co ta/yhook de /bhook oo/yhook e taa/yhook guwo/eng  Gu/yhook ii/bhook e ka/yhook ko ka/yhook ni Mo/yhook/yhook o dee/yhook re we/yhook tu fe/yhook/yhook u/dhook o mo/yhook yere\012/whook aga /whook ele /whook/eopen/oopen  /whook i/schwa  /whook/iota-latin/iota-latin re /whook/oopen  /whook/vhook a\012/Khook a /Khook e /Khook h /Khook i /Khook/khook  /Khook o /Khook u /Khook w /Khook y\012/Yhook a /Yhook e /Yhook i /Yhook o /Yhook u /Yhook y\012/Whook a /Whook e /Whook/eopen  /Whook i /Whook/iota-latin  /Whook/oopen  /Whook/vhook",
-"/Upsilonafrican/Schwa/Vhook/eopen/omega-latin/upsilon-latin E/Estroke/estroke I/Istroke ii/idotless/istroke.dotless/istroke/idotless i/vhook/glottalstop/glottalstopreversed/iota-latin"
+"/Upsilonafrican/Schwa/Vhook/eopen/omega-latin/upsilon-latin E/Estroke/estroke I/Istroke ii/idotless/istroke.dotless/istroke/idotless i/vhook/glottalstop/glottalstopreversed/iota-latin",
+"/fi/fl/f_j",
+"/f_f",
+"/f_f_i",
+"/f_f_l"
 );
 classes = (
 {
@@ -13863,7 +13867,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f;
-lastChange = "2020-06-18 21:39:13 +0000";
+lastChange = "2020-07-03 12:54:40 +0000";
 layers = (
 {
 anchors = (
@@ -13947,10 +13951,11 @@ width = 604;
 );
 leftKerningGroup = f;
 rightKerningGroup = f;
+unicode = FB00;
 },
 {
 glyphname = f_f_i;
-lastChange = "2020-06-18 21:39:20 +0000";
+lastChange = "2020-07-03 12:55:04 +0000";
 layers = (
 {
 anchors = (
@@ -14062,10 +14067,11 @@ width = 793;
 );
 leftKerningGroup = f;
 rightKerningGroup = i;
+unicode = FB03;
 },
 {
 glyphname = f_f_l;
-lastChange = "2020-06-18 21:39:30 +0000";
+lastChange = "2020-07-03 12:55:10 +0000";
 layers = (
 {
 anchors = (
@@ -14166,6 +14172,7 @@ width = 793;
 );
 leftKerningGroup = f;
 rightKerningGroup = l;
+unicode = FB04;
 },
 {
 glyphname = exclam;
