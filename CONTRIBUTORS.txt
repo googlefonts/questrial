@@ -7,5 +7,7 @@
 # name or J's organization's name should be added to AUTHORS.txt
 #
 # Names should be added to this file as:
-# Name <email address>
+# Firstname Lastname <email@domain.com>
 
+Laura Meseguer <mail@laurameseguer.com>
+Denis Jacquerye <moyogo@gmail.com>
