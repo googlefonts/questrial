@@ -5,4 +5,8 @@
 # font editor temporary files
 *(Autosaved).glyphs
 *.vfbak
+<<<<<<< HEAD
 venv
+=======
+.venv
+>>>>>>> 35c9ddf877c7ed839191ae148aa2038b941ae1a3
