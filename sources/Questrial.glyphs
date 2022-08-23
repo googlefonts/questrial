@@ -37629,6 +37629,24 @@ source = B;
 };
 },
 {
+glyphname = bmacronbelow.sc;
+layers = (
+{
+components = (
+{
+name = b.sc;
+},
+{
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 141, 0}";
+}
+);
+layerId = UUID0;
+width = 545;
+}
+);
+},
+{
 color = 3;
 glyphname = c.sc;
 layers = (
@@ -38026,8 +38044,8 @@ components = (
 name = d.sc;
 },
 {
-name = llinebelowcomb;
-transform = "{1, 0, 0, 1, 141, 0}";
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 layerId = UUID0;
@@ -39761,6 +39779,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = k.sc;
 },
 {
+glyphname = kmacronbelow.sc;
+layers = (
+{
+components = (
+{
+name = k.sc;
+},
+{
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 132, 0}";
+}
+);
+layerId = UUID0;
+width = 539;
+}
+);
+},
+{
 color = 3;
 glyphname = l.sc;
 layers = (
@@ -39972,7 +40008,8 @@ components = (
 name = l.sc;
 },
 {
-name = llinebelowcomb;
+alignment = -1;
+name = macronbelowcomb;
 transform = "{1, 0, 0, 1, 129, 0}";
 }
 );
@@ -40331,8 +40368,8 @@ components = (
 name = n.sc;
 },
 {
-name = llinebelowcomb;
-transform = "{1, 0, 0, 1, 194, 0}";
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 169, 0}";
 }
 );
 layerId = UUID0;
@@ -41899,8 +41936,8 @@ components = (
 name = r.sc;
 },
 {
-name = llinebelowcomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = UUID0;
@@ -42526,8 +42563,8 @@ components = (
 name = t.sc;
 },
 {
-name = llinebelowcomb;
-transform = "{1, 0, 0, 1, 126, 0}";
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = UUID0;
@@ -43870,6 +43907,24 @@ width = 482;
 );
 leftKerningGroup = z.sc;
 rightKerningGroup = z.sc;
+},
+{
+glyphname = zmacronbelow.sc;
+layers = (
+{
+components = (
+{
+name = z.sc;
+},
+{
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 108, 0}";
+}
+);
+layerId = UUID0;
+width = 482;
+}
+);
 },
 {
 glyphname = clickalveolar;
@@ -54046,26 +54101,6 @@ nodes = (
 }
 );
 width = 368;
-}
-);
-},
-{
-glyphname = llinebelowcomb;
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{107, 0}";
-}
-);
-components = (
-{
-name = llinebelow;
-}
-);
-layerId = UUID0;
-width = 205;
 }
 );
 },
