@@ -17236,6 +17236,24 @@ unicode = 0190;
 glyphname = Ereversed;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{303, 0}";
+},
+{
+name = ogonek;
+position = "{537, 2}";
+},
+{
+name = top;
+position = "{293, 662}";
+},
+{
+name = topleft;
+position = "{-21, 662}";
+}
+);
 components = (
 {
 name = E;
@@ -20551,7 +20569,7 @@ width = 865;
 anchors = (
 {
 name = bottom;
-position = "{450, 162}";
+position = "{450, 0}";
 },
 {
 name = top;
@@ -25139,6 +25157,16 @@ unicode = 1E7C;
 glyphname = Vturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = top;
+position = "{314, 662}";
+}
+);
 components = (
 {
 name = V;
@@ -28693,6 +28721,20 @@ unicode = 1E1B;
 glyphname = eturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{279, 0}";
+},
+{
+name = ogonek;
+position = "{344, 0}";
+},
+{
+name = top;
+position = "{279, 500}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29951,6 +29993,20 @@ unicode = 0266;
 glyphname = hturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{283, -198}";
+},
+{
+name = ogonek;
+position = "{491, -198}";
+},
+{
+name = top;
+position = "{283, 500}";
+}
+);
 components = (
 {
 name = h;
@@ -32243,6 +32299,16 @@ unicode = 1E43;
 glyphname = mturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{434, 0}";
+},
+{
+name = top;
+position = "{434, 500}";
+}
+);
 components = (
 {
 name = m;
@@ -36005,6 +36071,16 @@ unicode = 1E7D;
 glyphname = vturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{245, 0}";
+},
+{
+name = top;
+position = "{245, 500}";
+}
+);
 components = (
 {
 name = v;
@@ -38900,6 +38976,40 @@ width = 502;
 );
 },
 {
+glyphname = eturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{237, 0}";
+},
+{
+name = ogonek;
+position = "{446, 0}";
+},
+{
+name = top;
+position = "{232, 546}";
+},
+{
+name = topleft;
+position = "{-10, 546}";
+}
+);
+components = (
+{
+alignment = -1;
+name = e.sc;
+transform = "{-1, 0, 0, 1, 502, 0}";
+}
+);
+layerId = UUID0;
+width = 502;
+}
+);
+},
+{
 color = 3;
 glyphname = schwa.sc;
 layers = (
@@ -39708,6 +39818,60 @@ width = 573;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = hturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{291, 0}";
+},
+{
+name = center;
+position = "{291, 413}";
+},
+{
+name = top;
+position = "{291, 546}";
+},
+{
+name = topleft;
+position = "{-23, 546}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"448 546 LINE",
+"448 356 LINE SMOOTH",
+"448 266 OFFCURVE",
+"367 224 OFFCURVE",
+"287 224 CURVE SMOOTH",
+"210 224 OFFCURVE",
+"133 264 OFFCURVE",
+"133 355 CURVE SMOOTH",
+"133 546 LINE",
+"58 546 LINE",
+"58 353 LINE SMOOTH",
+"58 223 OFFCURVE",
+"166 151 OFFCURVE",
+"271 151 CURVE SMOOTH",
+"332 151 OFFCURVE",
+"397 174 OFFCURVE",
+"448 222 CURVE",
+"448 0 LINE",
+"523 0 LINE",
+"523 546 LINE"
+);
+}
+);
+width = 586;
+}
+);
 },
 {
 color = 3;
@@ -40821,6 +40985,103 @@ width = 660;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = mturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{437, 0}";
+},
+{
+name = top;
+position = "{437, 546}";
+}
+);
+guideLines = (
+{
+position = "{589, 546}";
+}
+);
+hints = (
+{
+place = "{803, -75}";
+type = Stem;
+},
+{
+place = "{469, -75}";
+type = Stem;
+},
+{
+place = "{135, -75}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{500, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{60, -68}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"741 546 LINE",
+"741 220 LINE SMOOTH",
+"741 123 OFFCURVE",
+"678 65 OFFCURVE",
+"602 65 CURVE SMOOTH",
+"531 65 OFFCURVE",
+"475 127 OFFCURVE",
+"475 219 CURVE SMOOTH",
+"475 546 LINE",
+"400 546 LINE",
+"400 220 LINE SMOOTH",
+"400 123 OFFCURVE",
+"337 65 OFFCURVE",
+"261 65 CURVE SMOOTH",
+"189 65 OFFCURVE",
+"133 127 OFFCURVE",
+"133 219 CURVE SMOOTH",
+"133 546 LINE",
+"58 546 LINE",
+"58 217 LINE SMOOTH",
+"58 79 OFFCURVE",
+"148 -8 OFFCURVE",
+"247 -8 CURVE SMOOTH",
+"348 -8 OFFCURVE",
+"402 65 OFFCURVE",
+"422 102 CURVE",
+"455 32 OFFCURVE",
+"518 -8 OFFCURVE",
+"585 -8 CURVE SMOOTH",
+"668 -8 OFFCURVE",
+"718 40 OFFCURVE",
+"741 84 CURVE",
+"741 1 LINE",
+"816 1 LINE",
+"816 546 LINE"
+);
+}
+);
+width = 879;
+}
+);
 },
 {
 color = 3;
@@ -44325,6 +44586,32 @@ name = v.sc;
 {
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 218, 0}";
+}
+);
+layerId = UUID0;
+width = 524;
+}
+);
+},
+{
+glyphname = vturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{262, 0}";
+},
+{
+name = top;
+position = "{262, 546}";
+}
+);
+components = (
+{
+alignment = -1;
+name = v.sc;
+transform = "{-1, 0, 0, -1, 524, 546}";
 }
 );
 layerId = UUID0;
