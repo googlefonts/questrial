@@ -37206,6 +37206,28 @@ leftKerningGroup = a.sc;
 rightKerningGroup = a.sc;
 },
 {
+glyphname = adieresismacron.sc;
+layers = (
+{
+components = (
+{
+name = a.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 153, 46}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 146, 174}";
+}
+);
+layerId = UUID0;
+width = 551;
+}
+);
+},
+{
 glyphname = adotaccent.sc;
 layers = (
 {
@@ -39516,6 +39538,24 @@ width = 573;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = hdieresis.sc;
+layers = (
+{
+components = (
+{
+name = h.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 165, 46}";
+}
+);
+layerId = UUID0;
+width = 573;
+}
+);
 },
 {
 glyphname = hdotaccent.sc;
@@ -43436,6 +43476,28 @@ leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
 },
 {
+glyphname = udieresisacute.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 169, 46}";
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 240, 174}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
 glyphname = udieresisbelow.sc;
 layers = (
 {
@@ -43468,6 +43530,50 @@ transform = "{1, 0, 0, 1, 169, 46}";
 {
 name = caroncomb;
 transform = "{1, 0, 0, 1, 153, 174}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
+glyphname = udieresisgrave.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 169, 46}";
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 210, 174}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
+glyphname = udieresismacron.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 169, 46}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 162, 174}";
 }
 );
 layerId = UUID0;
@@ -44271,6 +44377,24 @@ RMXScaler = {
 source = X;
 };
 };
+},
+{
+glyphname = xdieresis.sc;
+layers = (
+{
+components = (
+{
+name = x.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 141, 46}";
+}
+);
+layerId = UUID0;
+width = 525;
+}
+);
 },
 {
 glyphname = xdotaccent.sc;
