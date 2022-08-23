@@ -44851,6 +44851,24 @@ leftKerningGroup = z.sc;
 rightKerningGroup = z.sc;
 },
 {
+glyphname = zcircumflex.sc;
+layers = (
+{
+components = (
+{
+name = z.sc;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 109, 46}";
+}
+);
+layerId = UUID0;
+width = 482;
+}
+);
+},
+{
 color = 3;
 glyphname = zdotaccent.sc;
 layers = (
