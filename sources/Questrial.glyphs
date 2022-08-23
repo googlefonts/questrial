@@ -55819,7 +55819,7 @@ width = 329;
 unicode = A7AE;
 },
 {
-glyphname = uniA7B8;
+glyphname = Udiagonalstroke;
 layers = (
 {
 anchors = (
@@ -55901,7 +55901,7 @@ rightKerningGroup = U;
 unicode = A7B8;
 },
 {
-glyphname = uniA7B9;
+glyphname = udiagonalstroke;
 layers = (
 {
 anchors = (
