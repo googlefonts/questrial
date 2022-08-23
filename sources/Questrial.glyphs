@@ -39269,6 +39269,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
 },
 {
+glyphname = iacute.sc;
+layers = (
+{
+components = (
+{
+name = i.sc;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 49, 46}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
+},
+{
 color = 3;
 glyphname = ibreve.sc;
 layers = (
