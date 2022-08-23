@@ -40974,6 +40974,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
 },
 {
+glyphname = ngrave.sc;
+layers = (
+{
+components = (
+{
+name = n.sc;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 217, 46}";
+}
+);
+layerId = UUID0;
+width = 602;
+}
+);
+},
+{
 color = 3;
 glyphname = nj.sc;
 layers = (
