@@ -37247,6 +37247,71 @@ rightKerningGroup = t;
 rightMetricsKey = t;
 },
 {
+glyphname = Ismall.sc;
+layers = (
+{
+background = {
+components = (
+{
+name = idotless;
+transform = "{1.09192, 0, 0, 1.09192, 48, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"272 474 LINE",
+"272 546 LINE",
+"48 546 LINE",
+"48 474 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"272 0 LINE",
+"272 72 LINE",
+"48 72 LINE",
+"48 0 LINE"
+);
+}
+);
+};
+components = (
+{
+name = i.sc;
+transform = "{1, 0, 0, 1, 57, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"65 64 LINE",
+"65 0 LINE",
+"254 0 LINE",
+"254 64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"65 545 LINE",
+"65 481 LINE",
+"254 481 LINE",
+"254 545 LINE"
+);
+}
+);
+width = 319;
+}
+);
+leftMetricsKey = i.sc;
+rightMetricsKey = i.sc;
+},
+{
 color = 3;
 glyphname = a.sc;
 layers = (
@@ -41519,6 +41584,55 @@ width = 205;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = "iota-latin.sc";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{107, 0}";
+},
+{
+name = top;
+position = "{107, 546}";
+}
+);
+background = {
+components = (
+{
+name = j.sc;
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"187 68 OFFCURVE",
+"140 109 OFFCURVE",
+"140 211 CURVE SMOOTH",
+"140 546 LINE",
+"65 546 LINE",
+"65 187 LINE SMOOTH",
+"65 63 OFFCURVE",
+"143 -6 OFFCURVE",
+"255 -6 CURVE SMOOTH",
+"274 -6 OFFCURVE",
+"294 -5 OFFCURVE",
+"315 -1 CURVE",
+"315 73 LINE",
+"298 69 OFFCURVE",
+"281 68 OFFCURVE",
+"265 68 CURVE SMOOTH"
+);
+}
+);
+width = 325;
+}
+);
 },
 {
 glyphname = istroke.sc;
