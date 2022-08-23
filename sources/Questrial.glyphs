@@ -38149,6 +38149,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = o.sc;
 },
 {
+glyphname = dcedilla.sc;
+layers = (
+{
+components = (
+{
+name = d.sc;
+},
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 167, 0}";
+}
+);
+layerId = UUID0;
+width = 578;
+}
+);
+},
+{
 glyphname = dcircumflexbelow.sc;
 layers = (
 {
@@ -38411,6 +38429,24 @@ width = 502;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = e.sc;
+},
+{
+glyphname = ecedilla.sc;
+layers = (
+{
+components = (
+{
+name = e.sc;
+},
+{
+name = cedillacomb;
+transform = "{1, 0, 0, 1, 154, 0}";
+}
+);
+layerId = UUID0;
+width = 502;
+}
+);
 },
 {
 color = 3;
@@ -39569,6 +39605,25 @@ name = h.sc;
 {
 name = caroncomb;
 transform = "{1, 0, 0, 1, 146, 46}";
+}
+);
+layerId = UUID0;
+width = 573;
+}
+);
+},
+{
+glyphname = hcedilla.sc;
+layers = (
+{
+components = (
+{
+name = h.sc;
+},
+{
+alignment = -1;
+name = cedillacomb;
+transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = UUID0;
