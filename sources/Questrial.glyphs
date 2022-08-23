@@ -43776,6 +43776,24 @@ leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
 },
 {
+glyphname = uhookabove.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 208, 65}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
 color = 3;
 glyphname = uhorn.sc;
 layers = (
