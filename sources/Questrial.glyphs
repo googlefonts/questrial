@@ -21351,6 +21351,304 @@ rightMetricsKey = N;
 unicode = 014A;
 },
 {
+color = 0;
+glyphname = Eng.alt;
+layers = (
+{
+associatedMasterId = UUID0;
+components = (
+{
+name = N;
+},
+{
+alignment = -1;
+name = J;
+transform = "{1, 0, 0, 1, 200, -198}";
+}
+);
+layerId = "3286E5A1-B8BC-42CD-BA5F-D495C2355846";
+name = "Jun 2 20, 08:57";
+width = 733;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{375, 0}";
+},
+{
+name = top;
+position = "{375, 660}";
+}
+);
+associatedMasterId = UUID0;
+components = (
+{
+alignment = -1;
+name = J;
+transform = "{1, 0, 0, 1, 162, -198}";
+}
+);
+hints = (
+{
+place = "{94.788, 98.986}";
+type = Stem;
+},
+{
+place = "{577.841, 98.986}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{659.908, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{580.719, 89.748}";
+type = Stem;
+}
+);
+layerId = "E31904F5-93F4-419E-8356-BA3FD2D5FCA1";
+name = "Jun 2 20, 09:02";
+paths = (
+{
+closed = 1;
+nodes = (
+"156 660 LINE",
+"81 660 LINE",
+"81 0 LINE",
+"156 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"156 380 LINE",
+"156 511 OFFCURVE",
+"246 601 OFFCURVE",
+"355 601 CURVE SMOOTH",
+"463 601 OFFCURVE",
+"540 514 OFFCURVE",
+"540 381 CURVE SMOOTH",
+"540 0 LINE",
+"615 0 LINE",
+"615 384 LINE SMOOTH",
+"615 571 OFFCURVE",
+"496 670 OFFCURVE",
+"375 670 CURVE SMOOTH",
+"261 670 OFFCURVE",
+"195 614 OFFCURVE",
+"147 545 CURVE"
+);
+}
+);
+width = 725;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{375, 0}";
+},
+{
+name = top;
+position = "{375, 660}";
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = "{94.788, 98.986}";
+type = Stem;
+},
+{
+place = "{577.841, 98.986}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{659.908, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{580.719, 89.748}";
+type = Stem;
+},
+{
+place = "{502, 75}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-206, 73}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{464, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = "10728325-3AC3-4C81-97E7-85C28A5E9497";
+name = "Jun 2 20, 09:12";
+paths = (
+{
+closed = 1;
+nodes = (
+"156 0 LINE",
+"156 452 LINE SMOOTH",
+"156 550 OFFCURVE",
+"241 598 OFFCURVE",
+"327 598 CURVE SMOOTH",
+"414 598 OFFCURVE",
+"502 561 OFFCURVE",
+"502 450 CURVE SMOOTH",
+"502 170 LINE",
+"577 170 LINE",
+"577 452 LINE SMOOTH",
+"577 604 OFFCURVE",
+"464 671 OFFCURVE",
+"347 671 CURVE SMOOTH",
+"277 671 OFFCURVE",
+"204 643 OFFCURVE",
+"156 583 CURVE",
+"156 661 LINE",
+"81 661 LINE",
+"81 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"531 -15 OFFCURVE",
+"577 79 OFFCURVE",
+"577 175 CURVE SMOOTH",
+"577 464 LINE",
+"502 464 LINE",
+"502 178 LINE SMOOTH",
+"502 127 OFFCURVE",
+"490 58 OFFCURVE",
+"399 58 CURVE SMOOTH",
+"336 58 OFFCURVE",
+"304 107 OFFCURVE",
+"298 150 CURVE",
+"220 150 LINE",
+"227 70 OFFCURVE",
+"286 -15 OFFCURVE",
+"399 -15 CURVE SMOOTH"
+);
+}
+);
+width = 658;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{367, -198}";
+},
+{
+name = top;
+position = "{367, 662}";
+}
+);
+components = (
+{
+name = N;
+}
+);
+hints = (
+{
+place = "{94.788, 98.986}";
+type = Stem;
+},
+{
+place = "{577.841, 98.986}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = "{659.908, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{580.719, 89.748}";
+type = Stem;
+},
+{
+place = "{502, 75}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-206, 73}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{464, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"607 -206 OFFCURVE",
+"652 -111 OFFCURVE",
+"652 -16 CURVE SMOOTH",
+"652 464 LINE",
+"577 464 LINE",
+"577 -13 LINE SMOOTH",
+"577 -64 OFFCURVE",
+"565 -133 OFFCURVE",
+"474 -133 CURVE SMOOTH",
+"411 -133 OFFCURVE",
+"379 -84 OFFCURVE",
+"373 -41 CURVE",
+"295 -41 LINE",
+"302 -121 OFFCURVE",
+"361 -206 OFFCURVE",
+"474 -206 CURVE SMOOTH"
+);
+}
+);
+width = 733;
+}
+);
+leftKerningGroup = I;
+leftMetricsKey = N;
+rightKerningGroup = I;
+rightMetricsKey = N;
+},
+{
 glyphname = OU;
 layers = (
 {
