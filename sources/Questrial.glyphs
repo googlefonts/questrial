@@ -3,7 +3,7 @@
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Oslashacute Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Ydieresis Omega Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresismacron Adotaccent Adotbelow Adotmacron Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aringacute Aringbelow Astroke AEacute AEmacron Bdotaccent Bdotbelow Beta-latin Bhook Blinebelow Bstroke Cacute Ccaron Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke DZcaron Dafrican Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dlinebelow Dzcaron Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotaccent Edotbelow Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Ereversed Esh Estroke Etilde Etildebelow Ezh Ezhcaron Ezhreversed Fdotaccent Fhook Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstop Gmacron Gstroke Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned Ibreve Icaron Idblgrave Idieresisacute Idotaccent Idotbelow Ihookabove Iinvertedbreve Imacron Iogonek Iotaafrican Istroke Itilde Itildebelow Jcircumflex Jcrossedtail Jstroke Kacute Kcaron Kcommaaccent Kdotbelow Khook Klinebelow Kstroke LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Llinebelow Lmiddletilde Lslash Macute Mdotaccent Mdotbelow Mturned NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Eng Nhookleft Nj Nlinebelow Nlongrightleg OU Obreve Ocaron Ocenteredtilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Otildeacute Otildedieresis Otildemacron Pacute Pdotaccent Phook Pstroke Qhooktail Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rlinebelow Rstroke Rtail Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke Schwa Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tlinebelow Tretroflexhook Ubar Ubreve Ucaron Ucircumflexbelow Udblgrave Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilonafrican Uring Utilde Utildeacute Utildebelow Gammaafrican Vdotbelow Vhook Vtilde Vturned Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook Xdieresis Xdotaccent Ycircumflex Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zlinebelow Zstroke";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Oslashacute Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Ydieresis Omega Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresismacron Adotaccent Adotbelow Adotmacron Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aringacute Aringbelow Astroke AEacute AEmacron Bdotaccent Bdotbelow Beta-latin Bhook Bmacronbelow Bstroke Cacute Ccaron Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke DZcaron Dafrican Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dmacronbelow Dzcaron Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotaccent Edotbelow Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Ereversed Esh Estroke Etilde Etildebelow Ezh Ezhcaron Ezhreversed Fdotaccent Fhook Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstop Gmacron Gstroke Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned Ibreve Icaron Idblgrave Idieresisacute Idotaccent Idotbelow Ihookabove Iinvertedbreve Imacron Iogonek Iotaafrican Istroke Itilde Itildebelow Jcircumflex Jcrossedtail Jstroke Kacute Kcaron Kcommaaccent Kdotbelow Khook Kmacronbelow Kstroke LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Lmacronbelow Lmiddletilde Lslash Macute Mdotaccent Mdotbelow Mturned NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Eng Nhookleft Nj Nmacronbelow Nlongrightleg OU Obreve Ocaron Ocenteredtilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Otildeacute Otildedieresis Otildemacron Pacute Pdotaccent Phook Pstroke Qhooktail Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke Schwa Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tmacronbelow Tretroflexhook Ubar Ubreve Ucaron Ucircumflexbelow Udblgrave Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilonafrican Uring Utilde Utildeacute Utildebelow Gammaafrican Vdotbelow Vhook Vtilde Vturned Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook Xdieresis Xdotaccent Ycircumflex Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zmacronbelow Zstroke";
 name = Uppercase;
 }
 );
@@ -920,7 +920,7 @@ sub cdotaccent by cdotaccent.sc;
 sub dcaron by dcaron.sc;
 sub dcroat by dcroat.sc;
 sub ddotbelow by ddotbelow.sc;
-sub dlinebelow by dlinebelow.sc;
+sub dmacronbelow by dmacronbelow.sc;
 sub dzcaron by dzcaron.sc;
 sub ebreve by ebreve.sc;
 sub ecaron by ecaron.sc;
@@ -971,7 +971,7 @@ sub lcommaaccent by lcommaaccent.sc;
 sub ldot by ldot.sc;
 sub ldotbelow by ldotbelow.sc;
 sub lj by lj.sc;
-sub llinebelow by llinebelow.sc;
+sub lmacronbelow by lmacronbelow.sc;
 sub lslash by lslash.sc;
 sub mdotbelow by mdotbelow.sc;
 sub nacute by nacute.sc;
@@ -980,7 +980,7 @@ sub ncommaaccent by ncommaaccent.sc;
 sub ndotaccent by ndotaccent.sc;
 sub ndotbelow by ndotbelow.sc;
 sub nj by nj.sc;
-sub nlinebelow by nlinebelow.sc;
+sub nmacronbelow by nmacronbelow.sc;
 sub eng by eng.sc;
 sub obreve by obreve.sc;
 sub ocircumflexacute by ocircumflexacute.sc;
@@ -1014,7 +1014,7 @@ sub rcommaaccent by rcommaaccent.sc;
 sub rdblgrave by rdblgrave.sc;
 sub rdotbelow by rdotbelow.sc;
 sub rinvertedbreve by rinvertedbreve.sc;
-sub rlinebelow by rlinebelow.sc;
+sub rmacronbelow by rmacronbelow.sc;
 sub sacute by sacute.sc;
 sub sacutedotaccent by sacutedotaccent.sc;
 sub scaron by scaron.sc;
@@ -1031,7 +1031,7 @@ sub tcedilla by tcedilla.sc;
 sub tcommaaccent by tcommaaccent.sc;
 sub tdieresis by tdieresis.sc;
 sub tdotbelow by tdotbelow.sc;
-sub tlinebelow by tlinebelow.sc;
+sub tmacronbelow by tmacronbelow.sc;
 sub ubreve by ubreve.sc;
 sub udblgrave by udblgrave.sc;
 sub udotbelow by udotbelow.sc;
@@ -15717,7 +15717,7 @@ rightKerningGroup = B;
 unicode = 0181;
 },
 {
-glyphname = Blinebelow;
+glyphname = Bmacronbelow;
 layers = (
 {
 components = (
@@ -16576,7 +16576,7 @@ rightKerningGroup = O;
 unicode = 018A;
 },
 {
-glyphname = Dlinebelow;
+glyphname = Dmacronbelow;
 layers = (
 {
 components = (
@@ -19856,7 +19856,7 @@ rightKerningGroup = Khook;
 unicode = 0198;
 },
 {
-glyphname = Klinebelow;
+glyphname = Kmacronbelow;
 layers = (
 {
 components = (
@@ -20278,7 +20278,7 @@ rightKerningGroup = i;
 unicode = 01C8;
 },
 {
-glyphname = Llinebelow;
+glyphname = Lmacronbelow;
 layers = (
 {
 components = (
@@ -20985,7 +20985,7 @@ rightKerningGroup = i;
 unicode = 01CB;
 },
 {
-glyphname = Nlinebelow;
+glyphname = Nmacronbelow;
 layers = (
 {
 components = (
@@ -23058,7 +23058,7 @@ rightKerningGroup = R;
 unicode = 0212;
 },
 {
-glyphname = Rlinebelow;
+glyphname = Rmacronbelow;
 layers = (
 {
 components = (
@@ -23880,7 +23880,7 @@ rightKerningGroup = T;
 unicode = 01AC;
 },
 {
-glyphname = Tlinebelow;
+glyphname = Tmacronbelow;
 layers = (
 {
 components = (
@@ -25976,7 +25976,7 @@ rightKerningGroup = Z;
 unicode = 1E92;
 },
 {
-glyphname = Zlinebelow;
+glyphname = Zmacronbelow;
 layers = (
 {
 components = (
@@ -27092,7 +27092,7 @@ rightKerningGroup = O;
 unicode = 0298;
 },
 {
-glyphname = blinebelow;
+glyphname = bmacronbelow;
 layers = (
 {
 components = (
@@ -27795,7 +27795,7 @@ rightKerningGroup = l;
 unicode = 0257;
 },
 {
-glyphname = dlinebelow;
+glyphname = dmacronbelow;
 layers = (
 {
 components = (
@@ -31477,7 +31477,7 @@ rightKerningGroup = k;
 unicode = 0199;
 },
 {
-glyphname = klinebelow;
+glyphname = kmacronbelow;
 layers = (
 {
 components = (
@@ -32076,7 +32076,7 @@ rightKerningGroup = i;
 unicode = 01C9;
 },
 {
-glyphname = llinebelow;
+glyphname = lmacronbelow;
 layers = (
 {
 components = (
@@ -32489,7 +32489,7 @@ rightKerningGroup = n;
 unicode = 019E;
 },
 {
-glyphname = nlinebelow;
+glyphname = nmacronbelow;
 layers = (
 {
 components = (
@@ -34259,7 +34259,7 @@ rightKerningGroup = r;
 unicode = 0213;
 },
 {
-glyphname = rlinebelow;
+glyphname = rmacronbelow;
 layers = (
 {
 components = (
@@ -34959,7 +34959,7 @@ rightKerningGroup = t;
 unicode = 01AD;
 },
 {
-glyphname = tlinebelow;
+glyphname = tmacronbelow;
 layers = (
 {
 components = (
@@ -36619,7 +36619,7 @@ rightKerningGroup = z;
 unicode = 1E93;
 },
 {
-glyphname = zlinebelow;
+glyphname = zmacronbelow;
 layers = (
 {
 components = (
@@ -38036,7 +38036,7 @@ rightKerningGroup = o.sc;
 },
 {
 color = 3;
-glyphname = dlinebelow.sc;
+glyphname = dmacronbelow.sc;
 layers = (
 {
 components = (
@@ -40000,7 +40000,7 @@ rightKerningGroup = j.sc;
 },
 {
 color = 3;
-glyphname = llinebelow.sc;
+glyphname = lmacronbelow.sc;
 layers = (
 {
 components = (
@@ -40360,7 +40360,7 @@ rightKerningGroup = i.sc;
 },
 {
 color = 3;
-glyphname = nlinebelow.sc;
+glyphname = nmacronbelow.sc;
 layers = (
 {
 components = (
@@ -41928,7 +41928,7 @@ rightKerningGroup = r.sc;
 },
 {
 color = 3;
-glyphname = rlinebelow.sc;
+glyphname = rmacronbelow.sc;
 layers = (
 {
 components = (
@@ -42555,7 +42555,7 @@ rightKerningGroup = t.sc;
 },
 {
 color = 3;
-glyphname = tlinebelow.sc;
+glyphname = tmacronbelow.sc;
 layers = (
 {
 components = (
