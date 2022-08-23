@@ -20330,12 +20330,13 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{128.178, 368.023}";
+position = "{205, 368}";
 }
 );
 components = (
 {
 name = L;
+transform = "{1, 0, 0, 1, 77, 0}";
 }
 );
 hints = (
@@ -20359,30 +20360,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"271 273 OFFCURVE",
-"301 326 OFFCURVE",
-"309 379 CURVE",
-"271 379 LINE",
-"267 361 OFFCURVE",
-"249 336 OFFCURVE",
-"216 336 CURVE SMOOTH",
-"157 336 OFFCURVE",
-"125 380 OFFCURVE",
-"42 380 CURVE SMOOTH",
-"-32 380 OFFCURVE",
-"-62 326 OFFCURVE",
-"-70 274 CURVE",
-"-33 274 LINE",
-"-26 291 OFFCURVE",
-"-12 317 OFFCURVE",
-"23 317 CURVE SMOOTH",
-"83 317 OFFCURVE",
-"114 273 OFFCURVE",
-"198 273 CURVE SMOOTH"
+"348 273 OFFCURVE",
+"378 326 OFFCURVE",
+"386 379 CURVE",
+"348 379 LINE",
+"344 361 OFFCURVE",
+"326 336 OFFCURVE",
+"293 336 CURVE SMOOTH",
+"234 336 OFFCURVE",
+"202 380 OFFCURVE",
+"119 380 CURVE SMOOTH",
+"45 380 OFFCURVE",
+"15 326 OFFCURVE",
+"7 274 CURVE",
+"44 274 LINE",
+"51 291 OFFCURVE",
+"65 317 OFFCURVE",
+"100 317 CURVE SMOOTH",
+"160 317 OFFCURVE",
+"191 273 OFFCURVE",
+"275 273 CURVE SMOOTH"
 );
 }
 );
-width = 533;
+width = 610;
 }
 );
 leftKerningGroup = I;
@@ -41287,6 +41288,48 @@ leftKerningGroup = i.sc;
 rightKerningGroup = l.sc;
 },
 {
+glyphname = lmiddletilde.sc;
+layers = (
+{
+components = (
+{
+name = l.sc;
+transform = "{1, 0, 0, 1, 93, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"348 216 OFFCURVE",
+"378 269 OFFCURVE",
+"386 322 CURVE",
+"348 322 LINE",
+"344 304 OFFCURVE",
+"326 279 OFFCURVE",
+"293 279 CURVE SMOOTH",
+"234 279 OFFCURVE",
+"202 323 OFFCURVE",
+"119 323 CURVE SMOOTH",
+"45 323 OFFCURVE",
+"15 269 OFFCURVE",
+"7 217 CURVE",
+"44 217 LINE",
+"51 234 OFFCURVE",
+"65 260 OFFCURVE",
+"100 260 CURVE SMOOTH",
+"160 260 OFFCURVE",
+"191 216 OFFCURVE",
+"275 216 CURVE SMOOTH"
+);
+}
+);
+width = 552;
+}
+);
+},
+{
 color = 3;
 glyphname = lslash.sc;
 layers = (
@@ -45251,6 +45294,24 @@ name = v.sc;
 {
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 218, 0}";
+}
+);
+layerId = UUID0;
+width = 524;
+}
+);
+},
+{
+glyphname = vtilde.sc;
+layers = (
+{
+components = (
+{
+name = v.sc;
+},
+{
+name = tildecomb;
+transform = "{1, 0, 0, 1, 106, 46}";
 }
 );
 layerId = UUID0;
