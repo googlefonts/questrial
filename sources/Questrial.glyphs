@@ -29907,10 +29907,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"506 -198 LINE",
-"506 220 LINE",
-"431 220 LINE",
-"431 -198 LINE"
+"465 -206 OFFCURVE",
+"506 -128 OFFCURVE",
+"506 -50 CURVE SMOOTH",
+"506 97 LINE",
+"431 97 LINE",
+"431 -47 LINE SMOOTH",
+"431 -84 OFFCURVE",
+"418 -139 OFFCURVE",
+"352 -139 CURVE SMOOTH",
+"303 -139 OFFCURVE",
+"275 -92 OFFCURVE",
+"270 -55 CURVE",
+"195 -55 LINE",
+"200 -128 OFFCURVE",
+"252 -206 OFFCURVE",
+"350 -206 CURVE SMOOTH"
 );
 }
 );
@@ -40141,6 +40153,43 @@ width = 573;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = heng.sc;
+layers = (
+{
+components = (
+{
+name = h.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"448 -206 OFFCURVE",
+"508 -134 OFFCURVE",
+"508 -17 CURVE SMOOTH",
+"508 346 LINE",
+"433 346 LINE",
+"433 -14 LINE SMOOTH",
+"433 -94 OFFCURVE",
+"406 -132 OFFCURVE",
+"351 -132 CURVE SMOOTH",
+"302 -132 OFFCURVE",
+"262 -96 OFFCURVE",
+"262 -42 CURVE",
+"185 -42 LINE",
+"185 -138 OFFCURVE",
+"256 -206 OFFCURVE",
+"348 -206 CURVE SMOOTH"
+);
+}
+);
+width = 573;
+}
+);
 },
 {
 glyphname = hturned.sc;
