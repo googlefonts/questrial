@@ -38967,6 +38967,79 @@ leftKerningGroup = i.sc;
 rightKerningGroup = e.sc;
 },
 {
+glyphname = eopen.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{243, 0}";
+},
+{
+name = top;
+position = "{243, 546}";
+}
+);
+guideLines = (
+{
+position = "{273, 552}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"358 -8 OFFCURVE",
+"449 66 OFFCURVE",
+"450 160 CURVE",
+"370 160 LINE",
+"369 105 OFFCURVE",
+"319 66 OFFCURVE",
+"249 66 CURVE SMOOTH",
+"170 66 OFFCURVE",
+"115 106 OFFCURVE",
+"115 162 CURVE SMOOTH",
+"115 212 OFFCURVE",
+"168 247 OFFCURVE",
+"243 247 CURVE SMOOTH",
+"314 247 LINE",
+"314 316 LINE",
+"248 316 LINE SMOOTH",
+"184 316 OFFCURVE",
+"132 354 OFFCURVE",
+"132 397 CURVE SMOOTH",
+"132 445 OFFCURVE",
+"177 478 OFFCURVE",
+"242 478 CURVE SMOOTH",
+"305 478 OFFCURVE",
+"353 444 OFFCURVE",
+"358 396 CURVE",
+"437 396 LINE",
+"431 500 OFFCURVE",
+"337 551 OFFCURVE",
+"243 551 CURVE SMOOTH",
+"150 551 OFFCURVE",
+"57 500 OFFCURVE",
+"57 400 CURVE SMOOTH",
+"57 356 OFFCURVE",
+"88 309 OFFCURVE",
+"125 285 CURVE",
+"75 265 OFFCURVE",
+"40 216 OFFCURVE",
+"40 163 CURVE SMOOTH",
+"40 66 OFFCURVE",
+"129 -8 OFFCURVE",
+"249 -8 CURVE SMOOTH"
+);
+}
+);
+width = 475;
+}
+);
+rightMetricsKey = c.sc;
+},
+{
 color = 3;
 glyphname = etilde.sc;
 layers = (
@@ -42318,6 +42391,31 @@ transform = "{1, 0, 0, 1, 175, 46}";
 );
 layerId = UUID0;
 width = 615;
+}
+);
+},
+{
+glyphname = oopen.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{284, 0}";
+},
+{
+name = top;
+position = "{275, 546}";
+}
+);
+components = (
+{
+name = c.sc;
+transform = "{-1, 0, 0, 1, 569, 0}";
+}
+);
+layerId = UUID0;
+width = 569;
 }
 );
 },
