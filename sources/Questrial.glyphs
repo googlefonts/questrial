@@ -37267,6 +37267,28 @@ leftKerningGroup = a.sc;
 rightKerningGroup = a.sc;
 },
 {
+glyphname = adotmacron.sc;
+layers = (
+{
+components = (
+{
+name = a.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 231, 46}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 144, 174}";
+}
+);
+layerId = UUID0;
+width = 551;
+}
+);
+},
+{
 color = 3;
 glyphname = agrave.sc;
 layers = (
@@ -37590,6 +37612,24 @@ width = 845;
 );
 leftKerningGroup = a.sc;
 rightKerningGroup = e.sc;
+},
+{
+glyphname = aemacron.sc;
+layers = (
+{
+components = (
+{
+name = ae.sc;
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 359, 46}";
+}
+);
+layerId = UUID0;
+width = 845;
+}
+);
 },
 {
 color = 3;
@@ -41815,6 +41855,28 @@ width = 615;
 );
 leftKerningGroup = o.sc;
 rightKerningGroup = o.sc;
+},
+{
+glyphname = oogonekmacron.sc;
+layers = (
+{
+components = (
+{
+name = o.sc;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 219, -2}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 175, 46}";
+}
+);
+layerId = UUID0;
+width = 615;
+}
+);
 },
 {
 color = 3;
