@@ -32759,7 +32759,7 @@ rightKerningGroup = i;
 unicode = 01CC;
 },
 {
-glyphname = nlegrightlong;
+glyphname = nlongrightleg;
 layers = (
 {
 anchors = (
@@ -42834,7 +42834,7 @@ leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
 },
 {
-glyphname = nlegrightlong.sc;
+glyphname = nlongrightleg.sc;
 layers = (
 {
 anchors = (
@@ -58049,7 +58049,7 @@ rightKerningGroup = a;
 unicode = A7B9;
 },
 {
-glyphname = Nlegrightlong;
+glyphname = Nlongrightleg;
 layers = (
 {
 anchors = (
