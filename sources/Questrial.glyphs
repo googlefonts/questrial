@@ -17514,7 +17514,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{279, 0}";
+position = "{279, -198}";
 },
 {
 name = top;
@@ -17807,6 +17807,16 @@ color = 3;
 glyphname = Ezhreversed;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{307, -198}";
+},
+{
+name = top;
+position = "{307, 662}";
+}
+);
 components = (
 {
 name = Ezh;
@@ -29172,6 +29182,16 @@ color = 3;
 glyphname = ezhreversed;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{264, -198}";
+},
+{
+name = top;
+position = "{264, 500}";
+}
+);
 components = (
 {
 name = ezh;
@@ -29538,6 +29558,16 @@ unicode = 0260;
 glyphname = glottalstop;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{262, 0}";
+},
+{
+name = top;
+position = "{262, 700}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -29586,7 +29616,7 @@ position = "{248, 0}";
 },
 {
 name = top;
-position = "{248, 662}";
+position = "{248, 700}";
 }
 );
 components = (
@@ -39223,6 +39253,31 @@ name = ezh.sc;
 {
 name = caroncomb;
 transform = "{1, 0, 0, 1, 108, 46}";
+}
+);
+layerId = UUID0;
+width = 527;
+}
+);
+},
+{
+glyphname = ezhreversed.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{278, -198}";
+},
+{
+name = top;
+position = "{278, 546}";
+}
+);
+components = (
+{
+name = ezh.sc;
+transform = "{-1, 0, 0, 1, 527, 0}";
 }
 );
 layerId = UUID0;
