@@ -28735,7 +28735,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{235, 0}";
+position = "{235, -198}";
 },
 {
 name = top;
@@ -37016,6 +37016,24 @@ leftKerningGroup = a.sc;
 rightKerningGroup = a.sc;
 },
 {
+glyphname = acaron.sc;
+layers = (
+{
+components = (
+{
+name = a.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 134, 46}";
+}
+);
+layerId = UUID0;
+width = 551;
+}
+);
+},
+{
 color = 3;
 glyphname = acircumflex.sc;
 layers = (
@@ -37665,6 +37683,24 @@ source = B;
 };
 },
 {
+glyphname = bdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = b.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 229, 46}";
+}
+);
+layerId = UUID0;
+width = 545;
+}
+);
+},
+{
 glyphname = bdotbelow.sc;
 layers = (
 {
@@ -38084,6 +38120,24 @@ width = 578;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = o.sc;
+},
+{
+glyphname = ddotaccent.sc;
+layers = (
+{
+components = (
+{
+name = d.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 245, 46}";
+}
+);
+layerId = UUID0;
+width = 578;
+}
+);
 },
 {
 color = 3;
@@ -38831,6 +38885,144 @@ leftKerningGroup = o.sc;
 rightKerningGroup = o.sc;
 },
 {
+glyphname = ezh.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{249, -198}";
+},
+{
+name = top;
+position = "{249, 546}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"457 0 LINE",
+"457 72 LINE",
+"120 72 LINE",
+"457 477 LINE",
+"457 546 LINE",
+"28 546 LINE",
+"28 475 LINE",
+"360 475 LINE",
+"23 68 LINE",
+"23 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"251 226 LINE",
+"404 439 LINE",
+"404 500 LINE",
+"64 500 LINE",
+"64 434 LINE",
+"342 434 LINE",
+"327 462 LINE",
+"164 228 LINE",
+"163 167 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"218 167 LINE SMOOTH",
+"310 167 OFFCURVE",
+"376 109 OFFCURVE",
+"376 20 CURVE SMOOTH",
+"376 -69 OFFCURVE",
+"323 -133 OFFCURVE",
+"235 -133 CURVE SMOOTH",
+"179 -133 OFFCURVE",
+"123 -100 OFFCURVE",
+"103 -45 CURVE",
+"24 -45 LINE",
+"50 -143 OFFCURVE",
+"140 -206 OFFCURVE",
+"235 -206 CURVE SMOOTH",
+"364 -206 OFFCURVE",
+"451 -109 OFFCURVE",
+"451 20 CURVE SMOOTH",
+"451 150 OFFCURVE",
+"355 236 OFFCURVE",
+"220 234 CURVE",
+"163 167 LINE"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"266 254 LINE",
+"429 481 LINE",
+"429 546 LINE",
+"67 546 LINE",
+"67 475 LINE",
+"363 475 LINE",
+"354 506 LINE",
+"180 257 LINE",
+"180 196 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"230 196 LINE SMOOTH",
+"328 196 OFFCURVE",
+"404 130 OFFCURVE",
+"404 35 CURVE SMOOTH",
+"404 -60 OFFCURVE",
+"343 -132 OFFCURVE",
+"249 -132 CURVE SMOOTH",
+"188 -132 OFFCURVE",
+"126 -96 OFFCURVE",
+"105 -36 CURVE",
+"24 -34 LINE",
+"52 -139 OFFCURVE",
+"148 -206 OFFCURVE",
+"249 -206 CURVE SMOOTH",
+"386 -206 OFFCURVE",
+"479 -103 OFFCURVE",
+"479 35 CURVE SMOOTH",
+"479 173 OFFCURVE",
+"377 265 OFFCURVE",
+"233 263 CURVE",
+"180 196 LINE"
+);
+}
+);
+width = 527;
+}
+);
+},
+{
+glyphname = ezhcaron.sc;
+layers = (
+{
+components = (
+{
+name = ezh.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 108, 46}";
+}
+);
+layerId = UUID0;
+width = 527;
+}
+);
+},
+{
 color = 3;
 glyphname = f.sc;
 layers = (
@@ -38902,6 +39094,24 @@ RMXScaler = {
 source = F;
 };
 };
+},
+{
+glyphname = fdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = f.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 231, 46}";
+}
+);
+layerId = UUID0;
+width = 481;
+}
+);
 },
 {
 color = 3;
@@ -39269,6 +39479,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
 },
 {
+glyphname = hcaron.sc;
+layers = (
+{
+components = (
+{
+name = h.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 146, 46}";
+}
+);
+layerId = UUID0;
+width = 573;
+}
+);
+},
+{
 color = 3;
 glyphname = hcircumflex.sc;
 layers = (
@@ -39288,6 +39516,24 @@ width = 573;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = hdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = h.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 243, 46}";
+}
+);
+layerId = UUID0;
+width = 573;
+}
+);
 },
 {
 color = 3;
@@ -39432,6 +39678,24 @@ width = 205;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = icaron.sc;
+layers = (
+{
+components = (
+{
+name = i.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, -38, 46}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
 },
 {
 color = 3;
@@ -39851,6 +40115,24 @@ RMXScaler = {
 source = K;
 };
 };
+},
+{
+glyphname = kcaron.sc;
+layers = (
+{
+components = (
+{
+name = k.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 134, 46}";
+}
+);
+layerId = UUID0;
+width = 539;
+}
+);
 },
 {
 color = 3;
@@ -40311,6 +40593,24 @@ RMXScaler = {
 source = M;
 };
 };
+},
+{
+glyphname = mdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = m.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 287, 46}";
+}
+);
+layerId = UUID0;
+width = 660;
+}
+);
 },
 {
 color = 3;
@@ -40831,6 +41131,24 @@ leftKerningGroup = o.sc;
 rightKerningGroup = o.sc;
 },
 {
+glyphname = ocaron.sc;
+layers = (
+{
+components = (
+{
+name = o.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 166, 46}";
+}
+);
+layerId = UUID0;
+width = 615;
+}
+);
+},
+{
 color = 3;
 glyphname = ocircumflex.sc;
 layers = (
@@ -41026,6 +41344,24 @@ width = 615;
 );
 leftKerningGroup = o.sc;
 rightKerningGroup = o.sc;
+},
+{
+glyphname = odotaccent.sc;
+layers = (
+{
+components = (
+{
+name = o.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 263, 46}";
+}
+);
+layerId = UUID0;
+width = 615;
+}
+);
 },
 {
 color = 3;
@@ -41710,6 +42046,24 @@ source = P;
 };
 },
 {
+glyphname = pdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = p.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 214, 46}";
+}
+);
+layerId = UUID0;
+width = 518;
+}
+);
+},
+{
 color = 3;
 glyphname = thorn.sc;
 layers = (
@@ -42085,6 +42439,24 @@ width = 556;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = r.sc;
+},
+{
+glyphname = rdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = r.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 211, 46}";
+}
+);
+layerId = UUID0;
+width = 556;
+}
+);
 },
 {
 color = 3;
@@ -42775,6 +43147,24 @@ leftKerningGroup = t.sc;
 rightKerningGroup = t.sc;
 },
 {
+glyphname = tdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = t.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 189, 46}";
+}
+);
+layerId = UUID0;
+width = 467;
+}
+);
+},
+{
 color = 3;
 glyphname = tdotbelow.sc;
 layers = (
@@ -42947,6 +43337,24 @@ leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
 },
 {
+glyphname = ucaron.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 150, 46}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
 color = 3;
 glyphname = ucircumflex.sc;
 layers = (
@@ -43038,6 +43446,28 @@ name = u.sc;
 {
 name = dieresisbelowcomb;
 transform = "{1, 0, 0, 1, 168, 0}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
+glyphname = udieresiscaron.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 169, 46}";
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 153, 174}";
 }
 );
 layerId = UUID0;
@@ -43717,6 +44147,24 @@ leftKerningGroup = v.sc;
 rightKerningGroup = v.sc;
 },
 {
+glyphname = wdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = w.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 351, 46}";
+}
+);
+layerId = UUID0;
+width = 776;
+}
+);
+},
+{
 glyphname = wdotbelow.sc;
 layers = (
 {
@@ -43823,6 +44271,24 @@ RMXScaler = {
 source = X;
 };
 };
+},
+{
+glyphname = xdotaccent.sc;
+layers = (
+{
+components = (
+{
+name = x.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 219, 46}";
+}
+);
+layerId = UUID0;
+width = 525;
+}
+);
 },
 {
 color = 3;
