@@ -39279,6 +39279,24 @@ source = G;
 };
 },
 {
+glyphname = gacute.sc;
+layers = (
+{
+components = (
+{
+name = g.sc;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 246, 46}";
+}
+);
+layerId = UUID0;
+width = 593;
+}
+);
+},
+{
 color = 3;
 glyphname = gbreve.sc;
 layers = (
@@ -40197,6 +40215,24 @@ source = K;
 };
 },
 {
+glyphname = kacute.sc;
+layers = (
+{
+components = (
+{
+name = k.sc;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 221, 46}";
+}
+);
+layerId = UUID0;
+width = 539;
+}
+);
+},
+{
 glyphname = kcaron.sc;
 layers = (
 {
@@ -40673,6 +40709,24 @@ RMXScaler = {
 source = M;
 };
 };
+},
+{
+glyphname = macute.sc;
+layers = (
+{
+components = (
+{
+name = m.sc;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 277, 46}";
+}
+);
+layerId = UUID0;
+width = 660;
+}
+);
 },
 {
 glyphname = mdotaccent.sc;
@@ -42146,6 +42200,24 @@ RMXScaler = {
 source = P;
 };
 };
+},
+{
+glyphname = pacute.sc;
+layers = (
+{
+components = (
+{
+name = p.sc;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 204, 46}";
+}
+);
+layerId = UUID0;
+width = 518;
+}
+);
 },
 {
 glyphname = pdotaccent.sc;
