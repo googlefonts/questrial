@@ -37905,6 +37905,31 @@ width = 545;
 );
 },
 {
+glyphname = bstroke.sc;
+layers = (
+{
+components = (
+{
+name = b.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 188 LINE",
+"-1 124 LINE",
+"305 124 LINE",
+"305 188 LINE"
+);
+}
+);
+width = 545;
+}
+);
+},
+{
 color = 3;
 glyphname = c.sc;
 layers = (
@@ -39697,6 +39722,31 @@ leftKerningGroup = o.sc;
 rightKerningGroup = g.sc;
 },
 {
+glyphname = gstroke.sc;
+layers = (
+{
+components = (
+{
+name = g.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"305 183 LINE",
+"305 119 LINE",
+"593 119 LINE",
+"593 183 LINE"
+);
+}
+);
+width = 593;
+}
+);
+},
+{
 color = 3;
 glyphname = h.sc;
 layers = (
@@ -40357,6 +40407,31 @@ leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
 },
 {
+glyphname = istroke.sc;
+layers = (
+{
+components = (
+{
+name = i.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"8 305 LINE",
+"8 241 LINE",
+"197 241 LINE",
+"197 305 LINE"
+);
+}
+);
+width = 205;
+}
+);
+},
+{
 color = 3;
 glyphname = itilde.sc;
 layers = (
@@ -40489,6 +40564,49 @@ width = 441;
 );
 leftKerningGroup = j.sc;
 rightKerningGroup = j.sc;
+},
+{
+glyphname = jstroke.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{347, 0}";
+},
+{
+name = ogonek;
+position = "{385, 0}";
+},
+{
+name = top;
+position = "{347, 546}";
+},
+{
+name = topleft;
+position = "{264, 546}";
+}
+);
+components = (
+{
+name = j.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"178 305 LINE",
+"178 241 LINE",
+"466 241 LINE",
+"466 305 LINE"
+);
+}
+);
+width = 441;
+}
+);
 },
 {
 color = 3;
@@ -40686,6 +40804,31 @@ width = 539;
 );
 },
 {
+glyphname = kstroke.sc;
+layers = (
+{
+components = (
+{
+name = k.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-11 471 LINE",
+"-11 407 LINE",
+"216 407 LINE",
+"216 471 LINE"
+);
+}
+);
+width = 539;
+}
+);
+},
+{
 color = 3;
 glyphname = l.sc;
 layers = (
@@ -40777,6 +40920,31 @@ width = 459;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = l.sc;
+},
+{
+glyphname = lbar.sc;
+layers = (
+{
+components = (
+{
+name = l.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 305 LINE",
+"-1 241 LINE",
+"305 241 LINE",
+"305 305 LINE"
+);
+}
+);
+width = 459;
+}
+);
 },
 {
 color = 3;
@@ -40902,6 +41070,31 @@ transform = "{1, 0, 0, 1, -31, 46}";
 }
 );
 layerId = UUID0;
+width = 459;
+}
+);
+},
+{
+glyphname = ldoublebar.sc;
+layers = (
+{
+components = (
+{
+name = l.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 305 LINE",
+"-1 241 LINE",
+"305 241 LINE",
+"305 305 LINE"
+);
+}
+);
 width = 459;
 }
 );
@@ -41704,6 +41897,31 @@ width = 615;
 );
 leftKerningGroup = o.sc;
 rightKerningGroup = o.sc;
+},
+{
+glyphname = obarred.sc;
+layers = (
+{
+components = (
+{
+name = o.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"62 305 LINE",
+"62 241 LINE",
+"553 241 LINE",
+"553 305 LINE"
+);
+}
+);
+width = 615;
+}
+);
 },
 {
 color = 3;
@@ -42815,6 +43033,31 @@ source = Thorn;
 };
 },
 {
+glyphname = pstroke.sc;
+layers = (
+{
+components = (
+{
+name = p.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 404 LINE",
+"-1 340 LINE",
+"305 340 LINE",
+"305 404 LINE"
+);
+}
+);
+width = 518;
+}
+);
+},
+{
 color = 3;
 glyphname = q.sc;
 layers = (
@@ -43203,6 +43446,31 @@ width = 556;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = r.sc;
+},
+{
+glyphname = rstroke.sc;
+layers = (
+{
+components = (
+{
+name = r.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-21 273 LINE",
+"-21 209 LINE",
+"305 209 LINE",
+"305 273 LINE"
+);
+}
+);
+width = 556;
+}
+);
 },
 {
 color = 3;
@@ -43975,6 +44243,31 @@ width = 581;
 );
 leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
+},
+{
+glyphname = ubar.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-1 305 LINE",
+"-1 241 LINE",
+"582 241 LINE",
+"582 305 LINE"
+);
+}
+);
+width = 581;
+}
+);
 },
 {
 color = 3;
@@ -45320,6 +45613,31 @@ leftKerningGroup = y.sc;
 rightKerningGroup = y.sc;
 },
 {
+glyphname = ystroke.sc;
+layers = (
+{
+components = (
+{
+name = y.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"18 450 LINE",
+"18 386 LINE",
+"520 386 LINE",
+"520 450 LINE"
+);
+}
+);
+width = 536;
+}
+);
+},
+{
 color = 3;
 glyphname = ytilde.sc;
 layers = (
@@ -45527,6 +45845,31 @@ transform = "{1, 0, 0, 1, 108, 0}";
 }
 );
 layerId = UUID0;
+width = 482;
+}
+);
+},
+{
+glyphname = zstroke.sc;
+layers = (
+{
+components = (
+{
+name = z.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"73 305 LINE",
+"73 241 LINE",
+"419 241 LINE",
+"419 305 LINE"
+);
+}
+);
 width = 482;
 }
 );
