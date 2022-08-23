@@ -37188,6 +37188,24 @@ leftKerningGroup = a.sc;
 rightKerningGroup = a.sc;
 },
 {
+glyphname = adotaccent.sc;
+layers = (
+{
+components = (
+{
+name = a.sc;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 231, 46}";
+}
+);
+layerId = UUID0;
+width = 551;
+}
+);
+},
+{
 color = 3;
 glyphname = adotbelow.sc;
 layers = (
