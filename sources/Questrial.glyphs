@@ -38015,6 +38015,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = o.sc;
 },
 {
+glyphname = dcircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = d.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 107, 0}";
+}
+);
+layerId = UUID0;
+width = 578;
+}
+);
+},
+{
 color = 3;
 glyphname = dcroat.sc;
 layers = (
@@ -38308,6 +38326,24 @@ width = 502;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = e.sc;
+},
+{
+glyphname = ecircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = e.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 129, 0}";
+}
+);
+layerId = UUID0;
+width = 502;
+}
+);
 },
 {
 color = 3;
@@ -39948,6 +39984,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = l.sc;
 },
 {
+glyphname = lcircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = l.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 95, 0}";
+}
+);
+layerId = UUID0;
+width = 459;
+}
+);
+},
+{
 color = 3;
 glyphname = lcommaaccent.sc;
 layers = (
@@ -40331,6 +40385,24 @@ width = 602;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = ncircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = n.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 160, 0}";
+}
+);
+layerId = UUID0;
+width = 602;
+}
+);
 },
 {
 color = 3;
@@ -42571,6 +42643,24 @@ leftKerningGroup = t.sc;
 rightKerningGroup = t.sc;
 },
 {
+glyphname = tcircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = t.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 92, 0}";
+}
+);
+layerId = UUID0;
+width = 467;
+}
+);
+},
+{
 color = 3;
 glyphname = tcommaaccent.sc;
 layers = (
@@ -42804,6 +42894,24 @@ width = 581;
 );
 leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
+},
+{
+glyphname = ucircumflexbelow.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 150, 0}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
 },
 {
 color = 3;
