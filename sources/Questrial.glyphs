@@ -34561,7 +34561,7 @@ rightMetricsKey = r;
 unicode = 027E;
 },
 {
-glyphname = rhook;
+glyphname = rtail;
 layers = (
 {
 anchors = (
