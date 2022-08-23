@@ -20985,27 +20985,6 @@ rightKerningGroup = i;
 unicode = 01CB;
 },
 {
-glyphname = Nmacronbelow;
-layers = (
-{
-components = (
-{
-name = N;
-},
-{
-name = macronbelowcomb.case;
-transform = "{1, 0, 0, 1, 235, 0}";
-}
-);
-layerId = UUID0;
-width = 733;
-}
-);
-leftKerningGroup = I;
-rightKerningGroup = I;
-unicode = 1E48;
-},
-{
 glyphname = Nlongrightleg;
 layers = (
 {
@@ -21111,6 +21090,27 @@ leftMetricsKey = N;
 rightKerningGroup = I;
 rightMetricsKey = N;
 unicode = 0220;
+},
+{
+glyphname = Nmacronbelow;
+layers = (
+{
+components = (
+{
+name = N;
+},
+{
+name = macronbelowcomb.case;
+transform = "{1, 0, 0, 1, 235, 0}";
+}
+);
+layerId = UUID0;
+width = 733;
+}
+);
+leftKerningGroup = I;
+rightKerningGroup = I;
+unicode = 1E48;
 },
 {
 color = 0;
@@ -37629,6 +37629,24 @@ source = B;
 };
 },
 {
+glyphname = bdotbelow.sc;
+layers = (
+{
+components = (
+{
+name = b.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 229, 0}";
+}
+);
+layerId = UUID0;
+width = 545;
+}
+);
+},
+{
 glyphname = bmacronbelow.sc;
 layers = (
 {
@@ -39748,6 +39766,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = k.sc;
 },
 {
+glyphname = kdotbelow.sc;
+layers = (
+{
+components = (
+{
+name = k.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 220, 0}";
+}
+);
+layerId = UUID0;
+width = 539;
+}
+);
+},
+{
 color = 3;
 glyphname = kgreenlandic.sc;
 layers = (
@@ -39976,6 +40012,28 @@ width = 459;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = l.sc;
+},
+{
+glyphname = ldotbelowmacron.sc;
+layers = (
+{
+components = (
+{
+name = l.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 192, 0}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, -31, 46}";
+}
+);
+layerId = UUID0;
+width = 459;
+}
+);
 },
 {
 color = 3;
@@ -41906,6 +41964,28 @@ leftKerningGroup = i.sc;
 rightKerningGroup = r.sc;
 },
 {
+glyphname = rdotbelowmacron.sc;
+layers = (
+{
+components = (
+{
+name = r.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 231, 0}";
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 123, 46}";
+}
+);
+layerId = UUID0;
+width = 556;
+}
+);
+},
+{
 color = 3;
 glyphname = rinvertedbreve.sc;
 layers = (
@@ -43258,6 +43338,24 @@ source = V;
 };
 },
 {
+glyphname = vdotbelow.sc;
+layers = (
+{
+components = (
+{
+name = v.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 218, 0}";
+}
+);
+layerId = UUID0;
+width = 524;
+}
+);
+},
+{
 color = 3;
 glyphname = w.sc;
 layers = (
@@ -43401,6 +43499,24 @@ width = 776;
 );
 leftKerningGroup = v.sc;
 rightKerningGroup = v.sc;
+},
+{
+glyphname = wdotbelow.sc;
+layers = (
+{
+components = (
+{
+name = w.sc;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 344, 0}";
+}
+);
+layerId = UUID0;
+width = 776;
+}
+);
 },
 {
 color = 3;
