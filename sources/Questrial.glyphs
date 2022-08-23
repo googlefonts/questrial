@@ -37360,6 +37360,24 @@ leftKerningGroup = a.sc;
 rightKerningGroup = a.sc;
 },
 {
+glyphname = aringbelow.sc;
+layers = (
+{
+components = (
+{
+name = a.sc;
+},
+{
+name = ringbelowcomb;
+transform = "{1, 0, 0, 1, 186, 0}";
+}
+);
+layerId = UUID0;
+width = 551;
+}
+);
+},
+{
 color = 3;
 glyphname = atilde.sc;
 layers = (
@@ -38694,6 +38712,24 @@ leftKerningGroup = i.sc;
 rightKerningGroup = e.sc;
 },
 {
+glyphname = etildebelow.sc;
+layers = (
+{
+components = (
+{
+name = e.sc;
+},
+{
+name = tildebelowcomb;
+transform = "{1, 0, 0, 1, 114, 0}";
+}
+);
+layerId = UUID0;
+width = 502;
+}
+);
+},
+{
 color = 3;
 glyphname = schwa.sc;
 layers = (
@@ -39613,6 +39649,24 @@ width = 205;
 );
 leftKerningGroup = i.sc;
 rightKerningGroup = i.sc;
+},
+{
+glyphname = itildebelow.sc;
+layers = (
+{
+components = (
+{
+name = i.sc;
+},
+{
+name = tildebelowcomb;
+transform = "{1, 0, 0, 1, -55, 0}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
 },
 {
 color = 3;
@@ -42956,6 +43010,24 @@ leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
 },
 {
+glyphname = udieresisbelow.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = dieresisbelowcomb;
+transform = "{1, 0, 0, 1, 168, 0}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
+},
+{
 color = 3;
 glyphname = udotbelow.sc;
 layers = (
@@ -43373,6 +43445,24 @@ width = 581;
 );
 leftKerningGroup = u.sc;
 rightKerningGroup = u.sc;
+},
+{
+glyphname = utildebelow.sc;
+layers = (
+{
+components = (
+{
+name = u.sc;
+},
+{
+name = tildebelowcomb;
+transform = "{1, 0, 0, 1, 135, 0}";
+}
+);
+layerId = UUID0;
+width = 581;
+}
+);
 },
 {
 color = 3;
