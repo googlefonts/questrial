@@ -35462,7 +35462,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{276, -6}";
+position = "{276, 0}";
 },
 {
 name = ogonek;
