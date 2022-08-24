@@ -371,6 +371,8 @@ feature c2sc;
 feature smcp;
 feature case;
 feature zero;
+feature ss01;
+feature ss02;
 ";
 name = aalt;
 },
@@ -1424,6 +1426,27 @@ automatic = 1;
 code = "sub zero by zero.zero;
 ";
 name = zero;
+},
+{
+code = "featureNames {
+	name \"Alternative capital forms\";
+};
+
+# N-form
+sub Eng by Eng.alt;
+sub Nhookleft by Nhookleft.alt;
+sub eng.sc by eng.alt.sc;
+sub nhookleft.sc by nhookleft.alt.sc;
+# Topbar-form
+sub Bhook by Bhook.alt;
+sub bhook.sc by bhook.alt.sc;
+# Latin-form
+sub Lambda by Lambda.latin;
+sub lambda by lambda.latin;
+sub lambda.sc by lambda.latin.sc;
+";
+name = ss01;
+notes = "Name: ";
 }
 );
 fontMaster = (
