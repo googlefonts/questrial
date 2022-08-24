@@ -4683,7 +4683,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{375, 0}";
+position = "{375, -157}";
 },
 {
 name = top;
@@ -45848,7 +45848,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{307, 0}";
+position = "{307, -126}";
 },
 {
 name = top;
