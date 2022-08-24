@@ -59258,11 +59258,11 @@ layers = (
 anchors = (
 {
 name = _bottom;
-position = "{302, -108}";
+position = "{300, 0}";
 },
 {
 name = bottom;
-position = "{300, 0}";
+position = "{302, -108}";
 }
 );
 components = (
