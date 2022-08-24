@@ -12077,6 +12077,20 @@ unicode = 00FF;
 glyphname = OE;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{572, 0}";
+},
+{
+name = ogonek;
+position = "{1114, 2}";
+},
+{
+name = top;
+position = "{572, 662}";
+}
+);
 hints = (
 {
 place = "{39, 75}";
@@ -21611,11 +21625,11 @@ width = 658;
 anchors = (
 {
 name = bottom;
-position = "{375, 0}";
+position = "{329, -193}";
 },
 {
 name = top;
-position = "{375, 660}";
+position = "{329, 660}";
 }
 );
 hints = (
@@ -33296,11 +33310,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{469, -198}";
+position = "{351, -198}";
 },
 {
 name = top;
-position = "{469, 500}";
+position = "{283, 500}";
 }
 );
 components = (
@@ -59702,6 +59716,16 @@ color = 3;
 glyphname = glottalstopmod;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{177, 290}";
+},
+{
+name = top;
+position = "{175, 700}";
+}
+);
 layerId = UUID0;
 paths = (
 {
