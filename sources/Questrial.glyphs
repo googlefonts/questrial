@@ -6398,6 +6398,12 @@ unicode = 0069;
 glyphname = j;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{103, -198}";
+}
+);
 hints = (
 {
 place = "{65, 75}";
