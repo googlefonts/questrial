@@ -1441,7 +1441,7 @@ sub Bhook by Bhook.alt;
 sub bhook.sc by bhook.alt.sc;
 # Sigma-form
 sub Esh by Esh.alt;
-sub esh.sc b esh.alt.sc;
+sub esh.sc by esh.alt.sc;
 # Latin-form
 sub Lambda by Lambda.latin;
 sub lambda by lambda.latin;
