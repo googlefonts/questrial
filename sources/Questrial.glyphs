@@ -1404,11 +1404,7 @@ name = case;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
-sub T h by T_h;
-sub c h by c_h;
-sub c t by c_t;
 sub f j by f_j;
-sub s t by s_t;
 ";
 name = dlig;
 },
@@ -26909,34 +26905,6 @@ rightKerningGroup = Z;
 unicode = 01B5;
 },
 {
-glyphname = T_h;
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-position = "{479, 0}";
-}
-);
-components = (
-{
-name = T;
-},
-{
-name = h;
-transform = "{1, 0, 0, 1, 565, 0}";
-}
-);
-layerId = UUID0;
-width = 1131;
-}
-);
-leftKerningGroup = T;
-leftMetricsKey = T;
-rightKerningGroup = n;
-rightMetricsKey = h;
-},
-{
 glyphname = Ismall;
 layers = (
 {
@@ -37937,90 +37905,6 @@ width = 458;
 leftKerningGroup = z;
 rightKerningGroup = z;
 unicode = 01B6;
-},
-{
-glyphname = c_h;
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-position = "{551, 0}";
-}
-);
-components = (
-{
-name = c;
-},
-{
-name = h;
-transform = "{1, 0, 0, 1, 544, 0}";
-}
-);
-layerId = UUID0;
-width = 1110;
-}
-);
-leftKerningGroup = o;
-leftMetricsKey = c;
-rightKerningGroup = n;
-rightMetricsKey = h;
-},
-{
-glyphname = c_t;
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-position = "{574, 0}";
-}
-);
-components = (
-{
-name = c;
-},
-{
-name = t;
-transform = "{1, 0, 0, 1, 544, 0}";
-}
-);
-layerId = UUID0;
-width = 870;
-}
-);
-leftKerningGroup = o;
-leftMetricsKey = c;
-rightKerningGroup = t;
-rightMetricsKey = t;
-},
-{
-glyphname = s_t;
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-position = "{519, 0}";
-}
-);
-components = (
-{
-name = s;
-},
-{
-name = t;
-transform = "{1, 0, 0, 1, 482, 0}";
-}
-);
-layerId = UUID0;
-width = 808;
-}
-);
-leftKerningGroup = s;
-leftMetricsKey = s;
-rightKerningGroup = t;
-rightMetricsKey = t;
 },
 {
 glyphname = Ismall.sc;
