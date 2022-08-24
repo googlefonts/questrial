@@ -3661,6 +3661,10 @@ name = bottom;
 position = "{345, 0}";
 },
 {
+name = ogonek;
+position = "{443, 0}";
+},
+{
 name = top;
 position = "{345, 662}";
 }
@@ -4037,6 +4041,10 @@ name = center;
 position = "{349, 504}";
 },
 {
+name = ogonek;
+position = "{626, 2}";
+},
+{
 name = top;
 position = "{349, 662}";
 },
@@ -4230,6 +4238,10 @@ name = bottom;
 position = "{321, 0}";
 },
 {
+name = ogonek;
+position = "{646, 0}";
+},
+{
 name = top;
 position = "{321, 662}";
 }
@@ -4293,6 +4305,10 @@ name = center;
 position = "{267, 331}";
 },
 {
+name = ogonek;
+position = "{356, 2}";
+},
+{
 name = top;
 position = "{119, 662}";
 },
@@ -4347,6 +4363,10 @@ anchors = (
 {
 name = bottom;
 position = "{403, 0}";
+},
+{
+name = ogonek;
+position = "{735, 2}";
 },
 {
 name = top;
@@ -4415,6 +4435,10 @@ anchors = (
 {
 name = bottom;
 position = "{367, 0}";
+},
+{
+name = ogonek;
+position = "{662, 2}";
 },
 {
 name = top;
@@ -4758,6 +4782,10 @@ name = bottom;
 position = "{335, 0}";
 },
 {
+name = ogonek;
+position = "{645, 2}";
+},
+{
 name = top;
 position = "{335, 662}";
 }
@@ -4839,6 +4867,10 @@ anchors = (
 {
 name = bottom;
 position = "{308, 0}";
+},
+{
+name = ogonek;
+position = "{413, 0}";
 },
 {
 name = top;
@@ -4929,6 +4961,10 @@ position = "{283, 0}";
 {
 name = center;
 position = "{283, 331}";
+},
+{
+name = ogonek;
+position = "{330, 2}";
 },
 {
 name = top;
@@ -5059,6 +5095,10 @@ anchors = (
 {
 name = bottom;
 position = "{314, 0}";
+},
+{
+name = ogonek;
+position = "{367, 2}";
 },
 {
 name = top;
@@ -5249,6 +5289,10 @@ name = bottom;
 position = "{319, 0}";
 },
 {
+name = ogonek;
+position = "{390, 0}";
+},
+{
 name = top;
 position = "{319, 662}";
 },
@@ -5311,6 +5355,10 @@ position = "{292, 0}";
 {
 name = center;
 position = "{292, 331}";
+},
+{
+name = ogonek;
+position = "{563, 2}";
 },
 {
 name = top;
@@ -5772,6 +5820,10 @@ name = bottom;
 position = "{272, 0}";
 },
 {
+name = ogonek;
+position = "{392, 0}";
+},
+{
 name = top;
 position = "{272, 500}";
 }
@@ -6213,6 +6265,10 @@ name = center;
 position = "{112, 574}";
 },
 {
+name = ogonek;
+position = "{516, 0}";
+},
+{
 name = top;
 position = "{102, 700}";
 }
@@ -6407,6 +6463,10 @@ name = bottom;
 position = "{251, 0}";
 },
 {
+name = ogonek;
+position = "{501, 0}";
+},
+{
 name = top;
 position = "{105, 700}";
 }
@@ -6470,6 +6530,10 @@ name = center;
 position = "{103, 350}";
 },
 {
+name = ogonek;
+position = "{150, 1}";
+},
+{
 name = top;
 position = "{103, 700}";
 },
@@ -6517,6 +6581,10 @@ anchors = (
 {
 name = bottom;
 position = "{434, 0}";
+},
+{
+name = ogonek;
+position = "{818, 0}";
 },
 {
 name = top;
@@ -6614,6 +6682,10 @@ anchors = (
 {
 name = bottom;
 position = "{283, 0}";
+},
+{
+name = ogonek;
+position = "{516, 0}";
 },
 {
 name = top;
@@ -6975,6 +7047,10 @@ name = bottom;
 position = "{103, 0}";
 },
 {
+name = ogonek;
+position = "{150, 0}";
+},
+{
 name = top;
 position = "{173, 500}";
 }
@@ -7039,6 +7115,10 @@ anchors = (
 {
 name = bottom;
 position = "{241, 0}";
+},
+{
+name = ogonek;
+position = "{313, 0}";
 },
 {
 name = top;
@@ -7129,6 +7209,10 @@ position = "{156, 0}";
 {
 name = center;
 position = "{163, 250}";
+},
+{
+name = ogonek;
+position = "{204, 0}";
 },
 {
 name = top;
@@ -7275,6 +7359,10 @@ anchors = (
 {
 name = bottom;
 position = "{245, 0}";
+},
+{
+name = ogonek;
+position = "{299, 0}";
 },
 {
 name = top;
@@ -7467,6 +7555,10 @@ name = bottom;
 position = "{249, 0}";
 },
 {
+name = ogonek;
+position = "{208, -196}";
+},
+{
 name = top;
 position = "{249, 500}";
 }
@@ -7524,6 +7616,10 @@ position = "{229, 0}";
 {
 name = center;
 position = "{229, 250}";
+},
+{
+name = ogonek;
+position = "{435, 0}";
 },
 {
 name = top;
@@ -9544,6 +9640,10 @@ name = bottom;
 position = "{511, 0}";
 },
 {
+name = ogonek;
+position = "{993, 2}";
+},
+{
 name = top;
 position = "{711, 662}";
 }
@@ -10931,6 +11031,10 @@ name = bottom;
 position = "{489, 0}";
 },
 {
+name = ogonek;
+position = "{814, 0}";
+},
+{
 name = top;
 position = "{489, 500}";
 }
@@ -12189,6 +12293,20 @@ unicode = 0152;
 glyphname = oe;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{689, 0}";
+},
+{
+name = ogonek;
+position = "{809, 0}";
+},
+{
+name = top;
+position = "{689, 500}";
+}
+);
 hints = (
 {
 place = "{34, 75}";
@@ -17417,6 +17535,10 @@ anchors = (
 {
 name = bottom;
 position = "{285, 0}";
+},
+{
+name = ogonek;
+position = "{363, 0}";
 },
 {
 name = top;
@@ -23130,6 +23252,20 @@ unicode = 01EC;
 glyphname = Oopen;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{345, 0}";
+},
+{
+name = ogonek;
+position = "{443, 0}";
+},
+{
+name = top;
+position = "{345, 662}";
+}
+);
 components = (
 {
 name = C;
@@ -29036,12 +29172,6 @@ unicode = 1E15;
 glyphname = eogonek;
 layers = (
 {
-anchors = (
-{
-name = _ogonek;
-position = "{399, 0}";
-}
-);
 components = (
 {
 name = e;
@@ -29112,6 +29242,10 @@ anchors = (
 {
 name = bottom;
 position = "{223, 0}";
+},
+{
+name = ogonek;
+position = "{293, 0}";
 },
 {
 name = top;
@@ -34376,6 +34510,20 @@ unicode = 01ED;
 glyphname = oopen;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = ogonek;
+position = "{392, 0}";
+},
+{
+name = top;
+position = "{272, 500}";
+}
+);
 components = (
 {
 name = c;
@@ -45323,6 +45471,20 @@ color = 3;
 glyphname = oe.sc;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{494, 0}";
+},
+{
+name = ogonek;
+position = "{923, 0}";
+},
+{
+name = top;
+position = "{489, 546}";
+}
+);
 components = (
 {
 name = o.sc;
