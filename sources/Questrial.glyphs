@@ -60164,8 +60164,7 @@ position = "{123, -131}";
 );
 components = (
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 0, -730}";
+name = dieresisbelowcomb;
 }
 );
 layerId = UUID0;
