@@ -57134,11 +57134,21 @@ width = 282;
 glyphname = rbelowcomb;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{90, 0}";
+},
+{
+name = bottom;
+position = "{90, -330}";
+}
+);
 components = (
 {
 alignment = -1;
 name = r;
-transform = "{0.7, 0, 0, 0.65, -325, -439}";
+transform = "{0.6, 0, 0, 0.556, -28, -330}";
 }
 );
 layerId = UUID0;
