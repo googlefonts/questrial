@@ -17901,8 +17901,6 @@ nodes = (
 width = 377;
 }
 );
-leftKerningGroup = I;
-rightKerningGroup = E;
 unicode = 01A9;
 },
 {
@@ -61827,6 +61825,7 @@ UUID0 = {
 "@MMK_R_quotesingle" = -46;
 "@MMK_R_u" = -16;
 "@MMK_R_y" = -33;
+Esh = -30;
 T = -59;
 V = -43;
 W = -33;
@@ -61861,6 +61860,9 @@ w = -13;
 };
 "@MMK_L_G" = {
 "@MMK_R_Bhook" = -20;
+};
+"@MMK_L_I" = {
+Esh = -20;
 };
 "@MMK_L_Khook" = {
 "@MMK_R_A" = -70;
@@ -61898,6 +61900,7 @@ vhook = -100;
 "@MMK_R_quotesinglbase" = -17;
 AE = -34;
 "Alpha-latin" = 0;
+Esh = -10;
 Z = -13;
 braceright = -20;
 bracketright = -22;
@@ -61987,6 +61990,7 @@ trademark = -20;
 "@MMK_R_o.sc" = -10;
 "@MMK_R_u.sc" = -19;
 "@MMK_R_y.sc" = -56;
+esh.sc = -20;
 question.sc = -40;
 t.sc = -47;
 v.sc = -34;
@@ -62614,6 +62618,9 @@ dcaron = {
 };
 dhook = {
 "@MMK_R_h" = 20;
+};
+esh.sc = {
+"@MMK_R_a.sc" = -20;
 };
 eth = {
 "@MMK_R_quotesingle" = -10;
