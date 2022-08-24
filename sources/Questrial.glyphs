@@ -31326,6 +31326,25 @@ rightKerningGroup = i;
 unicode = 0237;
 },
 {
+glyphname = jcaron;
+layers = (
+{
+components = (
+{
+name = jdotless;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, -38, 0}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
+unicode = 01F0;
+},
+{
 glyphname = jcircumflex;
 layers = (
 {
