@@ -29156,6 +29156,22 @@ rightMetricsKey = c;
 unicode = 025B;
 },
 {
+glyphname = eopen.mod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = eopen;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 312;
+}
+);
+},
+{
 glyphname = esh;
 layers = (
 {
@@ -49328,6 +49344,40 @@ width = 396;
 unicode = 02B0;
 },
 {
+glyphname = imod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = i;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 143;
+}
+);
+unicode = 2071;
+},
+{
+glyphname = nmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = n;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 396;
+}
+);
+unicode = 207F;
+},
+{
 glyphname = wmod;
 layers = (
 {
@@ -49343,6 +49393,23 @@ width = 522;
 }
 );
 unicode = 02B7;
+},
+{
+glyphname = ymod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = y;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 348;
+}
+);
+unicode = 02B8;
 },
 {
 glyphname = Theta;
@@ -49672,6 +49739,142 @@ layerId = UUID0;
 width = 615;
 }
 );
+},
+{
+glyphname = amod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = a;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 416;
+}
+);
+unicode = 1D43;
+},
+{
+glyphname = emod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = e;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 390;
+}
+);
+unicode = 1D49;
+},
+{
+glyphname = istrokemod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = istroke;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 143;
+}
+);
+unicode = 1DA4;
+},
+{
+glyphname = omod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = o;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 395;
+}
+);
+unicode = 1D52;
+},
+{
+glyphname = thetamod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = theta;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 395;
+}
+);
+unicode = 1DBF;
+},
+{
+glyphname = ubarmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = ubar;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 396;
+}
+);
+unicode = 1DB6;
+},
+{
+glyphname = umod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = u;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 396;
+}
+);
+unicode = 1D58;
+},
+{
+glyphname = vmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = v;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 342;
+}
+);
+unicode = 1D5B;
 },
 {
 glyphname = zmod;
@@ -59878,6 +60081,22 @@ nodes = (
 }
 );
 width = 579;
+}
+);
+},
+{
+glyphname = oopenmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = oopen;
+transform = "{0.7, 0, 0, 0.65, 0, 290}";
+}
+);
+layerId = UUID0;
+width = 381;
 }
 );
 },
