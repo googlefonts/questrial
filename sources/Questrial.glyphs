@@ -27164,6 +27164,73 @@ rightKerningGroup = Z;
 unicode = 01B5;
 },
 {
+glyphname = Gsmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{273, 0}";
+},
+{
+name = top;
+position = "{273, 500}";
+}
+);
+background = {
+components = (
+{
+name = o;
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"273 208 LINE",
+"426 208 LINE",
+"426 122 OFFCURVE",
+"363 60 OFFCURVE",
+"275 60 CURVE SMOOTH",
+"181 60 OFFCURVE",
+"109 136 OFFCURVE",
+"109 250 CURVE SMOOTH",
+"109 363 OFFCURVE",
+"181 441 OFFCURVE",
+"277 441 CURVE SMOOTH",
+"345 441 OFFCURVE",
+"391 409 OFFCURVE",
+"418 355 CURVE",
+"499 355 LINE",
+"464 449 OFFCURVE",
+"381 508 OFFCURVE",
+"273 508 CURVE",
+"138 508 OFFCURVE",
+"34 399 OFFCURVE",
+"34 250 CURVE SMOOTH",
+"34 99 OFFCURVE",
+"135 -8 OFFCURVE",
+"271 -8 CURVE SMOOTH",
+"333 -8 OFFCURVE",
+"389 17 OFFCURVE",
+"428 61 CURVE",
+"428 0 LINE",
+"503 0 LINE",
+"503 273 LINE",
+"273 273 LINE"
+);
+}
+);
+width = 568;
+}
+);
+leftMetricsKey = o;
+rightMetricsKey = g;
+unicode = 0262;
+},
+{
 glyphname = Ismall;
 layers = (
 {
