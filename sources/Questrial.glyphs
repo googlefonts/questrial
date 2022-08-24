@@ -27692,7 +27692,7 @@ name = O;
 }
 );
 layerId = UUID0;
-width = 750;
+width = 751;
 }
 );
 leftKerningGroup = O;
@@ -38872,6 +38872,24 @@ width = 684;
 rightMetricsKey = b.sc;
 },
 {
+glyphname = bilabialclick.sc;
+layers = (
+{
+components = (
+{
+name = o.sc;
+},
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 206, -20}";
+}
+);
+layerId = UUID0;
+width = 615;
+}
+);
+},
+{
 glyphname = bmacronbelow.sc;
 layers = (
 {
@@ -39295,6 +39313,120 @@ nodes = (
 }
 );
 width = 569;
+}
+);
+},
+{
+glyphname = clickalveolar.sc;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"247 393 LINE",
+"161 393 LINE",
+"161 616 LINE",
+"86 616 LINE",
+"86 393 LINE",
+"0 393 LINE",
+"0 328 LINE",
+"86 328 LINE",
+"86 246 LINE",
+"0 246 LINE",
+"0 181 LINE",
+"86 181 LINE",
+"86 -70 LINE",
+"161 -70 LINE",
+"161 181 LINE",
+"247 181 LINE",
+"247 246 LINE",
+"161 246 LINE",
+"161 328 LINE",
+"247 328 LINE"
+);
+}
+);
+width = 247;
+}
+);
+},
+{
+glyphname = clickdental.sc;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"161 -70 LINE",
+"161 616 LINE",
+"86 616 LINE",
+"86 -70 LINE"
+);
+}
+);
+width = 247;
+}
+);
+},
+{
+glyphname = clicklateral.sc;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"161 -70 LINE",
+"161 616 LINE",
+"86 616 LINE",
+"86 -70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"312 -70 LINE",
+"312 616 LINE",
+"237 616 LINE",
+"237 -70 LINE"
+);
+}
+);
+width = 398;
+}
+);
+},
+{
+glyphname = clickretroflex.sc;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"172 -70 LINE",
+"172 32 LINE",
+"75 32 LINE",
+"75 -70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"160 113 LINE",
+"170 616 LINE",
+"77 616 LINE",
+"87 113 LINE"
+);
+}
+);
+width = 247;
 }
 );
 },
@@ -49062,8 +49194,8 @@ closed = 1;
 nodes = (
 "247 393 LINE",
 "161 393 LINE",
-"161 700 LINE",
-"86 700 LINE",
+"161 690 LINE",
+"86 690 LINE",
 "86 393 LINE",
 "0 393 LINE",
 "0 328 LINE",
@@ -49072,8 +49204,8 @@ nodes = (
 "0 246 LINE",
 "0 181 LINE",
 "86 181 LINE",
-"86 -198 LINE",
-"161 -198 LINE",
+"86 -118 LINE",
+"161 -118 LINE",
 "161 181 LINE",
 "247 181 LINE",
 "247 246 LINE",
@@ -49097,10 +49229,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"161 -198 LINE",
-"161 700 LINE",
-"86 700 LINE",
-"86 -198 LINE"
+"161 -118 LINE",
+"161 690 LINE",
+"86 690 LINE",
+"86 -118 LINE"
 );
 }
 );
@@ -49118,19 +49250,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"161 -198 LINE",
-"161 700 LINE",
-"86 700 LINE",
-"86 -198 LINE"
+"161 -118 LINE",
+"161 690 LINE",
+"86 690 LINE",
+"86 -118 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"312 -198 LINE",
-"312 700 LINE",
-"237 700 LINE",
-"237 -198 LINE"
+"312 -118 LINE",
+"312 690 LINE",
+"237 690 LINE",
+"237 -118 LINE"
 );
 }
 );
@@ -49143,12 +49275,70 @@ unicode = 01C1;
 glyphname = clickretroflex;
 layers = (
 {
-components = (
+background = {
+paths = (
 {
-name = exclam;
+closed = 1;
+nodes = (
+"138 183 LINE",
+"157 662 LINE",
+"64 662 LINE",
+"83 183 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"159 0 LINE",
+"159 102 LINE",
+"62 102 LINE",
+"62 0 LINE"
+);
+}
+);
+};
+hints = (
+{
+place = "{62, 97}";
+type = Stem;
+},
+{
+place = "{73, 74}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 102}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{662, -20}";
+target = down;
+type = TopGhost;
 }
 );
 layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"145 65 LINE",
+"157 690 LINE",
+"64 690 LINE",
+"76 65 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"159 -118 LINE",
+"159 -16 LINE",
+"62 -16 LINE",
+"62 -118 LINE"
+);
+}
+);
 width = 221;
 }
 );
