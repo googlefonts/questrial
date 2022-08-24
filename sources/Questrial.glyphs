@@ -59401,10 +59401,21 @@ width = 237;
 glyphname = breveinvertedbelowcomb;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{118, 0}";
+},
+{
+name = bottom;
+position = "{118, -172}";
+}
+);
 components = (
 {
-name = brevecomb;
-transform = "{1, 0, 0, -1, 0, 520}";
+alignment = -1;
+name = breve;
+transform = "{-1, 0, 0, -1, 344, 520}";
 }
 );
 layerId = UUID0;
