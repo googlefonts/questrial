@@ -17826,11 +17826,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{160, -198}";
+position = "{160, 0}";
 },
 {
 name = ogonek;
-position = "{108, -198}";
+position = "{108, 0}";
 },
 {
 name = top;
@@ -17867,19 +17867,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"151 -105 OFFCURVE",
-"108 -137 OFFCURVE",
-"40 -137 CURVE SMOOTH",
-"25 -137 OFFCURVE",
-"10 -136 OFFCURVE",
-"-6 -133 CURVE",
-"-6 -201 LINE",
-"13 -205 OFFCURVE",
-"32 -206 OFFCURVE",
-"49 -206 CURVE SMOOTH",
-"150 -206 OFFCURVE",
-"226 -143 OFFCURVE",
-"226 -19 CURVE SMOOTH",
+"151 93 OFFCURVE",
+"108 61 OFFCURVE",
+"40 61 CURVE SMOOTH",
+"25 61 OFFCURVE",
+"10 62 OFFCURVE",
+"-6 65 CURVE",
+"-6 -3 LINE",
+"13 -7 OFFCURVE",
+"32 -8 OFFCURVE",
+"49 -8 CURVE SMOOTH",
+"150 -8 OFFCURVE",
+"226 55 OFFCURVE",
+"226 179 CURVE SMOOTH",
 "226 464 LINE SMOOTH",
 "226 569 OFFCURVE",
 "269 601 OFFCURVE",
@@ -17894,7 +17894,7 @@ nodes = (
 "227 670 OFFCURVE",
 "151 607 OFFCURVE",
 "151 483 CURVE SMOOTH",
-"151 0 LINE SMOOTH"
+"151 198 LINE SMOOTH"
 );
 }
 );
@@ -41361,11 +41361,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{189, -198}";
+position = "{189, 0}";
 },
 {
 name = ogonek;
-position = "{113, -198}";
+position = "{113, 0}";
 },
 {
 name = top;
@@ -41381,19 +41381,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"151 -105 OFFCURVE",
-"108 -137 OFFCURVE",
-"40 -137 CURVE SMOOTH",
-"25 -137 OFFCURVE",
-"10 -136 OFFCURVE",
-"-6 -133 CURVE",
-"-6 -201 LINE",
-"13 -205 OFFCURVE",
-"32 -206 OFFCURVE",
-"49 -206 CURVE SMOOTH",
-"150 -206 OFFCURVE",
-"226 -142 OFFCURVE",
-"226 -19 CURVE SMOOTH",
+"151 93 OFFCURVE",
+"108 61 OFFCURVE",
+"40 61 CURVE SMOOTH",
+"25 61 OFFCURVE",
+"10 62 OFFCURVE",
+"-6 65 CURVE",
+"-6 -3 LINE",
+"13 -7 OFFCURVE",
+"32 -8 OFFCURVE",
+"49 -8 CURVE SMOOTH",
+"150 -8 OFFCURVE",
+"226 56 OFFCURVE",
+"226 179 CURVE SMOOTH",
 "226 346 LINE SMOOTH",
 "226 451 OFFCURVE",
 "269 483 OFFCURVE",
@@ -41408,7 +41408,7 @@ nodes = (
 "227 552 OFFCURVE",
 "151 489 OFFCURVE",
 "151 365 CURVE SMOOTH",
-"151 0 LINE SMOOTH"
+"151 198 LINE SMOOTH"
 );
 }
 );
