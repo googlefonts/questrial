@@ -16122,7 +16122,122 @@ width = 785;
 );
 leftKerningGroup = Bhook;
 rightKerningGroup = B;
+rightMetricsKey = B;
 unicode = 0181;
+},
+{
+color = 0;
+glyphname = Bhook.alt;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = top;
+position = "{314, 662}";
+}
+);
+hints = (
+{
+place = "{81, 75}";
+type = Stem;
+},
+{
+place = "{546, 75}";
+type = Stem;
+},
+{
+place = "{512, 75}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 71}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{298, 68}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{591, 71}";
+type = Stem;
+},
+{
+origin = "{0, 11}";
+place = "{81, -75}";
+type = Stem;
+},
+{
+origin = "{0, 11}";
+place = "{81, -75}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 11}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+origin = "{0, 11}";
+place = "{662, -70}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 11}";
+place = "{662, -71}";
+type = Stem;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"379 0 LINE SMOOTH",
+"520 0 OFFCURVE",
+"607 72 OFFCURVE",
+"607 184 CURVE SMOOTH",
+"607 297 OFFCURVE",
+"520 368 OFFCURVE",
+"379 368 CURVE SMOOTH",
+"156 368 LINE",
+"156 591 LINE",
+"527 591 LINE",
+"527 662 LINE",
+"81 662 LINE",
+"81 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"156 298 LINE",
+"374 298 LINE SMOOTH",
+"478 298 OFFCURVE",
+"532 255 OFFCURVE",
+"532 184 CURVE SMOOTH",
+"532 114 OFFCURVE",
+"478 71 OFFCURVE",
+"374 71 CURVE SMOOTH",
+"156 71 LINE"
+);
+}
+);
+width = 628;
+}
+);
+leftKerningGroup = Bhook;
+rightKerningGroup = B;
+rightMetricsKey = P;
 },
 {
 glyphname = Bmacronbelow;
@@ -21404,6 +21519,42 @@ leftKerningGroup = I;
 rightKerningGroup = I;
 rightMetricsKey = i;
 unicode = 019D;
+},
+{
+glyphname = Nhookleft.alt;
+layers = (
+{
+components = (
+{
+name = N;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"81 -105 OFFCURVE",
+"38 -137 OFFCURVE",
+"-30 -137 CURVE SMOOTH",
+"-45 -137 OFFCURVE",
+"-60 -136 OFFCURVE",
+"-76 -133 CURVE",
+"-76 -201 LINE",
+"-57 -205 OFFCURVE",
+"-38 -206 OFFCURVE",
+"-21 -206 CURVE SMOOTH",
+"80 -206 OFFCURVE",
+"156 -143 OFFCURVE",
+"156 -19 CURVE SMOOTH",
+"156 0 LINE",
+"81 0 LINE"
+);
+}
+);
+width = 733;
+}
+);
 },
 {
 glyphname = Nj;
@@ -39225,6 +39376,92 @@ width = 545;
 );
 },
 {
+glyphname = bhook.alt.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{258, 0}";
+},
+{
+name = top;
+position = "{258, 546}";
+}
+);
+hints = (
+{
+origin = "{0, 1}";
+place = "{65, -75}";
+type = Stem;
+},
+{
+origin = "{0, 1}";
+place = "{65, -75}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 1}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+origin = "{0, 1}";
+place = "{546, -70}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 1}";
+place = "{546, -71}";
+type = Stem;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"140 546 LINE",
+"65 546 LINE",
+"65 0 LINE",
+"310 0 LINE SMOOTH",
+"426 0 OFFCURVE",
+"501 61 OFFCURVE",
+"501 156 CURVE SMOOTH",
+"501 251 OFFCURVE",
+"427 310 OFFCURVE",
+"310 310 CURVE SMOOTH",
+"124 310 LINE",
+"124 239 LINE",
+"306 239 LINE SMOOTH",
+"383 239 OFFCURVE",
+"426 210 OFFCURVE",
+"426 156 CURVE SMOOTH",
+"426 102 OFFCURVE",
+"383 72 OFFCURVE",
+"306 72 CURVE SMOOTH",
+"140 72 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"93 474 LINE",
+"417 474 LINE",
+"417 546 LINE",
+"93 546 LINE"
+);
+}
+);
+width = 518;
+}
+);
+rightMetricsKey = p.sc;
+},
+{
 glyphname = bhook.sc;
 layers = (
 {
@@ -44423,6 +44660,42 @@ transform = "{1, 0, 0, 1, 217, 46}";
 }
 );
 layerId = UUID0;
+width = 602;
+}
+);
+},
+{
+glyphname = nhookleft.alt.sc;
+layers = (
+{
+components = (
+{
+name = n.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"65 -105 OFFCURVE",
+"22 -137 OFFCURVE",
+"-46 -137 CURVE SMOOTH",
+"-61 -137 OFFCURVE",
+"-76 -136 OFFCURVE",
+"-92 -133 CURVE",
+"-92 -201 LINE",
+"-73 -205 OFFCURVE",
+"-54 -206 OFFCURVE",
+"-37 -206 CURVE SMOOTH",
+"64 -206 OFFCURVE",
+"140 -143 OFFCURVE",
+"140 -19 CURVE SMOOTH",
+"140 0 LINE",
+"65 0 LINE"
+);
+}
+);
 width = 602;
 }
 );
