@@ -58087,7 +58087,7 @@ position = "{78, 500}";
 },
 {
 name = top;
-position = "{78, 948}";
+position = "{78, 769}";
 }
 );
 layerId = UUID0;
@@ -58095,10 +58095,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"112 750 LINE",
-"112 948 LINE",
-"44 948 LINE",
-"44 750 LINE"
+"112 571 LINE",
+"112 769 LINE",
+"44 769 LINE",
+"44 571 LINE"
 );
 }
 );
@@ -58308,13 +58308,53 @@ name = top;
 position = "{58.5, 729}";
 }
 );
-components = (
+hints = (
 {
-name = commaaccentcomb;
-transform = "{-1, 0, 0, -1, 117, 531}";
+place = "{116.75, -117}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{728.75, -159.75}";
+type = Stem;
+},
+{
+place = "{156, -156}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{791, -213}";
+type = Stem;
+},
+{
+place = "{0, 156}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{578, 213}";
+type = Stem;
 }
 );
 layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"59 729 LINE",
+"59 699 LINE SMOOTH",
+"59 653 OFFCURVE",
+"47 623 OFFCURVE",
+"11 579 CURVE",
+"59 579 LINE",
+"104 621 OFFCURVE",
+"121 656 OFFCURVE",
+"121 711 CURVE SMOOTH",
+"121 729 LINE"
+);
+}
+);
 width = 117;
 }
 );
@@ -59305,11 +59345,11 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{58, 420}";
+position = "{58, 500}";
 },
 {
 name = top;
-position = "{58, 755}";
+position = "{53, 692}";
 }
 );
 layerId = UUID0;
@@ -59317,12 +59357,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"208 755 LINE",
-"47 755 LINE",
-"-92 660 LINE",
-"-57 611 LINE",
-"65 695 LINE",
-"208 695 LINE"
+"179 692 LINE",
+"-9 692 LINE",
+"-80 570 LINE",
+"-19 570 LINE",
+"31 632 LINE",
+"179 632 LINE"
 );
 }
 );
@@ -59342,13 +59382,13 @@ position = "{58, 500}";
 },
 {
 name = top;
-position = "{58, 915}";
+position = "{53, 692}";
 }
 );
 components = (
 {
 name = acutemacroncomb;
-transform = "{1, 0, 0, -1, 0, 1366}";
+transform = "{1, 0, 0, -1, 0, 1276}";
 }
 );
 layerId = UUID0;
@@ -59361,10 +59401,20 @@ unicode = 1DC5;
 glyphname = macronacutecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{58, 500}";
+},
+{
+name = top;
+position = "{53, 692}";
+}
+);
 components = (
 {
 name = acutemacroncomb;
-transform = "{-1, 0, 0, -1, 116, 1366}";
+transform = "{-1, 0, 0, -1, 116, 1276}";
 }
 );
 layerId = UUID0;
@@ -59377,6 +59427,16 @@ unicode = 1DC4;
 glyphname = macrongravecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{58, 500}";
+},
+{
+name = top;
+position = "{53, 692}";
+}
+);
 components = (
 {
 name = acutemacroncomb;
