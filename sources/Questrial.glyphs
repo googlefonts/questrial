@@ -940,6 +940,8 @@ sub Zdotbelow by zdotbelow.sc;
 sub Zmacronbelow by zmacronbelow.sc;
 sub Zstroke by zstroke.sc;
 sub Theta by theta.sc;
+sub Lambda by lambda.sc;
+sub Lambda.latin by lambda.latin.sc;
 sub exclam by exclam.sc;
 sub exclamdown by exclamdown.sc;
 sub question by question.sc;
@@ -1159,6 +1161,7 @@ sub khook by khook.sc;
 sub kmacronbelow by kmacronbelow.sc;
 sub kstroke by kstroke.sc;
 sub lacute by lacute.sc;
+sub lambdastroke by lambdastroke.sc;
 sub lbar by lbar.sc;
 sub lbelt by lbelt.sc;
 sub lcaron by lcaron.sc;
@@ -1324,6 +1327,8 @@ sub clickdental by clickdental.sc;
 sub clicklateral by clicklateral.sc;
 sub clickretroflex by clickretroflex.sc;
 sub theta by theta.sc;
+sub lambda by lambda.sc;
+sub lambda.latin by lambda.latin.sc;
 sub exclam by exclam.sc;
 sub question by question.sc;
 sub periodcentered.loclCAT by periodcentered.loclCAT.sc;
@@ -32808,6 +32813,32 @@ rightKerningGroup = y;
 unicode = 019B;
 },
 {
+glyphname = lambdastroke.uc;
+layers = (
+{
+components = (
+{
+name = Lambda.latin;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"411 581 LINE",
+"386 642 LINE",
+"106 529 LINE",
+"130 468 LINE"
+);
+}
+);
+width = 647;
+}
+);
+rightKerningGroup = A;
+},
+{
 glyphname = lbar;
 layers = (
 {
@@ -43468,6 +43499,155 @@ leftKerningGroup = i.sc;
 rightKerningGroup = l.sc;
 },
 {
+glyphname = lambdastroke.sc;
+layers = (
+{
+components = (
+{
+name = lambda.latin.sc;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"375 472 LINE",
+"350 533 LINE",
+"70 420 LINE",
+"94 359 LINE"
+);
+}
+);
+width = 550;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{462.764, 729.569}";
+}
+);
+associatedMasterId = UUID0;
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"85 0 LINE",
+"207 281 LINE SMOOTH",
+"224 320 OFFCURVE",
+"253 400 OFFCURVE",
+"262 435 QCURVE",
+"266 435 LINE",
+"270 416 OFFCURVE",
+"287 359 OFFCURVE",
+"308 300 OFFCURVE",
+"316 276 QCURVE SMOOTH",
+"389 71 LINE SMOOTH",
+"405 27 OFFCURVE",
+"448 -10 OFFCURVE",
+"485 -10 QCURVE SMOOTH",
+"502 -10 OFFCURVE",
+"531 -3 OFFCURVE",
+"542 2 QCURVE",
+"542 67 LINE",
+"537 66 OFFCURVE",
+"520 62 OFFCURVE",
+"512 62 QCURVE SMOOTH",
+"481 62 OFFCURVE",
+"462 116 QCURVE SMOOTH",
+"283 614 LINE",
+"385 646 LINE",
+"366 709 LINE",
+"257 676 LINE",
+"233 722 OFFCURVE",
+"168 766 OFFCURVE",
+"111 766 QCURVE SMOOTH",
+"93 766 OFFCURVE",
+"59 761 OFFCURVE",
+"45 758 QCURVE",
+"45 687 LINE",
+"56 689 OFFCURVE",
+"83 693 OFFCURVE",
+"101 693 QCURVE SMOOTH",
+"128 693 OFFCURVE",
+"162 675 OFFCURVE",
+"176 651 QCURVE",
+"77 621 LINE",
+"96 558 LINE",
+"202 590 LINE",
+"225 526 LINE",
+"-6 0 LINE",
+"-6 0 LINE"
+);
+}
+);
+};
+layerId = "F6F84EA3-5EB2-4C80-A615-9DEB2ED787EA";
+name = "May 27 20, 13:01";
+paths = (
+{
+closed = 1;
+nodes = (
+"226 493 LINE",
+"22 0 LINE",
+"105 0 LINE",
+"266 410 LINE",
+"430 0 LINE",
+"512 0 LINE",
+"285 534 LINE",
+"135 698 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"243 633 OFFCURVE",
+"210 708 OFFCURVE",
+"116 708 CURVE SMOOTH",
+"66 708 OFFCURVE",
+"23 679 OFFCURVE",
+"8 600 CURVE",
+"64 575 LINE",
+"75 609 OFFCURVE",
+"85 634 OFFCURVE",
+"117 634 CURVE SMOOTH",
+"169 634 OFFCURVE",
+"194 569 OFFCURVE",
+"218 512 CURVE",
+"285 534 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"49.544 692.134 OFFCURVE",
+"41.65 687.697 OFFCURVE",
+"31.915 682.479 CURVE",
+"58.485 619.885 LINE",
+"65.988 625.242 OFFCURVE",
+"72.041 628.898 OFFCURVE",
+"79.405 632.024 CURVE SMOOTH",
+"145.681 660.156 OFFCURVE",
+"166.555 621.217 OFFCURVE",
+"179.449 590.841 CURVE SMOOTH",
+"250.171 424.23 LINE",
+"319.209 453.535 LINE",
+"248.487 620.145 LINE SMOOTH",
+"223.089 679.978 OFFCURVE",
+"173.812 744.883 OFFCURVE",
+"58.749 696.042 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+leftKerningGroup = y;
+rightKerningGroup = y;
+},
+{
 glyphname = lbar.sc;
 layers = (
 {
@@ -49984,6 +50164,77 @@ width = 750;
 unicode = 0398;
 },
 {
+glyphname = Lambda;
+layers = (
+{
+components = (
+{
+name = Vturned;
+}
+);
+layerId = UUID0;
+width = 628;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 039B;
+},
+{
+glyphname = Lambda.latin;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{324, 0}";
+},
+{
+name = ogonek;
+position = "{641, 2}";
+},
+{
+name = top;
+position = "{324, 626}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"46 579 OFFCURVE",
+"88 598 OFFCURVE",
+"127 598 CURVE SMOOTH",
+"172 598 OFFCURVE",
+"220 570 OFFCURVE",
+"262 492 CURVE SMOOTH",
+"295 431 LINE",
+"287 491 LINE",
+"22 0 LINE",
+"116 0 LINE",
+"331 418 LINE",
+"317 418 LINE",
+"530 0 LINE",
+"625 0 LINE",
+"391 431 LINE",
+"340 526 LINE SMOOTH",
+"291 617 OFFCURVE",
+"216 670 OFFCURVE",
+"139 670 CURVE SMOOTH",
+"103 670 OFFCURVE",
+"68 660 OFFCURVE",
+"34 645 CURVE",
+"34 572 LINE"
+);
+}
+);
+width = 647;
+}
+);
+rightKerningGroup = A;
+},
+{
 glyphname = theta;
 layers = (
 {
@@ -50267,6 +50518,73 @@ layerId = UUID0;
 width = 615;
 }
 );
+},
+{
+glyphname = lambda.latin.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{276, 0}";
+},
+{
+name = ogonek;
+position = "{538, 0}";
+},
+{
+name = top;
+position = "{276, 546}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"147 477 OFFCURVE",
+"183 456 OFFCURVE",
+"217 399 CURVE SMOOTH",
+"229 378 LINE",
+"22 0 LINE",
+"114 0 LINE",
+"276 308 LINE",
+"437 0 LINE",
+"528 0 LINE",
+"289 433 LINE SMOOTH",
+"248 508 OFFCURVE",
+"185 552 OFFCURVE",
+"120 552 CURVE SMOOTH",
+"89 552 OFFCURVE",
+"60 544 OFFCURVE",
+"33 531 CURVE",
+"33 456 LINE",
+"42 460 OFFCURVE",
+"78 477 OFFCURVE",
+"110 477 CURVE SMOOTH"
+);
+}
+);
+width = 550;
+}
+);
+rightKerningGroup = a.sc;
+},
+{
+glyphname = lambda.sc;
+layers = (
+{
+components = (
+{
+name = vturned.sc;
+}
+);
+layerId = UUID0;
+width = 524;
+}
+);
+leftKerningGroup = a.sc;
+rightKerningGroup = a.sc;
 },
 {
 glyphname = amod;
