@@ -45065,10 +45065,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"568 531 LINE",
-"536 559 LINE",
-"57 11 LINE",
-"88 -17 LINE"
+"165 -40 LINE",
+"524 583 LINE",
+"450 583 LINE",
+"91 -40 LINE"
 );
 }
 );
