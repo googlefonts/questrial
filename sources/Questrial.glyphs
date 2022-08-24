@@ -58171,6 +58171,16 @@ width = 324;
 glyphname = candraBinducomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{118.5, 500}";
+},
+{
+name = top;
+position = "{119, 763}";
+}
+);
 components = (
 {
 name = brevecomb;
