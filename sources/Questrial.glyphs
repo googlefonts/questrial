@@ -42628,6 +42628,24 @@ source = J;
 };
 },
 {
+glyphname = jcaron.sc;
+layers = (
+{
+components = (
+{
+name = j.sc;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 197, 46}";
+}
+);
+layerId = UUID0;
+width = 441;
+}
+);
+},
+{
 color = 3;
 glyphname = jcircumflex.sc;
 layers = (
