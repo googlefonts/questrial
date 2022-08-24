@@ -4239,7 +4239,7 @@ position = "{321, 0}";
 },
 {
 name = ogonek;
-position = "{646, 0}";
+position = "{646, 2}";
 },
 {
 name = top;
@@ -5290,7 +5290,7 @@ position = "{319, 0}";
 },
 {
 name = ogonek;
-position = "{390, 0}";
+position = "{366, 0}";
 },
 {
 name = top;
@@ -5821,7 +5821,7 @@ position = "{272, 0}";
 },
 {
 name = ogonek;
-position = "{392, 0}";
+position = "{352, 0}";
 },
 {
 name = top;
@@ -23259,7 +23259,7 @@ position = "{345, 0}";
 },
 {
 name = ogonek;
-position = "{443, 0}";
+position = "{413, 0}";
 },
 {
 name = top;
@@ -34517,7 +34517,7 @@ position = "{272, 0}";
 },
 {
 name = ogonek;
-position = "{392, 0}";
+position = "{322, 0}";
 },
 {
 name = top;
@@ -38640,6 +38640,10 @@ name = bottom;
 position = "{427, 0}";
 },
 {
+name = ogonek;
+position = "{822, 0}";
+},
+{
 name = top;
 position = "{491, 546}";
 }
@@ -39101,6 +39105,10 @@ anchors = (
 {
 name = bottom;
 position = "{285, 0}";
+},
+{
+name = ogonek;
+position = "{359, 0}";
 },
 {
 name = top;
@@ -40557,6 +40565,10 @@ name = bottom;
 position = "{243, 0}";
 },
 {
+name = ogonek;
+position = "{310, 0}";
+},
+{
 name = top;
 position = "{243, 546}";
 }
@@ -41672,6 +41684,10 @@ name = center;
 position = "{287, 421}";
 },
 {
+name = ogonek;
+position = "{516, 0}";
+},
+{
 name = top;
 position = "{287, 546}";
 },
@@ -42766,6 +42782,10 @@ name = bottom;
 position = "{264, 0}";
 },
 {
+name = ogonek;
+position = "{539, 2}";
+},
+{
 name = top;
 position = "{275, 546}";
 }
@@ -43089,6 +43109,10 @@ position = "{236, 0}";
 {
 name = center;
 position = "{221, 265}";
+},
+{
+name = ogonek;
+position = "{436, 0}";
 },
 {
 name = top;
@@ -43519,6 +43543,10 @@ anchors = (
 {
 name = bottom;
 position = "{330, 0}";
+},
+{
+name = ogonek;
+position = "{605, 0}";
 },
 {
 name = top;
@@ -45209,6 +45237,10 @@ name = bottom;
 position = "{284, 0}";
 },
 {
+name = ogonek;
+position = "{323, 0}";
+},
+{
 name = top;
 position = "{275, 546}";
 }
@@ -45972,6 +46004,10 @@ name = bottom;
 position = "{275, 0}";
 },
 {
+name = ogonek;
+position = "{529, 0}";
+},
+{
 name = top;
 position = "{255, 546}";
 }
@@ -46313,6 +46349,10 @@ anchors = (
 {
 name = bottom;
 position = "{255, 0}";
+},
+{
+name = ogonek;
+position = "{320, 0}";
 },
 {
 name = top;
@@ -46765,6 +46805,10 @@ position = "{233, 0}";
 {
 name = center;
 position = "{233, 265}";
+},
+{
+name = ogonek;
+position = "{281, 0}";
 },
 {
 name = top;
@@ -48092,6 +48136,10 @@ name = bottom;
 position = "{262, 0}";
 },
 {
+name = ogonek;
+position = "{310, 0}";
+},
+{
 name = top;
 position = "{262, 546}";
 }
@@ -48757,6 +48805,10 @@ name = bottom;
 position = "{269, 0}";
 },
 {
+name = ogonek;
+position = "{315, 0}";
+},
+{
 name = top;
 position = "{268, 546}";
 },
@@ -49158,6 +49210,10 @@ position = "{240, 0}";
 {
 name = center;
 position = "{240, 265}";
+},
+{
+name = ogonek;
+position = "{466, 0}";
 },
 {
 name = top;
