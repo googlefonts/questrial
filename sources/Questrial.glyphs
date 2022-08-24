@@ -60704,13 +60704,50 @@ name = bottom;
 position = "{156.5, -146}";
 }
 );
-components = (
+hints = (
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 0, -730}";
+place = "{0, 313}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-121, 59}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-161, 58}";
+type = Stem;
 }
 );
 layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"281 -161 OFFCURVE",
+"306 -112 OFFCURVE",
+"313 -63 CURVE",
+"281 -63 LINE",
+"276 -80 OFFCURVE",
+"261 -103 OFFCURVE",
+"232 -103 CURVE SMOOTH",
+"186 -103 OFFCURVE",
+"161 -62 OFFCURVE",
+"97 -62 CURVE SMOOTH",
+"32 -62 OFFCURVE",
+"6 -111 OFFCURVE",
+"0 -160 CURVE",
+"31 -160 LINE",
+"37 -143 OFFCURVE",
+"50 -121 OFFCURVE",
+"81 -121 CURVE SMOOTH",
+"127 -121 OFFCURVE",
+"152 -161 OFFCURVE",
+"217 -161 CURVE SMOOTH"
+);
+}
+);
 width = 313;
 }
 );
