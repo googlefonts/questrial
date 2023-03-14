@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ytilde.sc;
+kernLeft = y.sc;
+kernRight = y.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (121,-116);
+ref = tildecomb.case;
+}
+);
+width = 536;
+}
+);
+}

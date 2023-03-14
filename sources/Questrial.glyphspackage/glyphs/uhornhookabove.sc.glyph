@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uhornhookabove.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn.sc;
+},
+{
+pos = (200,-116);
+ref = hookabovecomb.case;
+}
+);
+width = 581;
+}
+);
+}

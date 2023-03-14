@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uhorntilde.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn.sc;
+},
+{
+pos = (144,-116);
+ref = tildecomb.case;
+}
+);
+width = 581;
+}
+);
+}

@@ -1,0 +1,93 @@
+{
+glyphname = tdiagonalstroke;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (187,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(274,575,l),
+(-2,-75,l),
+(68,-75,l),
+(344,575,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 326;
+},
+{
+associatedMasterId = UUID0;
+layerId = "4C358E2B-6A72-47B7-9DB3-37F8621651FE";
+name = "May 27 20, 15:38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-112,l),
+(370,700,l),
+(300,700,l),
+(6,-112,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 326;
+},
+{
+associatedMasterId = UUID0;
+layerId = "68919424-DED3-4613-BE74-29849631A23F";
+name = "May 27 20, 15:59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,-112,l),
+(372,570,l),
+(299,570,l),
+(85,-112,l)
+);
+},
+{
+ref = t;
+}
+);
+visible = 1;
+width = 426;
+},
+{
+associatedMasterId = UUID0;
+layerId = "6C37A85F-81DE-4B46-A582-0BBAAF1A8B7D";
+name = "May 28 20, 15:19";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,-112,l),
+(358,621,l),
+(288,621,l),
+(94,-112,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 336;
+}
+);
+unicode = 11366;
+}

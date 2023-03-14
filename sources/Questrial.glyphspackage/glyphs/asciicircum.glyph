@@ -1,0 +1,37 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+hints = (
+{
+place = (75, 359);
+place = (75, 359);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (668, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,355,l),
+(255,570,l),
+(364,355,l),
+(434,355,l),
+(285,668,l),
+(224,668,l),
+(75,355,l)
+);
+}
+);
+width = 509;
+}
+);
+unicode = 94;
+}

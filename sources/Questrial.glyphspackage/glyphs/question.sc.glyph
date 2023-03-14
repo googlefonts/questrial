@@ -1,0 +1,16 @@
+{
+glyphname = question.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (406,546);
+ref = questiondown.sc;
+}
+);
+width = 406;
+}
+);
+}

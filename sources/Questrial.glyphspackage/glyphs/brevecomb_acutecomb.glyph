@@ -1,0 +1,30 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (118.5,500);
+},
+{
+name = top;
+pos = (118.5,800);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-12);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (65,113);
+ref = acutecomb;
+}
+);
+width = 237;
+}
+);
+}

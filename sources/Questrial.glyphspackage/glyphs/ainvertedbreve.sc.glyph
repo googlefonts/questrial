@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ainvertedbreve.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (157,-116);
+ref = breveinvertedcomb.case;
+}
+);
+width = 551;
+}
+);
+}

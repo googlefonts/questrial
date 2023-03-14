@@ -1,0 +1,21 @@
+{
+glyphname = Tcircumflexbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (142,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 565;
+}
+);
+unicode = 7792;
+}

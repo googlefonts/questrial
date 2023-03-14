@@ -1,0 +1,71 @@
+{
+glyphname = yhook;
+kernLeft = y;
+kernRight = yhook;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (249,0);
+},
+{
+name = top;
+pos = (249,500);
+}
+);
+hints = (
+{
+place = (4, 490);
+place = (4, 490);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(490,670,o),
+(453,597,o),
+(411,498,cs),
+(248,90,l),
+(87,500,l),
+(4,500,l),
+(208,7,l),
+(117,-198,l),
+(198,-198,l),
+(494,500,ls),
+(515,549,o),
+(539,596,o),
+(583,596,cs),
+(615,596,o),
+(625,571,o),
+(636,537,c),
+(692,562,l),
+(677,641,o),
+(634,670,o),
+(584,670,cs)
+);
+}
+);
+userData = {
+LWTimeline = "H4sIAAAAAAAAA21Ry2rDMBD8FbFnpVixHpGOTRtaSBtI2uYQQhG2EpvacrCVhmL875Xi9GBT0GF3Zmd2WLVwqHVpGlC7ForLZ2MKX+44Jjja7zGsN/egJkQyDCftsn4uKarGpKBcfTYYbJVe9UBnMaKCouXz6yNgYJFALCZotVjM39cfV8i3TPIB5EUBuvZo87JavT15mBM2nuRTD4mBH4+5XyF6cejlFDE+/UvAhUCcjhQUcRENE/TQKAGV0XiSspBVDCBCEJWzW4J95092yVOXgaJSYEiq8lRZY11/OOtPDQp+vFAX+dGWngEVYXC1ts2hqkvPtgSj6PpuRQfB9tyY+kE7DaqF5fYtD06EyYgwQQm/kzEhMfbMPDPJ16nKg/OY7zB8m9pt+4QT4ufD/9LgX5ukqtPcHkEddNH4jy104+aZtsd/NnW/RL8gIzkCAAA=";
+};
+width = 652;
+}
+);
+unicode = 436;
+}

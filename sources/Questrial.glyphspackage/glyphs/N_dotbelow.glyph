@@ -1,0 +1,21 @@
+{
+glyphname = Ndotbelow;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (323,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 733;
+}
+);
+unicode = 7750;
+}

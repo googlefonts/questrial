@@ -1,0 +1,31 @@
+{
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (44.5,0);
+},
+{
+name = bottom;
+pos = (44.5,-151);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,-151,l),
+(89,-68,l),
+(0,-68,l),
+(0,-151,l)
+);
+}
+);
+width = 89;
+}
+);
+unicode = 803;
+}

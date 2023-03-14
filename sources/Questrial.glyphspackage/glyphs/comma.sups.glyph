@@ -1,0 +1,33 @@
+{
+glyphname = comma.sups;
+layers = (
+{
+hints = (
+{
+place = (7.7, 109.2);
+place = (7.7, 109.2);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (369.9, 149.1);
+place = (369.9, 149.1);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,391,l),
+(147,540,l),
+(65,540,l),
+(25,391,l)
+);
+}
+);
+width = 172;
+}
+);
+}

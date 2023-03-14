@@ -1,0 +1,116 @@
+{
+glyphname = horncomb;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (182,537);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-25,469,l),
+(40,469,l),
+(40,544,l),
+(-45,544,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(54,578,o),
+(20,544,o),
+(-30,544,cs),
+(-50,544,l),
+(-50,474,l),
+(-30,474,ls),
+(61,474,o),
+(124,535,o),
+(124,653,c),
+(54,653,l)
+);
+}
+);
+width = 169;
+},
+{
+associatedMasterId = UUID0;
+layerId = "4D873ADA-1B61-40D3-9464-8AB201791580";
+name = "Apr 13 20, 17:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(93,500,o),
+(136,540,o),
+(136,623,c),
+(90,623,l),
+(90,565,o),
+(64,539,o),
+(25,539,c),
+(25,500,l)
+);
+}
+);
+width = 161;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (182,537);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-25,469,l),
+(40,469,l),
+(40,544,l),
+(-45,544,l)
+);
+}
+);
+};
+layerId = "8FBFAD0A-3645-4EE7-BD88-DE4E1A637E71";
+name = "May 27 20, 15:45";
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,484,o),
+(114,542,o),
+(114,653,c),
+(54,653,l),
+(54,578,o),
+(20,544,o),
+(-30,544,c),
+(-30,484,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-50,484,l),
+(-30,484,l),
+(-30,544,l),
+(-50,544,l)
+);
+}
+);
+width = 169;
+}
+);
+unicode = 795;
+}

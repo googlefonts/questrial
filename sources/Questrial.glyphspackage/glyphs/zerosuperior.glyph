@@ -1,0 +1,19 @@
+{
+glyphname = zerosuperior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,172);
+ref = zero.numr;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-08-24 14:52:31 +0000";
+};
+width = 375;
+}
+);
+unicode = 8304;
+}

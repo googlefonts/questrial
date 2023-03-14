@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ohorndotbelow.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (254,0);
+ref = dotbelowcomb;
+}
+);
+width = 615;
+}
+);
+}

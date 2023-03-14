@@ -1,0 +1,68 @@
+{
+glyphname = Lmiddletilde;
+kernLeft = I;
+kernRight = L;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (205,368);
+}
+);
+hints = (
+{
+place = (-53, 361.203);
+place = (-53, 361.203);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (328.787, 68.086);
+place = (328.787, 68.086);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (282.627, 66.932);
+place = (282.627, 66.932);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,273,o),
+(378,326,o),
+(386,379,c),
+(348,379,l),
+(344,361,o),
+(326,336,o),
+(293,336,cs),
+(234,336,o),
+(202,380,o),
+(119,380,cs),
+(45,380,o),
+(15,326,o),
+(7,274,c),
+(44,274,l),
+(51,291,o),
+(65,317,o),
+(100,317,cs),
+(160,317,o),
+(191,273,o),
+(275,273,cs)
+);
+},
+{
+pos = (77,0);
+ref = L;
+}
+);
+width = 610;
+}
+);
+unicode = 11362;
+}

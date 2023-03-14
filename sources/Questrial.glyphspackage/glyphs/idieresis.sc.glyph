@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = idieresis.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-20,-116);
+ref = dieresiscomb.case;
+}
+);
+width = 205;
+}
+);
+}

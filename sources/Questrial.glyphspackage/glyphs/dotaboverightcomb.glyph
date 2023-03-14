@@ -1,0 +1,15 @@
+{
+glyphname = dotaboverightcomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = dotaccentcomb;
+}
+);
+width = 89;
+}
+);
+unicode = 856;
+}

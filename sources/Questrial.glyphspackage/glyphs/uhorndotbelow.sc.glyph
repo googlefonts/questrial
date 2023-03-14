@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uhorndotbelow.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn.sc;
+},
+{
+pos = (247,0);
+ref = dotbelowcomb;
+}
+);
+width = 581;
+}
+);
+}

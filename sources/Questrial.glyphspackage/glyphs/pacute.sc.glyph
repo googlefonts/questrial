@@ -1,0 +1,18 @@
+{
+glyphname = pacute.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = p.sc;
+},
+{
+pos = (204,46);
+ref = acutecomb;
+}
+);
+width = 518;
+}
+);
+}

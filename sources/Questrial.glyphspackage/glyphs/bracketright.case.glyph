@@ -1,0 +1,15 @@
+{
+glyphname = bracketright.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,50);
+ref = bracketright;
+}
+);
+width = 280;
+}
+);
+}

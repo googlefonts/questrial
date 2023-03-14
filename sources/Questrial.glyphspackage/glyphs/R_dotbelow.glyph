@@ -1,0 +1,21 @@
+{
+glyphname = Rdotbelow;
+kernLeft = I;
+kernRight = R;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (291,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 669;
+}
+);
+unicode = 7770;
+}

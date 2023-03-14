@@ -1,0 +1,22 @@
+{
+glyphname = udieresisacute.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (169,46);
+ref = dieresiscomb;
+},
+{
+pos = (240,174);
+ref = acutecomb;
+}
+);
+width = 581;
+}
+);
+}

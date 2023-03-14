@@ -1,0 +1,18 @@
+{
+glyphname = gacute.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (246,46);
+ref = acutecomb;
+}
+);
+width = 593;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = cdotaccent.sc;
+kernLeft = o.sc;
+kernRight = c.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = c.sc;
+},
+{
+pos = (250,-116);
+ref = dotaccentcomb.case;
+}
+);
+width = 569;
+}
+);
+}

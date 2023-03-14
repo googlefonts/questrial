@@ -1,0 +1,18 @@
+{
+glyphname = acaron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (134,46);
+ref = caroncomb;
+}
+);
+width = 551;
+}
+);
+}

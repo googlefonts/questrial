@@ -1,0 +1,18 @@
+{
+glyphname = emod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,290);
+ref = e;
+scale = (0.7,0.65);
+}
+);
+width = 390;
+}
+);
+unicode = 7497;
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = abreve.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (157,-116);
+ref = brevecomb.case;
+}
+);
+width = 551;
+}
+);
+}

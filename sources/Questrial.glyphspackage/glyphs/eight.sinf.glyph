@@ -1,0 +1,18 @@
+{
+glyphname = eight.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-586);
+ref = eight.sups;
+}
+);
+width = 370;
+}
+);
+metricLeft = eight.sups;
+metricRight = eight.sups;
+}

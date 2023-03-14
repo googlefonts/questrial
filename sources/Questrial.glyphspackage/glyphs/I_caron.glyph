@@ -1,0 +1,21 @@
+{
+glyphname = Icaron;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-22,0);
+ref = caroncomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 463;
+}

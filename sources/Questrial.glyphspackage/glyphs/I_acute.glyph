@@ -1,0 +1,21 @@
+{
+glyphname = Iacute;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (65,0);
+ref = acutecomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 205;
+}

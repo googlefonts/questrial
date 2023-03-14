@@ -1,0 +1,26 @@
+{
+glyphname = Aringacute;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (241,0);
+ref = ringcomb.case;
+},
+{
+pos = (276,144);
+ref = acutecomb.case;
+}
+);
+width = 662;
+}
+);
+metricRight = A;
+unicode = 506;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = obarred;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(464,218,l),
+(464,283,l),
+(97,283,l),
+(97,218,l)
+);
+},
+{
+ref = o;
+}
+);
+width = 564;
+}
+);
+unicode = 629;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = daggerdbl;
+layers = (
+{
+hints = (
+{
+place = (197, 61);
+place = (197, 61);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (31, 61);
+place = (31, 61);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (439, 61);
+place = (439, 61);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(248,-131,l),
+(248,31,l),
+(397,31,l),
+(397,92,l),
+(248,92,l),
+(248,439,l),
+(397,439,l),
+(397,500,l),
+(248,500,l),
+(248,662,l),
+(187,662,l),
+(187,500,l),
+(38,500,l),
+(38,439,l),
+(187,439,l),
+(187,92,l),
+(38,92,l),
+(38,31,l),
+(187,31,l),
+(187,-131,l)
+);
+}
+);
+width = 435;
+}
+);
+metricLeft = dagger;
+metricRight = dagger;
+unicode = 8225;
+}

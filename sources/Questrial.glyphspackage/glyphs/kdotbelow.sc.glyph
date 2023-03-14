@@ -1,0 +1,18 @@
+{
+glyphname = kdotbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = k.sc;
+},
+{
+pos = (220,0);
+ref = dotbelowcomb;
+}
+);
+width = 539;
+}
+);
+}

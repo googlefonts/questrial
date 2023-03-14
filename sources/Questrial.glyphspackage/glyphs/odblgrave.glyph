@@ -1,0 +1,21 @@
+{
+glyphname = odblgrave;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (70,0);
+ref = dblgravecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 525;
+}

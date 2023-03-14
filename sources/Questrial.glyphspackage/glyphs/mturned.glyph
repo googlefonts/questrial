@@ -1,0 +1,29 @@
+{
+glyphname = mturned;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (434,0);
+},
+{
+name = top;
+pos = (434,500);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (868,500);
+ref = m;
+}
+);
+width = 868;
+}
+);
+unicode = 623;
+}

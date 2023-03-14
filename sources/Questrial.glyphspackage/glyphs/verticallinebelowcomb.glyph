@@ -1,0 +1,16 @@
+{
+glyphname = verticallinebelowcomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-999);
+ref = verticallineabovecomb;
+}
+);
+width = 156;
+}
+);
+unicode = 809;
+}

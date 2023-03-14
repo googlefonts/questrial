@@ -1,0 +1,50 @@
+{
+glyphname = Ohorn;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (534,662);
+},
+{
+name = bottom;
+pos = (375,0);
+},
+{
+name = top;
+pos = (375,662);
+},
+{
+name = topright;
+pos = (665,830);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(563,696,o),
+(529,662,o),
+(479,662,cs),
+(441,662,l),
+(459,592,l),
+(479,592,ls),
+(570,592,o),
+(633,653,o),
+(633,771,c),
+(563,771,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 750;
+}
+);
+unicode = 416;
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = scedilla.sc;
+kernLeft = s.sc;
+kernRight = s.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (139,0);
+ref = cedillacomb;
+}
+);
+width = 507;
+}
+);
+}

@@ -1,0 +1,22 @@
+{
+glyphname = udieresisgrave.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (169,46);
+ref = dieresiscomb;
+},
+{
+pos = (210,174);
+ref = gravecomb;
+}
+);
+width = 581;
+}
+);
+}

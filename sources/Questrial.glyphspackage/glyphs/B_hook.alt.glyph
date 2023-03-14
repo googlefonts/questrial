@@ -1,0 +1,120 @@
+{
+color = 0;
+glyphname = Bhook.alt;
+kernLeft = Bhook;
+kernRight = B;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (314,0);
+},
+{
+name = top;
+pos = (314,662);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (546, 75);
+place = (546, 75);
+type = Stem;
+},
+{
+place = (512, 75);
+place = (512, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 71);
+place = (0, 71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (298, 68);
+place = (298, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591, 71);
+place = (591, 71);
+type = Stem;
+},
+{
+origin = (0,11);
+place = (81, -75);
+type = Stem;
+},
+{
+origin = (0,11);
+place = (81, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+origin = (0,11);
+place = (662, -70);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+place = (662, -71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(379,0,ls),
+(520,0,o),
+(607,72,o),
+(607,184,cs),
+(607,297,o),
+(520,368,o),
+(379,368,cs),
+(156,368,l),
+(156,591,l),
+(527,591,l),
+(527,662,l),
+(81,662,l),
+(81,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,298,l),
+(374,298,ls),
+(478,298,o),
+(532,255,o),
+(532,184,cs),
+(532,114,o),
+(478,71,o),
+(374,71,cs),
+(156,71,l)
+);
+}
+);
+width = 628;
+}
+);
+metricRight = P;
+}

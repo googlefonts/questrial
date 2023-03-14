@@ -1,0 +1,21 @@
+{
+glyphname = Macute;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (349,0);
+ref = acutecomb.case;
+}
+);
+width = 806;
+}
+);
+unicode = 7742;
+}

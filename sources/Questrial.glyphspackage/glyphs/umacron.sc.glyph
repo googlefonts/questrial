@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = umacron.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (159,-116);
+ref = macroncomb.case;
+}
+);
+width = 581;
+}
+);
+}

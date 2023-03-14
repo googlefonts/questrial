@@ -1,0 +1,34 @@
+{
+glyphname = grave;
+layers = (
+{
+hints = (
+{
+place = (93, 168);
+place = (93, 168);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (570, 105);
+place = (570, 105);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(261,570,l),
+(200,675,l),
+(93,675,l),
+(200,570,l)
+);
+}
+);
+width = 340;
+}
+);
+unicode = 96;
+}

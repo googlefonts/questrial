@@ -1,0 +1,21 @@
+{
+glyphname = Ccedillaacute;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Ccedilla;
+},
+{
+pos = (291,0);
+ref = acutecomb.case;
+}
+);
+width = 690;
+}
+);
+unicode = 7688;
+}

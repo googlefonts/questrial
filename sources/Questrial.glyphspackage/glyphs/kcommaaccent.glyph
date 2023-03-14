@@ -1,0 +1,21 @@
+{
+glyphname = kcommaaccent;
+kernLeft = h;
+kernRight = k;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (170,0);
+ref = commaaccentcomb;
+}
+);
+width = 502;
+}
+);
+unicode = 311;
+}

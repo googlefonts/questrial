@@ -1,0 +1,16 @@
+{
+glyphname = seven.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-21,-173);
+ref = seven.sups;
+}
+);
+width = 325;
+}
+);
+}

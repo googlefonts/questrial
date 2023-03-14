@@ -1,0 +1,17 @@
+{
+glyphname = fiveinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = five.sinf;
+}
+);
+width = 359;
+}
+);
+metricLeft = five;
+metricRight = five;
+unicode = 8325;
+}

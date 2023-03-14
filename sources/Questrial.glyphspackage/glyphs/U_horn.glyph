@@ -1,0 +1,86 @@
+{
+glyphname = Uhorn;
+kernLeft = U;
+kernRight = Uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (355,0);
+},
+{
+name = ogonek;
+pos = (434,10);
+},
+{
+name = top;
+pos = (355,662);
+},
+{
+name = topright;
+pos = (689,662);
+}
+);
+hints = (
+{
+place = (73, 75);
+place = (73, 75);
+type = Stem;
+},
+{
+place = (561, 75);
+place = (561, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 73);
+place = (-8, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(718,771,l),
+(718,696,o),
+(684,662,o),
+(634,662,cs),
+(561,662,l),
+(561,283,ls),
+(561,129,o),
+(459,65,o),
+(354,65,cs),
+(249,65,o),
+(148,129,o),
+(148,283,cs),
+(148,662,l),
+(73,662,l),
+(73,285,ls),
+(73,109,o),
+(189,-8,o),
+(354,-8,cs),
+(520,-8,o),
+(636,110,o),
+(636,285,cs),
+(636,592,l),
+(726,593,o),
+(788,654,o),
+(788,771,c)
+);
+}
+);
+width = 709;
+}
+);
+unicode = 431;
+}

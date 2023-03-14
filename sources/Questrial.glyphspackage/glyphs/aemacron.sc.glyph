@@ -1,0 +1,18 @@
+{
+glyphname = aemacron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ae.sc;
+},
+{
+pos = (359,46);
+ref = macroncomb;
+}
+);
+width = 845;
+}
+);
+}

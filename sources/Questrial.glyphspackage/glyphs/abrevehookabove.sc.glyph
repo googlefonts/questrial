@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = abrevehookabove.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (157,46);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 551;
+}
+);
+}

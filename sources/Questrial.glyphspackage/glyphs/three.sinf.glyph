@@ -1,0 +1,18 @@
+{
+glyphname = three.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-586);
+ref = three.sups;
+}
+);
+width = 366;
+}
+);
+metricLeft = three.sups;
+metricRight = three.sups;
+}

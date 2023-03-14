@@ -1,0 +1,35 @@
+{
+glyphname = eturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (237,0);
+},
+{
+name = ogonek;
+pos = (446,0);
+},
+{
+name = top;
+pos = (232,546);
+},
+{
+name = topleft;
+pos = (-10,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (502,0);
+ref = e.sc;
+scale = (-1,1);
+}
+);
+width = 502;
+}
+);
+}

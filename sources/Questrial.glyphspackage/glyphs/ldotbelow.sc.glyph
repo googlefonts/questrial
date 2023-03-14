@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ldotbelow.sc;
+kernLeft = i.sc;
+kernRight = l.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (192,0);
+ref = dotbelowcomb;
+}
+);
+width = 459;
+}
+);
+}

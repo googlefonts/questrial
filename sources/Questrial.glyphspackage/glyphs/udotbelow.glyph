@@ -1,0 +1,22 @@
+{
+glyphname = udotbelow;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (239,0);
+ref = dotbelowcomb;
+}
+);
+width = 566;
+}
+);
+metricRight = u;
+unicode = 7909;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Aringbelow;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (241,0);
+ref = ringbelowcomb;
+}
+);
+width = 662;
+}
+);
+unicode = 7680;
+}

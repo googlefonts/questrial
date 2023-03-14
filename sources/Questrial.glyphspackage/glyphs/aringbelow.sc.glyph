@@ -1,0 +1,18 @@
+{
+glyphname = aringbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (186,0);
+ref = ringbelowcomb;
+}
+);
+width = 551;
+}
+);
+}

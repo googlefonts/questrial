@@ -1,0 +1,21 @@
+{
+glyphname = Einvertedbreve;
+kernLeft = I;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (216,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 608;
+}
+);
+unicode = 518;
+}

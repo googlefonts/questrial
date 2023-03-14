@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = otildeacute.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (160,-116);
+ref = tildecomb.case;
+},
+{
+pos = (263,6);
+ref = acutecomb.case;
+}
+);
+width = 615;
+}
+);
+}

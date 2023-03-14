@@ -1,0 +1,27 @@
+{
+glyphname = ringcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (90,500);
+},
+{
+name = top;
+pos = (89,695);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-74,0);
+ref = ring;
+}
+);
+width = 180;
+}
+);
+unicode = 778;
+}

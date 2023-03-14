@@ -1,0 +1,22 @@
+{
+glyphname = adotmacron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (231,46);
+ref = dotaccentcomb;
+},
+{
+pos = (144,174);
+ref = macroncomb;
+}
+);
+width = 551;
+}
+);
+}

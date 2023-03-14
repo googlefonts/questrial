@@ -1,0 +1,23 @@
+{
+glyphname = kstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-11,471,l),
+(-11,407,l),
+(216,407,l),
+(216,471,l)
+);
+},
+{
+ref = k.sc;
+}
+);
+width = 539;
+}
+);
+}

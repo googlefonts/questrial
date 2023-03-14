@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = dcaron.sc;
+kernLeft = i.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (148,-116);
+ref = caroncomb.case;
+}
+);
+width = 578;
+}
+);
+}

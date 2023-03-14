@@ -1,0 +1,53 @@
+{
+glyphname = cstroke.sc;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (345,0);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (293,-7);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,-40,l),
+(460,578,l),
+(402,578,l),
+(139,-40,l)
+);
+},
+{
+pos = (5,-7);
+ref = C;
+scale = (0.8339,0.8339);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(204,-40,l),
+(469,583,l),
+(399,583,l),
+(134,-40,l)
+);
+},
+{
+ref = c.sc;
+}
+);
+width = 569;
+}
+);
+}

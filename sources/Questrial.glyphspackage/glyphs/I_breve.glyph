@@ -1,0 +1,21 @@
+{
+glyphname = Ibreve;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (1,0);
+ref = brevecomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 300;
+}

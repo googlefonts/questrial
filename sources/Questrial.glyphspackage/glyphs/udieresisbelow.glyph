@@ -1,0 +1,21 @@
+{
+glyphname = udieresisbelow;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (160,0);
+ref = dieresisbelowcomb;
+}
+);
+width = 566;
+}
+);
+unicode = 7795;
+}

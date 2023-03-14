@@ -1,0 +1,18 @@
+{
+glyphname = hcaron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (146,46);
+ref = caroncomb;
+}
+);
+width = 573;
+}
+);
+}

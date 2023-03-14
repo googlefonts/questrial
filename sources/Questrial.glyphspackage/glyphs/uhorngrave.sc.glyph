@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uhorngrave.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn.sc;
+},
+{
+pos = (177,-116);
+ref = gravecomb.case;
+}
+);
+width = 581;
+}
+);
+}

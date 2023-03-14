@@ -1,0 +1,36 @@
+{
+glyphname = Ereversed;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = ogonek;
+pos = (537,2);
+},
+{
+name = top;
+pos = (293,662);
+},
+{
+name = topleft;
+pos = (-21,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (608,0);
+ref = E;
+scale = (-1,1);
+}
+);
+width = 608;
+}
+);
+unicode = 398;
+}

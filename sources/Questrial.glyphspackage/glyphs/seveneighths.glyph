@@ -1,0 +1,29 @@
+{
+glyphname = seveneighths;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = seven.numr;
+},
+{
+alignment = -1;
+pos = (81,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (362,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
+};
+width = 728;
+}
+);
+note = "\012    seveneighths\012  ";
+unicode = 8542;
+}

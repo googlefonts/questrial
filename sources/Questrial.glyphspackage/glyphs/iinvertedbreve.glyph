@@ -1,0 +1,21 @@
+{
+glyphname = iinvertedbreve;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-16,0);
+ref = breveinvertedcomb;
+}
+);
+width = 205;
+}
+);
+unicode = 523;
+}

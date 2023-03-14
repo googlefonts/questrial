@@ -1,0 +1,27 @@
+{
+glyphname = fl;
+kernLeft = f;
+kernRight = l;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (269,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (307,0);
+ref = l;
+}
+);
+width = 512;
+}
+);
+unicode = 64258;
+}

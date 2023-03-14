@@ -1,0 +1,44 @@
+{
+glyphname = Fhook;
+kernLeft = I;
+kernRight = F;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (153,243);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,-105,o),
+(38,-137,o),
+(-30,-137,cs),
+(-45,-137,o),
+(-60,-136,o),
+(-76,-133,c),
+(-76,-201,l),
+(-57,-205,o),
+(-38,-206,o),
+(-21,-206,cs),
+(80,-206,o),
+(156,-143,o),
+(156,-19,cs),
+(156,0,l),
+(81,0,l)
+);
+},
+{
+ref = F;
+}
+);
+width = 583;
+}
+);
+metricRight = F;
+unicode = 401;
+}

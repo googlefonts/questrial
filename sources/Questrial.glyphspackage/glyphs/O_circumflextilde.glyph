@@ -1,0 +1,25 @@
+{
+glyphname = Ocircumflextilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (234,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (228,144);
+ref = tildecomb.case;
+}
+);
+width = 750;
+}
+);
+unicode = 7894;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = J;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (264,0);
+},
+{
+name = top;
+pos = (413,662);
+}
+);
+hints = (
+{
+place = (377, 75);
+place = (377, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 73);
+place = (-8, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,-8,o),
+(452,103,o),
+(452,219,cs),
+(452,662,l),
+(377,662,l),
+(377,222,ls),
+(377,154,o),
+(360,65,o),
+(240,65,cs),
+(146,65,o),
+(101,125,o),
+(93,177,c),
+(15,177,l),
+(24,87,o),
+(93,-8,o),
+(236,-8,cs)
+);
+}
+);
+width = 527;
+}
+);
+unicode = 74;
+}

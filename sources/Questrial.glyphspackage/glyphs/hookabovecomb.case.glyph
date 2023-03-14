@@ -1,0 +1,47 @@
+{
+glyphname = hookabovecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (91,662);
+},
+{
+name = top;
+pos = (91,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (26,160);
+ref = hookabovecomb;
+}
+);
+width = 182;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (91,662);
+},
+{
+name = top;
+pos = (91,662);
+}
+);
+associatedMasterId = UUID0;
+layerId = "6769F8CF-28FF-4627-A4A7-B5030571C64D";
+name = "May 4 20, 11:12";
+shapes = (
+{
+pos = (26,150);
+ref = hookabovecomb;
+}
+);
+width = 182;
+}
+);
+}

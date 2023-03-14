@@ -1,0 +1,34 @@
+{
+glyphname = fraction;
+layers = (
+{
+hints = (
+{
+place = (-8, 484);
+place = (-8, 484);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-14, 688);
+place = (-14, 688);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(56,-14,l),
+(476,674,l),
+(412,674,l),
+(-8,-14,l)
+);
+}
+);
+width = 468;
+}
+);
+unicode = 8260;
+}

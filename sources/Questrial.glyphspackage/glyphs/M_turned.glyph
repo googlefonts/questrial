@@ -1,0 +1,194 @@
+{
+glyphname = Mturned;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (450,162);
+},
+{
+name = top;
+pos = (450,662);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (65, -75);
+place = (65, -75);
+type = Stem;
+},
+{
+place = (399, -75);
+place = (399, -75);
+type = Stem;
+},
+{
+place = (733, -75);
+place = (733, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (222, -68);
+place = (222, -68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (162, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "E884619F-0041-4C42-BB2B-85A11EC5DA53";
+name = "May 12 20, 11:56";
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,-8,l),
+(156,-8,l),
+(156,68,l),
+(177,28,o),
+(211,-16,o),
+(298,-16,cs),
+(360,-16,o),
+(417,21,o),
+(447,85,c),
+(466,51,o),
+(516,-16,o),
+(609,-16,cs),
+(700,-16,o),
+(784,64,o),
+(784,190,cs),
+(784,662,l),
+(709,662,l),
+(709,192,ls),
+(709,108,o),
+(659,52,o),
+(595,52,cs),
+(526,52,o),
+(470,104,o),
+(470,193,cs),
+(470,662,l),
+(395,662,l),
+(395,192,ls),
+(395,108,o),
+(345,52,o),
+(281,52,cs),
+(212,52,o),
+(156,104,o),
+(156,193,cs),
+(156,662,l),
+(81,662,l)
+);
+}
+);
+width = 865;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (450,0);
+},
+{
+name = top;
+pos = (450,662);
+}
+);
+hints = (
+{
+place = (65, -75);
+place = (65, -75);
+type = Stem;
+},
+{
+place = (399, -75);
+place = (399, -75);
+type = Stem;
+},
+{
+place = (733, -75);
+place = (733, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (222, -68);
+place = (222, -68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (162, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(749,662,l),
+(749,193,ls),
+(749,104,o),
+(688,52,o),
+(614,52,cs),
+(544,52,o),
+(490,108,o),
+(490,192,cs),
+(490,662,l),
+(415,662,l),
+(415,193,ls),
+(415,104,o),
+(354,52,o),
+(280,52,cs),
+(210,52,o),
+(156,108,o),
+(156,192,cs),
+(156,662,l),
+(81,662,l),
+(81,190,ls),
+(81,64,o),
+(170,-16,o),
+(266,-16,cs),
+(365,-16,o),
+(418,51,o),
+(438,85,c),
+(470,21,o),
+(531,-16,o),
+(597,-16,cs),
+(678,-16,o),
+(726,28,o),
+(749,68,c),
+(749,-8,l),
+(824,-8,l),
+(824,662,l)
+);
+}
+);
+width = 905;
+}
+);
+metricLeft = M;
+metricRight = M;
+unicode = 412;
+}

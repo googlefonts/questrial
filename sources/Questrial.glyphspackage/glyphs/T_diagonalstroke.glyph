@@ -1,0 +1,52 @@
+{
+glyphname = Tdiagonalstroke;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (309,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,-40,l),
+(509,700,l),
+(439,700,l),
+(124,-40,l)
+);
+},
+{
+ref = T;
+}
+);
+width = 565;
+},
+{
+associatedMasterId = UUID0;
+layerId = "CD943743-3850-40F5-92F6-679F02A710A3";
+name = "May 28 20, 14:49";
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,-112,l),
+(555,760,l),
+(485,760,l),
+(101,-112,l)
+);
+},
+{
+ref = T;
+}
+);
+width = 565;
+}
+);
+unicode = 574;
+}

@@ -1,0 +1,47 @@
+{
+color = 0;
+glyphname = Bhook;
+kernLeft = Bhook;
+kernRight = B;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (454,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(204,662,l),
+(182,662,ls),
+(66,658,o),
+(5,590,o),
+(5,488,cs),
+(5,471,o),
+(6,452,o),
+(10,433,c),
+(78,433,l),
+(75,449,o),
+(74,464,o),
+(74,479,cs),
+(74,547,o),
+(110,591,o),
+(204,591,c)
+);
+},
+{
+alignment = -1;
+pos = (123,0);
+ref = B;
+}
+);
+width = 785;
+}
+);
+metricRight = B;
+unicode = 385;
+}

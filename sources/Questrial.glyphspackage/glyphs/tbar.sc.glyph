@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = tbar.sc;
+kernLeft = t.sc;
+kernRight = t.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (49,-5);
+ref = barcomp;
+}
+);
+width = 467;
+}
+);
+}

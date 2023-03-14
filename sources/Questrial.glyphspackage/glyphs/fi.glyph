@@ -1,0 +1,90 @@
+{
+glyphname = fi;
+kernLeft = f;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (267,0);
+}
+);
+hints = (
+{
+place = (99, 75);
+place = (99, 75);
+type = Stem;
+},
+{
+place = (356, 75);
+place = (356, 75);
+type = Stem;
+},
+{
+place = (353, 81);
+place = (353, 81);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (434, 66);
+place = (434, 66);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (584, 98);
+place = (584, 98);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (637, 71);
+place = (637, 71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,0,l),
+(174,434,l),
+(356,434,l),
+(431,500,l),
+(174,500,l),
+(174,538,ls),
+(174,607,o),
+(210,637,o),
+(280,637,cs),
+(290,637,l),
+(290,708,l),
+(284,708,ls),
+(169,708,o),
+(99,653,o),
+(99,544,cs),
+(99,500,l),
+(13,500,l),
+(13,434,l),
+(99,434,l),
+(99,0,l)
+);
+},
+{
+pos = (289,0);
+ref = i;
+}
+);
+width = 496;
+}
+);
+unicode = 64257;
+}

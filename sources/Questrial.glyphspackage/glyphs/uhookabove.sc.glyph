@@ -1,0 +1,18 @@
+{
+glyphname = uhookabove.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (208,65);
+ref = hookabovecomb;
+}
+);
+width = 581;
+}
+);
+}

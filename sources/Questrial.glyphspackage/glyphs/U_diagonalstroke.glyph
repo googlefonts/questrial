@@ -1,0 +1,78 @@
+{
+glyphname = Udiagonalstroke;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (355,0);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,-112,l),
+(783,760,l),
+(713,760,l),
+(101,-112,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,-40,l),
+(733,700,l),
+(653,700,l),
+(94,-40,l)
+);
+},
+{
+ref = U;
+}
+);
+width = 709;
+},
+{
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,-112,l),
+(783,760,l),
+(713,760,l),
+(101,-112,l)
+);
+}
+);
+};
+layerId = "4AFBA13A-3223-44BF-88E5-74E2402EBD73";
+name = "May 28 20, 15:53";
+shapes = (
+{
+closed = 1;
+nodes = (
+(722,644,l),
+(670,690,l),
+(86,18,l),
+(138,-28,l)
+);
+},
+{
+ref = U;
+}
+);
+width = 709;
+}
+);
+unicode = 42936;
+}

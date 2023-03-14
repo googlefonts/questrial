@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ograve.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (193,-116);
+ref = gravecomb.case;
+}
+);
+width = 615;
+}
+);
+}

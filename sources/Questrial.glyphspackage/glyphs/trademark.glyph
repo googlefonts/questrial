@@ -1,0 +1,71 @@
+{
+glyphname = trademark;
+layers = (
+{
+hints = (
+{
+place = (180, 49);
+place = (180, 49);
+type = Stem;
+},
+{
+place = (408, 49);
+place = (408, 49);
+type = Stem;
+},
+{
+place = (691, 49);
+place = (691, 49);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (509, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (615, 47);
+place = (615, 47);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(229,313,l),
+(229,615,l),
+(348,615,l),
+(348,662,l),
+(62,662,l),
+(62,615,l),
+(180,615,l),
+(180,313,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(457,313,l),
+(457,582,l),
+(575,433,l),
+(691,582,l),
+(691,313,l),
+(740,313,l),
+(740,662,l),
+(689,662,l),
+(575,509,l),
+(460,662,l),
+(408,662,l),
+(408,313,l)
+);
+}
+);
+width = 815;
+}
+);
+unicode = 8482;
+}

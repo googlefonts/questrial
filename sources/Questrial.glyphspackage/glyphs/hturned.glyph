@@ -1,0 +1,33 @@
+{
+glyphname = hturned;
+kernLeft = n;
+kernRight = a;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (283,-198);
+},
+{
+name = ogonek;
+pos = (491,-198);
+},
+{
+name = top;
+pos = (283,500);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (566,500);
+ref = h;
+}
+);
+width = 566;
+}
+);
+unicode = 613;
+}

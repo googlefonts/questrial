@@ -1,0 +1,14 @@
+{
+glyphname = theta.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = obarred.sc;
+}
+);
+width = 615;
+}
+);
+}

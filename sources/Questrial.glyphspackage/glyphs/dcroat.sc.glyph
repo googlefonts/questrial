@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = dcroat.sc;
+kernLeft = i.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eth.sc;
+}
+);
+width = 578;
+}
+);
+}

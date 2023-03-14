@@ -1,0 +1,130 @@
+{
+glyphname = oogonek;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (282,0);
+},
+{
+name = center;
+pos = (282,250);
+},
+{
+name = ogonek;
+pos = (368,0);
+},
+{
+name = top;
+pos = (282,500);
+},
+{
+name = topright;
+pos = (544,500);
+}
+);
+hints = (
+{
+place = (34, 75);
+place = (34, 75);
+type = Stem;
+},
+{
+place = (455, 75);
+place = (455, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,43,o),
+(530,138,o),
+(530,250,cs),
+(530,393,o),
+(435,508,o),
+(282,508,cs),
+(129,508,o),
+(34,393,o),
+(34,250,cs),
+(34,107,o),
+(129,-8,o),
+(282,-8,cs),
+(285,-8,l),
+(240,-30,o),
+(186,-63,o),
+(186,-123,cs),
+(186,-178,o),
+(234,-206,o),
+(283,-206,cs),
+(311,-206,o),
+(339,-198,o),
+(359,-182,c),
+(359,-143,l),
+(349,-150,o),
+(336,-154,o),
+(323,-154,cs),
+(293,-154,o),
+(263,-136,o),
+(263,-104,cs),
+(263,-54,o),
+(336,-11,o),
+(372,7,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(109,353,o),
+(171,440,o),
+(282,440,cs),
+(393,440,o),
+(455,353,o),
+(455,250,cs),
+(455,147,o),
+(393,60,o),
+(282,60,cs),
+(171,60,o),
+(109,147,o),
+(109,250,cs)
+);
+}
+);
+width = 564;
+},
+{
+associatedMasterId = UUID0;
+layerId = "C6474976-C88A-4D45-BE47-DD0F24A3A0EB";
+name = "Jun 9 20, 15:08";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (186,-2);
+ref = ogonekcomb;
+}
+);
+visible = 1;
+width = 564;
+}
+);
+unicode = 491;
+}

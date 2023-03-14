@@ -1,0 +1,16 @@
+{
+glyphname = zero.dnom;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (1,-448);
+ref = zero.sups;
+}
+);
+width = 377;
+}
+);
+}

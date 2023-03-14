@@ -1,0 +1,14 @@
+{
+glyphname = seven.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = seven.sinf;
+}
+);
+width = 325;
+}
+);
+}

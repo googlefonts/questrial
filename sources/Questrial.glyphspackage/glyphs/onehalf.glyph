@@ -1,0 +1,25 @@
+{
+glyphname = onehalf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (407,0);
+ref = two.dnom;
+},
+{
+ref = one.numr;
+},
+{
+alignment = -1;
+pos = (119,0);
+ref = fraction;
+}
+);
+width = 753;
+}
+);
+unicode = 189;
+}

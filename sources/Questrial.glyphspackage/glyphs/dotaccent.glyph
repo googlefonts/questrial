@@ -1,0 +1,34 @@
+{
+glyphname = dotaccent;
+layers = (
+{
+hints = (
+{
+place = (74, 89);
+place = (74, 89);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (579, 83);
+place = (579, 83);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,579,l),
+(163,662,l),
+(74,662,l),
+(74,579,l)
+);
+}
+);
+width = 235;
+}
+);
+unicode = 729;
+}

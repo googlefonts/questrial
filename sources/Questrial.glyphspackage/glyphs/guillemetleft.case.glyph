@@ -1,0 +1,17 @@
+{
+glyphname = guillemetleft.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,50);
+ref = guillemetleft;
+}
+);
+width = 487;
+}
+);
+metricLeft = guillemetleft;
+metricRight = guillemetleft;
+}

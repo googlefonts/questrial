@@ -1,0 +1,23 @@
+{
+glyphname = rstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-21,273,l),
+(-21,209,l),
+(305,209,l),
+(305,273,l)
+);
+},
+{
+ref = r.sc;
+}
+);
+width = 556;
+}
+);
+}

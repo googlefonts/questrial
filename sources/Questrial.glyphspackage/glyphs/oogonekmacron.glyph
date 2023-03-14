@@ -1,0 +1,40 @@
+{
+glyphname = oogonekmacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = oogonek;
+},
+{
+pos = (150,0);
+ref = macroncomb;
+}
+);
+width = 564;
+},
+{
+associatedMasterId = UUID0;
+layerId = "A5718CC3-B30D-4100-A27C-D39261DC3FC1";
+name = "Jun 9 20, 15:11";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (186,-2);
+ref = ogonekcomb;
+},
+{
+pos = (150,0);
+ref = macroncomb;
+}
+);
+width = 564;
+}
+);
+unicode = 493;
+}

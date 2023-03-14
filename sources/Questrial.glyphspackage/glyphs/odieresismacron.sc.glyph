@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = odieresismacron.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (184,-116);
+ref = dieresiscomb.case;
+},
+{
+pos = (175,6);
+ref = macroncomb.case;
+}
+);
+width = 615;
+}
+);
+}

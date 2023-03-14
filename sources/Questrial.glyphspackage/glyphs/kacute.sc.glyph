@@ -1,0 +1,18 @@
+{
+glyphname = kacute.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = k.sc;
+},
+{
+pos = (221,46);
+ref = acutecomb;
+}
+);
+width = 539;
+}
+);
+}

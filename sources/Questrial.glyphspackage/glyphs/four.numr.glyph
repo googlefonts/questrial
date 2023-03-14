@@ -1,0 +1,16 @@
+{
+glyphname = four.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-4,-173);
+ref = four.sups;
+}
+);
+width = 349;
+}
+);
+}

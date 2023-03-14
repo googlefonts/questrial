@@ -1,0 +1,14 @@
+{
+glyphname = nine.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = nine.sinf;
+}
+);
+width = 359;
+}
+);
+}

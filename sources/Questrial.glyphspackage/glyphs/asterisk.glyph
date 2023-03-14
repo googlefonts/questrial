@@ -1,0 +1,45 @@
+{
+glyphname = asterisk;
+layers = (
+{
+hints = (
+{
+place = (161, 51);
+place = (161, 51);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,492,l),
+(241,397,l),
+(292,434,l),
+(218,516,l),
+(325,538,l),
+(306,598,l),
+(206,553,l),
+(218,662,l),
+(155,662,l),
+(167,553,l),
+(67,598,l),
+(48,538,l),
+(155,515,l),
+(81,434,l),
+(132,397,l)
+);
+}
+);
+width = 373;
+}
+);
+unicode = 42;
+}

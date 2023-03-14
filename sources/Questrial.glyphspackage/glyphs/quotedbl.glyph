@@ -1,0 +1,45 @@
+{
+glyphname = quotedbl;
+kernLeft = quotesingle;
+kernRight = quotesingle;
+layers = (
+{
+hints = (
+{
+place = (47, 223);
+place = (47, 223);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (443, 219);
+place = (443, 219);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,443,l),
+(136,662,l),
+(47,662,l),
+(66,443,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(251,443,l),
+(270,662,l),
+(181,662,l),
+(200,443,l)
+);
+}
+);
+width = 317;
+}
+);
+unicode = 34;
+}

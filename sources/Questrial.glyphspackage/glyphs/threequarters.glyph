@@ -1,0 +1,50 @@
+{
+glyphname = threequarters;
+layers = (
+{
+hints = (
+{
+place = (643, 55);
+place = (643, 55);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (88, 49);
+place = (88, 49);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (301, 60);
+place = (301, 60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 137);
+place = (0, 137);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (182,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (423,0);
+ref = four.dnom;
+}
+);
+width = 792;
+}
+);
+unicode = 190;
+}

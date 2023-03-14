@@ -1,0 +1,57 @@
+{
+glyphname = Jstroke;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (415,0);
+},
+{
+name = ogonek;
+pos = (462,0);
+},
+{
+name = top;
+pos = (415,662);
+},
+{
+name = topleft;
+pos = (316,662);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,363,l),
+(271,298,l),
+(558,298,l),
+(558,363,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,364,l),
+(210,299,l),
+(558,299,l),
+(558,364,l)
+);
+},
+{
+ref = J;
+}
+);
+width = 527;
+}
+);
+unicode = 584;
+}

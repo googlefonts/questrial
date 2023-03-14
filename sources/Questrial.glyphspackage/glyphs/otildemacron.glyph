@@ -1,0 +1,25 @@
+{
+glyphname = otildemacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (126,0);
+ref = tildecomb;
+},
+{
+pos = (151,143);
+ref = macroncomb;
+}
+);
+width = 564;
+}
+);
+unicode = 557;
+}

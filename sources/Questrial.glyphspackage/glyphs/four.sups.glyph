@@ -1,0 +1,134 @@
+{
+glyphname = four.sups;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(69,577,l),
+(215,782,l)
+);
+}
+);
+};
+hints = (
+{
+place = (497, 49);
+place = (497, 49);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (379, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (478, 44);
+place = (478, 44);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (729, 43);
+place = (729, 43);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(273,835,l),
+(193,835,l),
+(27,602,l),
+(27,547,l),
+(211,547,l),
+(211,449,l),
+(273,449,l),
+(273,547,l),
+(325,547,l),
+(325,605,l),
+(273,605,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(211,776,l),
+(211,605,l),
+(89,605,l)
+);
+}
+);
+width = 349;
+},
+{
+associatedMasterId = UUID0;
+hints = (
+{
+place = (589.9, 52.5);
+place = (589.9, 52.5);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (449, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (567.3, 46.9);
+place = (567.3, 46.9);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (867.6, 44.8);
+place = (867.6, 44.8);
+type = Stem;
+}
+);
+layerId = "8BD56FD2-FD14-4F85-8B9C-45055DFB8653";
+name = "May 4 20, 17:32";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,449,l),
+(326,567,l),
+(389,567,l),
+(389,636,l),
+(326,636,l),
+(326,912,l),
+(230,912,l),
+(31,633,l),
+(31,567,l),
+(252,567,l),
+(252,449,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(255,848,l),
+(252,855,l),
+(252,636,l),
+(111,636,l)
+);
+},
+{
+pos = (9,449);
+ref = four;
+scale = (0.7,0.7);
+}
+);
+width = 428;
+}
+);
+}

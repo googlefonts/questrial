@@ -1,0 +1,30 @@
+{
+glyphname = whiteDiamond;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,335,l),
+(392,-17,l),
+(744,335,l),
+(392,687,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(693,335,l),
+(392,35,l),
+(92,335,l),
+(392,636,l)
+);
+}
+);
+width = 784;
+}
+);
+unicode = 9671;
+}

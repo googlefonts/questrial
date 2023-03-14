@@ -1,0 +1,41 @@
+{
+glyphname = estroke.sc;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,-40,l),
+(445,577,l),
+(386,577,l),
+(124,-40,l)
+);
+},
+{
+pos = (3,-7);
+ref = E;
+scale = (0.8337,0.8337);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,-40,l),
+(454,583,l),
+(384,583,l),
+(119,-40,l)
+);
+},
+{
+ref = e.sc;
+}
+);
+width = 502;
+}
+);
+}

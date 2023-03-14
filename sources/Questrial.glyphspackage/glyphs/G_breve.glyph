@@ -1,0 +1,21 @@
+{
+glyphname = Gbreve;
+kernLeft = O;
+kernRight = G;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (244,0);
+ref = brevecomb.case;
+}
+);
+width = 723;
+}
+);
+unicode = 286;
+}

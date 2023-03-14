@@ -1,0 +1,75 @@
+{
+glyphname = micro;
+layers = (
+{
+hints = (
+{
+place = (72, 75);
+place = (72, 75);
+type = Stem;
+},
+{
+place = (438, 75);
+place = (438, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,-198,l),
+(147,46,l),
+(180,10,o),
+(225,-8,o),
+(276,-8,cs),
+(357,-8,o),
+(402,30,o),
+(438,78,c),
+(438,0,l),
+(513,0,l),
+(513,500,l),
+(438,500,l),
+(438,212,ls),
+(438,122,o),
+(370,60,o),
+(287,60,cs),
+(205,60,o),
+(147,120,o),
+(147,211,cs),
+(147,500,l),
+(72,500,l),
+(72,-198,l)
+);
+}
+);
+width = 564;
+}
+);
+unicode = 181;
+}

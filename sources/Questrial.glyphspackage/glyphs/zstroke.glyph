@@ -1,0 +1,26 @@
+{
+glyphname = zstroke;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(58,283,l),
+(58,218,l),
+(400,218,l),
+(400,283,l)
+);
+},
+{
+ref = z;
+}
+);
+width = 458;
+}
+);
+unicode = 438;
+}

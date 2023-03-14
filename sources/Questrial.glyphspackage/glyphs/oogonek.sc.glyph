@@ -1,0 +1,57 @@
+{
+color = 3;
+glyphname = oogonek.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(219,-178,o),
+(267,-206,o),
+(316,-206,cs),
+(344,-206,o),
+(372,-198,o),
+(392,-182,c),
+(392,-143,l),
+(382,-150,o),
+(369,-154,o),
+(356,-154,cs),
+(326,-154,o),
+(296,-136,o),
+(296,-104,cs),
+(296,-54,o),
+(370,-7,o),
+(406,11,c),
+(335,0,l),
+(288,-22,o),
+(219,-55,o),
+(219,-123,cs)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 615;
+},
+{
+associatedMasterId = UUID0;
+layerId = "11407410-E234-4B25-9EB9-4D3896FBA1BA";
+name = "Jun 9 20, 15:16";
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (219,-2);
+ref = ogonekcomb;
+}
+);
+width = 615;
+}
+);
+}

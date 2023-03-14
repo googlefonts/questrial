@@ -1,0 +1,22 @@
+{
+glyphname = oogonekmacron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (219,-2);
+ref = ogonekcomb;
+},
+{
+pos = (175,46);
+ref = macroncomb;
+}
+);
+width = 615;
+}
+);
+}

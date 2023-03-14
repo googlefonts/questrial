@@ -1,0 +1,21 @@
+{
+glyphname = wdotaccent;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (329,0);
+ref = dotaccentcomb;
+}
+);
+width = 746;
+}
+);
+unicode = 7815;
+}

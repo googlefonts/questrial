@@ -1,0 +1,54 @@
+{
+glyphname = astroke.sc;
+layers = (
+{
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (275,-7);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,-40,l),
+(443,578,l),
+(384,578,l),
+(121,-40,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(164,-40,l),
+(102,-40,l)
+);
+},
+{
+pos = (0,-7);
+ref = A;
+scale = (0.8363,0.8363);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,-40,l),
+(451,583,l),
+(381,583,l),
+(116,-40,l)
+);
+},
+{
+ref = a.sc;
+}
+);
+width = 551;
+}
+);
+}

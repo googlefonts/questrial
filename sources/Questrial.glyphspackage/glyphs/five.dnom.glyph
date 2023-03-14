@@ -1,0 +1,16 @@
+{
+glyphname = five.dnom;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-448);
+ref = five.sups;
+}
+);
+width = 355;
+}
+);
+}

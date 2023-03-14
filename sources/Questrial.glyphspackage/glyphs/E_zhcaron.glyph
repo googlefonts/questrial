@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = Ezhcaron;
+kernLeft = Ezh;
+kernRight = Ezh;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (138,0);
+ref = caroncomb.case;
+}
+);
+width = 586;
+}
+);
+unicode = 494;
+}

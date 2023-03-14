@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uhornacute.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn.sc;
+},
+{
+pos = (237,-116);
+ref = acutecomb.case;
+}
+);
+width = 581;
+}
+);
+}

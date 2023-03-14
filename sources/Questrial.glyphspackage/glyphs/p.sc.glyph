@@ -1,0 +1,96 @@
+{
+color = 3;
+glyphname = p.sc;
+kernLeft = i.sc;
+kernRight = p.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (258,546);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (532, 75);
+place = (532, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (236, 70);
+place = (236, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591, 71);
+place = (591, 71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,0,l),
+(140,190,l),
+(310,190,ls),
+(427,190,o),
+(501,258,o),
+(501,367,cs),
+(501,476,o),
+(426,546,o),
+(310,546,cs),
+(65,546,l),
+(65,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,474,l),
+(306,474,ls),
+(383,474,o),
+(426,436,o),
+(426,367,cs),
+(426,298,o),
+(383,261,o),
+(306,261,cs),
+(140,261,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+weight = 10;
+width = 80;
+};
+};
+width = 518;
+}
+);
+userData = {
+RMXScaler = {
+source = P;
+};
+};
+}

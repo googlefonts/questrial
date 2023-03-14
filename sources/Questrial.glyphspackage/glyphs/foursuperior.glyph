@@ -1,0 +1,19 @@
+{
+glyphname = foursuperior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,173);
+ref = four.numr;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-08-24 14:52:31 +0000";
+};
+width = 349;
+}
+);
+unicode = 8308;
+}

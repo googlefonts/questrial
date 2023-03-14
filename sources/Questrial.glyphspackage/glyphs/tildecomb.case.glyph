@@ -1,0 +1,25 @@
+{
+glyphname = tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (147,662);
+},
+{
+name = top;
+pos = (157,784);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (0,154);
+ref = tildecomb;
+}
+);
+width = 313;
+}
+);
+}

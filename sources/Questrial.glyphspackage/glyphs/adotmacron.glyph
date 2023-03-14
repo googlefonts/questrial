@@ -1,0 +1,25 @@
+{
+glyphname = adotmacron;
+kernLeft = o;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (254,0);
+ref = dotaccentcomb;
+},
+{
+pos = (167,128);
+ref = macroncomb;
+}
+);
+width = 595;
+}
+);
+unicode = 481;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = wdotbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (344,0);
+ref = dotbelowcomb;
+}
+);
+width = 776;
+}
+);
+}

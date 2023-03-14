@@ -1,0 +1,26 @@
+{
+glyphname = strokelongcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (272,422);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,386,l),
+(543,456,l),
+(0,456,l),
+(0,386,l)
+);
+}
+);
+width = 543;
+}
+);
+}

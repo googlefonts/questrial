@@ -1,0 +1,44 @@
+{
+glyphname = uniA7AE;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,596,l),
+(221,662,l),
+(16,662,l),
+(16,596,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(221,0,l),
+(221,66,l),
+(16,66,l),
+(16,0,l)
+);
+},
+{
+ref = I;
+}
+);
+width = 237;
+},
+{
+associatedMasterId = UUID0;
+layerId = "281CBC1D-E1A7-4EE2-A8B4-72B050271360";
+name = "May 31 20, 18:16";
+shapes = (
+{
+ref = Ismall;
+}
+);
+width = 329;
+}
+);
+unicode = 42926;
+}

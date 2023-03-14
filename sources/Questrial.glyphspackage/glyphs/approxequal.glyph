@@ -1,0 +1,20 @@
+{
+glyphname = approxequal;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (12,-97);
+ref = asciitilde;
+},
+{
+pos = (13,61);
+ref = asciitilde;
+}
+);
+width = 550;
+}
+);
+unicode = 8776;
+}

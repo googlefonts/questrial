@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = Ezhreversed;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (307,-198);
+},
+{
+name = top;
+pos = (307,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (586,0);
+ref = Ezh;
+scale = (-1,1);
+}
+);
+width = 586;
+}
+);
+unicode = 440;
+}

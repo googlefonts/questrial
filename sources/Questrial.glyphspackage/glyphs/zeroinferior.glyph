@@ -1,0 +1,17 @@
+{
+glyphname = zeroinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = zero.sinf;
+}
+);
+width = 375;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+unicode = 8320;
+}

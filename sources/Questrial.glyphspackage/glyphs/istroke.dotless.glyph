@@ -1,0 +1,23 @@
+{
+glyphname = istroke.dotless;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,218,l),
+(205,283,l),
+(0,283,l),
+(0,218,l)
+);
+},
+{
+ref = idotless;
+}
+);
+width = 205;
+}
+);
+}

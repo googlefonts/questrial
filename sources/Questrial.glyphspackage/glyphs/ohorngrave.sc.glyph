@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ohorngrave.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (204,-116);
+ref = gravecomb.case;
+}
+);
+width = 615;
+}
+);
+}

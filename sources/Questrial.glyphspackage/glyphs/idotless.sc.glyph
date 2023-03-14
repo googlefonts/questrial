@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = idotless.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+}
+);
+width = 205;
+}
+);
+}

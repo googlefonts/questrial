@@ -1,0 +1,27 @@
+{
+glyphname = strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (271.5,306);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,273,l),
+(543,338,l),
+(0,338,l),
+(0,273,l)
+);
+}
+);
+width = 543;
+}
+);
+unicode = 821;
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ydieresis.sc;
+kernLeft = y.sc;
+kernRight = y.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (145,-116);
+ref = dieresiscomb.case;
+}
+);
+width = 536;
+}
+);
+}

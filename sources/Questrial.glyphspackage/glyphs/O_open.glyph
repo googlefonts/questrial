@@ -1,0 +1,32 @@
+{
+glyphname = Oopen;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (345,0);
+},
+{
+name = ogonek;
+pos = (413,0);
+},
+{
+name = top;
+pos = (345,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (690,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 690;
+}
+);
+unicode = 390;
+}

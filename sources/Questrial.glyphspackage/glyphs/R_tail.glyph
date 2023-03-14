@@ -1,0 +1,39 @@
+{
+glyphname = Rtail;
+kernLeft = I;
+kernRight = R;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,0,l),
+(81,-29,ls),
+(81,-145,o),
+(156,-206,o),
+(258,-206,cs),
+(275,-206,o),
+(294,-205,o),
+(313,-201,c),
+(313,-133,l),
+(297,-136,o),
+(282,-137,o),
+(267,-137,cs),
+(199,-137,o),
+(156,-94,o),
+(156,0,c)
+);
+},
+{
+ref = R;
+}
+);
+width = 669;
+}
+);
+metricLeft = R;
+metricRight = R;
+unicode = 11364;
+}

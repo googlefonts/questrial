@@ -1,0 +1,330 @@
+{
+color = 0;
+glyphname = Eng;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+associatedMasterId = UUID0;
+layerId = "3286E5A1-B8BC-42CD-BA5F-D495C2355846";
+name = "Jun 2 20, 08:57";
+shapes = (
+{
+ref = N;
+},
+{
+alignment = -1;
+pos = (200,-198);
+ref = J;
+}
+);
+width = 733;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (375,0);
+},
+{
+name = top;
+pos = (375,660);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (94.788, 98.986);
+place = (94.788, 98.986);
+type = Stem;
+},
+{
+place = (577.841, 98.986);
+place = (577.841, 98.986);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (659.908, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (580.719, 89.748);
+place = (580.719, 89.748);
+type = Stem;
+}
+);
+layerId = "E31904F5-93F4-419E-8356-BA3FD2D5FCA1";
+name = "Jun 2 20, 09:02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,660,l),
+(81,660,l),
+(81,0,l),
+(156,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,380,l),
+(156,511,o),
+(246,601,o),
+(355,601,cs),
+(463,601,o),
+(540,514,o),
+(540,381,cs),
+(540,0,l),
+(615,0,l),
+(615,384,ls),
+(615,571,o),
+(496,670,o),
+(375,670,cs),
+(261,670,o),
+(195,614,o),
+(147,545,c)
+);
+},
+{
+alignment = -1;
+pos = (162,-198);
+ref = J;
+}
+);
+width = 725;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (375,0);
+},
+{
+name = top;
+pos = (375,660);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (94.788, 98.986);
+place = (94.788, 98.986);
+type = Stem;
+},
+{
+place = (577.841, 98.986);
+place = (577.841, 98.986);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (659.908, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (580.719, 89.748);
+place = (580.719, 89.748);
+type = Stem;
+},
+{
+place = (502, 75);
+place = (502, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-206, 73);
+place = (-206, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (464, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "10728325-3AC3-4C81-97E7-85C28A5E9497";
+name = "Jun 2 20, 09:12";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(156,452,ls),
+(156,550,o),
+(241,598,o),
+(327,598,cs),
+(414,598,o),
+(502,561,o),
+(502,450,cs),
+(502,170,l),
+(577,170,l),
+(577,452,ls),
+(577,604,o),
+(464,671,o),
+(347,671,cs),
+(277,671,o),
+(204,643,o),
+(156,583,c),
+(156,661,l),
+(81,661,l),
+(81,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,-15,o),
+(577,79,o),
+(577,175,cs),
+(577,464,l),
+(502,464,l),
+(502,178,ls),
+(502,127,o),
+(490,58,o),
+(399,58,cs),
+(336,58,o),
+(304,107,o),
+(298,150,c),
+(220,150,l),
+(227,70,o),
+(286,-15,o),
+(399,-15,cs)
+);
+}
+);
+width = 658;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,-193);
+},
+{
+name = top;
+pos = (329,660);
+}
+);
+hints = (
+{
+place = (94.788, 98.986);
+place = (94.788, 98.986);
+type = Stem;
+},
+{
+place = (577.841, 98.986);
+place = (577.841, 98.986);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (659.908, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (580.719, 89.748);
+place = (580.719, 89.748);
+type = Stem;
+},
+{
+place = (502, 75);
+place = (502, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-206, 73);
+place = (-206, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (464, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(156,452,ls),
+(156,550,o),
+(241,598,o),
+(327,598,cs),
+(414,598,o),
+(502,561,o),
+(502,450,cs),
+(502,-21,l),
+(577,-21,l),
+(577,452,ls),
+(577,604,o),
+(464,671,o),
+(347,671,cs),
+(277,671,o),
+(204,643,o),
+(156,583,c),
+(156,661,l),
+(81,661,l),
+(81,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(532,-206,o),
+(577,-111,o),
+(577,-16,cs),
+(577,464,l),
+(502,464,l),
+(502,-13,ls),
+(502,-64,o),
+(490,-133,o),
+(399,-133,cs),
+(336,-133,o),
+(304,-84,o),
+(298,-41,c),
+(220,-41,l),
+(227,-121,o),
+(286,-206,o),
+(399,-206,cs)
+);
+}
+);
+width = 658;
+}
+);
+metricLeft = N;
+metricRight = N;
+unicode = 330;
+}

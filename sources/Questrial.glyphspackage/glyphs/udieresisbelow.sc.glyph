@@ -1,0 +1,18 @@
+{
+glyphname = udieresisbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (168,0);
+ref = dieresisbelowcomb;
+}
+);
+width = 581;
+}
+);
+}

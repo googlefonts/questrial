@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = odblgrave.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (93,-116);
+ref = dblgravecomb.case;
+}
+);
+width = 615;
+}
+);
+}

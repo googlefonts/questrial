@@ -1,0 +1,18 @@
+{
+glyphname = ezhcaron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ezh.sc;
+},
+{
+pos = (108,46);
+ref = caroncomb;
+}
+);
+width = 527;
+}
+);
+}

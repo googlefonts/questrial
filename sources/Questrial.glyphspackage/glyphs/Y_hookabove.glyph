@@ -1,0 +1,21 @@
+{
+glyphname = Yhookabove;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (228,0);
+ref = hookabovecomb.case;
+}
+);
+width = 636;
+}
+);
+unicode = 7926;
+}

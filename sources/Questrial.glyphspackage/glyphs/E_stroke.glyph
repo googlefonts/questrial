@@ -1,0 +1,46 @@
+{
+glyphname = Estroke;
+kernLeft = I;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,-40,l),
+(529,700,l),
+(459,700,l),
+(144,-40,l)
+);
+},
+{
+ref = E;
+}
+);
+width = 608;
+},
+{
+associatedMasterId = UUID0;
+layerId = "505F1115-475E-4AB0-8216-FFE9EB816770";
+name = "May 28 20, 14:41";
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,-112,l),
+(468,760,l),
+(398,760,l),
+(214,-112,l)
+);
+},
+{
+ref = E;
+}
+);
+width = 608;
+}
+);
+unicode = 582;
+}

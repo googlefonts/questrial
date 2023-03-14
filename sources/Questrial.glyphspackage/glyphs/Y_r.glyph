@@ -1,0 +1,98 @@
+{
+glyphname = Yr;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (335,0);
+},
+{
+name = ogonek;
+pos = (581,2);
+},
+{
+name = top;
+pos = (335,662);
+}
+);
+background = {
+shapes = (
+{
+ref = Thorn;
+}
+);
+};
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (546, 75);
+place = (546, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (254, 71);
+place = (254, 71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591, 71);
+place = (591, 71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,156,l),
+(386,156,l),
+(484,0,l),
+(573,0,l),
+(461,169,l),
+(535,186,o),
+(621,229,o),
+(621,357,cs),
+(621,483,o),
+(534,564,o),
+(398,564,cs),
+(156,564,l),
+(156,662,l),
+(81,662,l),
+(81,0,l),
+(156,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,493,l),
+(389,493,ls),
+(483,493,o),
+(546,441,o),
+(546,357,cs),
+(546,254,o),
+(456,227,o),
+(385,227,cs),
+(156,227,l)
+);
+}
+);
+width = 669;
+}
+);
+unicode = 422;
+}

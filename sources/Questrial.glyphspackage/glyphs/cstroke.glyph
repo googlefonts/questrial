@@ -1,0 +1,32 @@
+{
+glyphname = cstroke;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (302,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(389,575,l),
+(113,-75,l),
+(183,-75,l),
+(459,575,l)
+);
+},
+{
+ref = c;
+}
+);
+width = 544;
+}
+);
+unicode = 572;
+}

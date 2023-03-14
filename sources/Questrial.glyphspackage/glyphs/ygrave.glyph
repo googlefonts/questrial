@@ -1,0 +1,21 @@
+{
+glyphname = ygrave;
+kernLeft = y;
+kernRight = y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (165,0);
+ref = gravecomb;
+}
+);
+width = 497;
+}
+);
+unicode = 7923;
+}

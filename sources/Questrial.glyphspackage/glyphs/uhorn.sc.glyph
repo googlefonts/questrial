@@ -1,0 +1,31 @@
+{
+color = 3;
+glyphname = uhorn.sc;
+kernLeft = u.sc;
+kernRight = uhorn.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (291,0);
+},
+{
+name = top;
+pos = (291,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (533,-116);
+ref = horncomb.case;
+}
+);
+width = 581;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = backslash.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,11);
+ref = backslash;
+}
+);
+width = 371;
+}
+);
+}

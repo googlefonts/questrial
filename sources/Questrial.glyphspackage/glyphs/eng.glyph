@@ -1,0 +1,160 @@
+{
+color = 3;
+glyphname = eng;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (351,-198);
+},
+{
+name = top;
+pos = (283,500);
+}
+);
+hints = (
+{
+place = (431, 75);
+place = (431, 75);
+type = Stem;
+},
+{
+place = (428, 81);
+place = (428, 81);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (584, 98);
+place = (584, 98);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(465,-206,o),
+(506,-128,o),
+(506,-50,cs),
+(506,97,l),
+(431,97,l),
+(431,-47,ls),
+(431,-84,o),
+(418,-139,o),
+(352,-139,cs),
+(303,-139,o),
+(275,-92,o),
+(270,-55,c),
+(195,-55,l),
+(200,-128,o),
+(252,-206,o),
+(350,-206,cs)
+);
+},
+{
+ref = n;
+}
+);
+width = 568;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (469,-198);
+},
+{
+name = top;
+pos = (469,500);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (431, 75);
+place = (431, 75);
+type = Stem;
+},
+{
+place = (428, 81);
+place = (428, 81);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (584, 98);
+place = (584, 98);
+type = Stem;
+}
+);
+layerId = "F30CADFE-4DC0-4E46-AD93-6974469CB857";
+name = "Jun 8 20, 18:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,-198,l),
+(506,220,l),
+(431,220,l),
+(431,-198,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(457,-203,o),
+(502,-108,o),
+(502,-13,cs),
+(502,467,l),
+(427,467,l),
+(427,-10,ls),
+(427,-61,o),
+(415,-130,o),
+(324,-130,cs),
+(261,-130,o),
+(229,-81,o),
+(223,-38,c),
+(145,-38,l),
+(152,-118,o),
+(211,-203,o),
+(324,-203,cs)
+);
+},
+{
+ref = n;
+}
+);
+width = 568;
+}
+);
+unicode = 331;
+}

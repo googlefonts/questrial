@@ -1,0 +1,177 @@
+{
+glyphname = dollar;
+layers = (
+{
+hints = (
+{
+place = (63, 73);
+place = (63, 73);
+type = Stem;
+},
+{
+place = (298, 37);
+place = (298, 37);
+type = Stem;
+},
+{
+place = (516, 75);
+place = (516, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 71);
+place = (-8, 71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (600, 70);
+place = (600, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (599, 70);
+place = (599, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-7, 70);
+place = (-7, 70);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,-87,l),
+(345,-87,l),
+(345,746,l),
+(279,746,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 615;
+},
+{
+associatedMasterId = UUID0;
+hints = (
+{
+place = (63, 73);
+place = (63, 73);
+type = Stem;
+},
+{
+place = (298, 37);
+place = (298, 37);
+type = Stem;
+},
+{
+place = (516, 75);
+place = (516, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 71);
+place = (-8, 71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (600, 70);
+place = (600, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (599, 70);
+place = (599, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-7, 70);
+place = (-7, 70);
+type = Stem;
+}
+);
+layerId = "E724578D-56F5-4076-BB56-BC161D27BF6D";
+name = "Apr 19 20, 18:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(335,-107,l),
+(335,-8,l),
+(494,-6,o),
+(591,61,o),
+(591,183,cs),
+(591,308,o),
+(457,342,o),
+(335,371,c),
+(335,599,l),
+(440,593,o),
+(489,543,o),
+(497,481,c),
+(574,481,l),
+(568,576,o),
+(495,662,o),
+(335,669,c),
+(335,746,l),
+(298,746,l),
+(298,670,l),
+(141,666,o),
+(63,592,o),
+(63,487,cs),
+(63,370,o),
+(182,335,o),
+(298,307,c),
+(298,64,l),
+(200,72,o),
+(125,112,o),
+(121,198,c),
+(43,198,l),
+(52,85,o),
+(124,1,o),
+(298,-7,c),
+(298,-107,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(335,298,l),
+(431,274,o),
+(516,250,o),
+(516,180,cs),
+(516,102,o),
+(446,63,o),
+(335,63,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(210,402,o),
+(136,426,o),
+(136,488,cs),
+(136,531,o),
+(160,596,o),
+(298,600,c),
+(298,380,l)
+);
+}
+);
+width = 636;
+}
+);
+unicode = 36;
+}

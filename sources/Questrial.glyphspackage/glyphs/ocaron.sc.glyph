@@ -1,0 +1,18 @@
+{
+glyphname = ocaron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (166,46);
+ref = caroncomb;
+}
+);
+width = 615;
+}
+);
+}

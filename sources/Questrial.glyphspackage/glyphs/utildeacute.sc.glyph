@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = utildeacute.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (144,-116);
+ref = tildecomb.case;
+},
+{
+pos = (247,6);
+ref = acutecomb.case;
+}
+);
+width = 581;
+}
+);
+}

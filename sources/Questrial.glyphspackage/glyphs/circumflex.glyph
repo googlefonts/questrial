@@ -1,0 +1,37 @@
+{
+glyphname = circumflex;
+layers = (
+{
+hints = (
+{
+place = (49, 282);
+place = (49, 282);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (570, 105);
+place = (570, 105);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(131,570,l),
+(190,624,l),
+(249,570,l),
+(331,570,l),
+(234,675,l),
+(147,675,l),
+(49,570,l)
+);
+}
+);
+width = 384;
+}
+);
+unicode = 710;
+}

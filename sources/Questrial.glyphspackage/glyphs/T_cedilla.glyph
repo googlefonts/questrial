@@ -1,0 +1,22 @@
+{
+glyphname = Tcedilla;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+pos = (155,0);
+ref = cedillacomb.case;
+}
+);
+width = 565;
+}
+);
+unicode = 354;
+}

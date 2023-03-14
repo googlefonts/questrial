@@ -1,0 +1,163 @@
+{
+glyphname = guarani;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (362,0);
+},
+{
+name = top;
+pos = (362,662);
+}
+);
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(339,-8,ls),
+(459,-8,o),
+(537,53,o),
+(579,117,c),
+(579,0,l),
+(648,0,l),
+(648,352,l),
+(337,352,l),
+(337,284,l),
+(579,284,l),
+(579,146,o),
+(465,65,o),
+(345,65,cs)
+);
+}
+);
+};
+hints = (
+{
+place = (39, 75);
+place = (39, 75);
+type = Stem;
+},
+{
+place = (603, 69);
+place = (603, 69);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 73);
+place = (-8, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (284, 68);
+place = (284, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597, 73);
+place = (597, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (714, 75);
+place = (714, 75);
+type = Stem;
+},
+{
+place = (1278, 69);
+place = (1278, 69);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 73);
+place = (-8, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (284, 68);
+place = (284, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597, 73);
+place = (597, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(417,284,l),
+(559,284,l),
+(559,154,o),
+(467,75,o),
+(365,66,c),
+(365,596,l),
+(448,589,o),
+(503,539,o),
+(530,464,c),
+(609,464,l),
+(573,577,o),
+(486,659,o),
+(365,669,c),
+(365,746,l),
+(299,746,l),
+(299,668,l),
+(136,648,o),
+(39,505,o),
+(39,331,cs),
+(39,157,o),
+(136,14,o),
+(299,-6,c),
+(299,-87,l),
+(365,-87,l),
+(365,-7,l),
+(460,2,o),
+(520,58,o),
+(559,117,c),
+(559,0,l),
+(628,0,l),
+(628,352,l),
+(417,352,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(114,464,o),
+(180,571,o),
+(299,593,c),
+(299,69,l),
+(180,91,o),
+(114,198,o),
+(114,331,cs)
+);
+}
+);
+width = 679;
+}
+);
+unicode = 8370;
+}

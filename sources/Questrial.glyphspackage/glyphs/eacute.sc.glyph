@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = eacute.sc;
+kernLeft = i.sc;
+kernRight = e.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (211,-116);
+ref = acutecomb.case;
+}
+);
+width = 502;
+}
+);
+}

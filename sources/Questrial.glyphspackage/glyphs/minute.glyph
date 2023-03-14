@@ -1,0 +1,15 @@
+{
+glyphname = minute;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 183;
+}
+);
+unicode = 8242;
+}

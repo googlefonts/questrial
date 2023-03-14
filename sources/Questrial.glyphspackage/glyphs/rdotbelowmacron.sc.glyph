@@ -1,0 +1,22 @@
+{
+glyphname = rdotbelowmacron.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (231,0);
+ref = dotbelowcomb;
+},
+{
+pos = (123,46);
+ref = macroncomb;
+}
+);
+width = 556;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = yhookabove.sc;
+kernLeft = y.sc;
+kernRight = y.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (177,-116);
+ref = hookabovecomb.case;
+}
+);
+width = 536;
+}
+);
+}

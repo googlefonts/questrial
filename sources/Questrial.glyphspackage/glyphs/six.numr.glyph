@@ -1,0 +1,16 @@
+{
+glyphname = six.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-1,-173);
+ref = six.sups;
+}
+);
+width = 359;
+}
+);
+}

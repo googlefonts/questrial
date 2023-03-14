@@ -1,0 +1,21 @@
+{
+glyphname = ymacron;
+kernLeft = y;
+kernRight = y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (117,0);
+ref = macroncomb;
+}
+);
+width = 497;
+}
+);
+unicode = 563;
+}

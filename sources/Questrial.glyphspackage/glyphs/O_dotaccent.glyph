@@ -1,0 +1,21 @@
+{
+glyphname = Odotaccent;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (331,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 750;
+}
+);
+unicode = 558;
+}

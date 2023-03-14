@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = omacronacute.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (175,-116);
+ref = macroncomb.case;
+},
+{
+pos = (253,6);
+ref = acutecomb.case;
+}
+);
+width = 615;
+}
+);
+}

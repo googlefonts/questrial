@@ -1,0 +1,67 @@
+{
+glyphname = ohorntilde;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (282.5,668);
+}
+);
+hints = (
+{
+place = (126, 313);
+place = (126, 313);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (609, 59);
+place = (609, 59);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (569, 58);
+place = (569, 58);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,569,o),
+(402,618,o),
+(409,667,c),
+(377,667,l),
+(372,650,o),
+(357,627,o),
+(328,627,cs),
+(289,627,o),
+(268,668,o),
+(213,668,cs),
+(148,668,o),
+(122,619,o),
+(116,570,c),
+(147,570,l),
+(153,587,o),
+(166,609,o),
+(197,609,cs),
+(236,609,o),
+(258,569,o),
+(313,569,cs)
+);
+},
+{
+ref = ohorn;
+}
+);
+width = 564;
+}
+);
+unicode = 7905;
+}

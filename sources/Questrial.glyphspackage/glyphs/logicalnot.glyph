@@ -1,0 +1,36 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+hints = (
+{
+place = (457, 72);
+place = (457, 72);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (321, 68);
+place = (321, 68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(529,186,l),
+(529,389,l),
+(62,389,l),
+(62,321,l),
+(457,321,l),
+(457,186,l)
+);
+}
+);
+width = 593;
+}
+);
+unicode = 172;
+}

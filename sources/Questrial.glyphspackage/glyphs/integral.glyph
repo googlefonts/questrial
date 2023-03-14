@@ -1,0 +1,52 @@
+{
+glyphname = integral;
+layers = (
+{
+hints = (
+{
+place = (121, 66);
+place = (121, 66);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-178, 54);
+place = (-178, 54);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (727, 54);
+place = (727, 54);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,-178,o),
+(187,-169,o),
+(187,-34,cs),
+(187,636,ls),
+(187,706,o),
+(210,726,o),
+(290,727,c),
+(290,781,l),
+(195,781,o),
+(121,772,o),
+(121,637,cs),
+(121,-33,ls),
+(121,-103,o),
+(98,-123,o),
+(18,-124,c),
+(18,-178,l)
+);
+}
+);
+width = 308;
+}
+);
+unicode = 8747;
+}

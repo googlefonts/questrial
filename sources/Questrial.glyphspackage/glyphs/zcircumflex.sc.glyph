@@ -1,0 +1,18 @@
+{
+glyphname = zcircumflex.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (109,46);
+ref = circumflexcomb;
+}
+);
+width = 482;
+}
+);
+}

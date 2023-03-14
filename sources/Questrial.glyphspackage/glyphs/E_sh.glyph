@@ -1,0 +1,88 @@
+{
+glyphname = Esh;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (160,0);
+},
+{
+name = ogonek;
+pos = (108,0);
+},
+{
+name = top;
+pos = (189,662);
+},
+{
+name = topleft;
+pos = (90,662);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 72);
+place = (0, 72);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (295, 73);
+place = (295, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (590, 72);
+place = (590, 72);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,93,o),
+(108,61,o),
+(40,61,cs),
+(25,61,o),
+(10,62,o),
+(-6,65,c),
+(-6,-3,l),
+(13,-7,o),
+(32,-8,o),
+(49,-8,cs),
+(150,-8,o),
+(226,55,o),
+(226,179,cs),
+(226,464,ls),
+(226,569,o),
+(269,601,o),
+(337,601,cs),
+(352,601,o),
+(367,600,o),
+(383,597,c),
+(383,665,l),
+(364,669,o),
+(345,670,o),
+(328,670,cs),
+(227,670,o),
+(151,607,o),
+(151,483,cs),
+(151,198,ls)
+);
+}
+);
+width = 377;
+}
+);
+unicode = 425;
+}

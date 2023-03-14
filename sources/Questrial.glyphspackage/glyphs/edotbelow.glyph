@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = edotbelow;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (235,0);
+ref = dotbelowcomb;
+}
+);
+width = 557;
+}
+);
+unicode = 7865;
+}

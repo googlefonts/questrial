@@ -1,0 +1,66 @@
+{
+glyphname = tildebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (156.5,0);
+},
+{
+name = bottom;
+pos = (156.5,-146);
+}
+);
+hints = (
+{
+place = (0, 313);
+place = (0, 313);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-121, 59);
+place = (-121, 59);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-161, 58);
+place = (-161, 58);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(281,-161,o),
+(306,-112,o),
+(313,-63,c),
+(281,-63,l),
+(276,-80,o),
+(261,-103,o),
+(232,-103,cs),
+(186,-103,o),
+(161,-62,o),
+(97,-62,cs),
+(32,-62,o),
+(6,-111,o),
+(0,-160,c),
+(31,-160,l),
+(37,-143,o),
+(50,-121,o),
+(81,-121,cs),
+(127,-121,o),
+(152,-161,o),
+(217,-161,cs)
+);
+}
+);
+width = 313;
+}
+);
+unicode = 816;
+}

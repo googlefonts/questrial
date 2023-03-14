@@ -1,0 +1,21 @@
+{
+glyphname = Pacute;
+kernLeft = I;
+kernRight = P;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (260,0);
+ref = acutecomb.case;
+}
+);
+width = 628;
+}
+);
+unicode = 7764;
+}

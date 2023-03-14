@@ -1,0 +1,25 @@
+{
+glyphname = omacrongrave;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (150,0);
+ref = macroncomb;
+},
+{
+pos = (198,142);
+ref = gravecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 7761;
+}

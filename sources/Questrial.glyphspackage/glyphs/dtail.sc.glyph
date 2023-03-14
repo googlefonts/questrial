@@ -1,0 +1,14 @@
+{
+glyphname = dtail.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eth.sc;
+}
+);
+width = 578;
+}
+);
+}

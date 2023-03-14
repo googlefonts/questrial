@@ -1,0 +1,28 @@
+{
+glyphname = upWhiteTriangle;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,0,l),
+(710,0,l),
+(374,670,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(647,37,l),
+(99,37,l),
+(374,590,l)
+);
+}
+);
+width = 750;
+}
+);
+unicode = 9651;
+}

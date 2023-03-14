@@ -1,0 +1,17 @@
+{
+glyphname = threeinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = three.sinf;
+}
+);
+width = 366;
+}
+);
+metricLeft = three;
+metricRight = three;
+unicode = 8323;
+}

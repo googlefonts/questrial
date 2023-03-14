@@ -1,0 +1,23 @@
+{
+glyphname = pstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1,404,l),
+(-1,340,l),
+(305,340,l),
+(305,404,l)
+);
+},
+{
+ref = p.sc;
+}
+);
+width = 518;
+}
+);
+}

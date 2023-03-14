@@ -1,0 +1,41 @@
+{
+glyphname = jstroke.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (347,0);
+},
+{
+name = ogonek;
+pos = (385,0);
+},
+{
+name = top;
+pos = (347,546);
+},
+{
+name = topleft;
+pos = (264,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,305,l),
+(178,241,l),
+(466,241,l),
+(466,305,l)
+);
+},
+{
+ref = j.sc;
+}
+);
+width = 441;
+}
+);
+}

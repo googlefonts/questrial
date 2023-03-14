@@ -1,0 +1,18 @@
+{
+glyphname = vdotbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = v.sc;
+},
+{
+pos = (218,0);
+ref = dotbelowcomb;
+}
+);
+width = 524;
+}
+);
+}

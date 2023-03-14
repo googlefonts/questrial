@@ -1,0 +1,21 @@
+{
+glyphname = Zcircumflex;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (151,0);
+ref = circumflexcomb.case;
+}
+);
+width = 584;
+}
+);
+unicode = 7824;
+}

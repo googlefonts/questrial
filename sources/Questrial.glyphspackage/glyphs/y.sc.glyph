@@ -1,0 +1,77 @@
+{
+color = 3;
+glyphname = y.sc;
+kernLeft = y.sc;
+kernRight = y.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (269,0);
+},
+{
+name = ogonek;
+pos = (315,0);
+},
+{
+name = top;
+pos = (268,546);
+},
+{
+name = topleft;
+pos = (33,530);
+}
+);
+hints = (
+{
+place = (277, 75);
+place = (277, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,0,l),
+(306,216,l),
+(534,546,l),
+(443,546,l),
+(268,293,l),
+(93,546,l),
+(2,546,l),
+(231,216,l),
+(231,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+weight = 10;
+width = 80;
+};
+};
+width = 536;
+}
+);
+userData = {
+RMXScaler = {
+source = Y;
+};
+};
+}

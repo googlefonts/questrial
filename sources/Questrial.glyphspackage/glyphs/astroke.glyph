@@ -1,0 +1,93 @@
+{
+glyphname = astroke;
+kernLeft = o;
+kernRight = a;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (309,0);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-198,l),
+(426,760,l),
+(356,760,l),
+(154,-198,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(385,575,l),
+(109,-75,l),
+(179,-75,l),
+(455,575,l)
+);
+},
+{
+ref = a;
+}
+);
+width = 595;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (309,0);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-198,l),
+(426,760,l),
+(356,760,l),
+(154,-198,l)
+);
+}
+);
+};
+layerId = "AF0864FB-9295-4871-90D4-852EECC47597";
+name = "May 28 20, 15:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(244,-112,l),
+(397,621,l),
+(327,621,l),
+(174,-112,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(179,-75,l),
+(520,725,l),
+(450,725,l),
+(109,-75,l)
+);
+},
+{
+ref = a;
+}
+);
+width = 595;
+}
+);
+unicode = 11365;
+}

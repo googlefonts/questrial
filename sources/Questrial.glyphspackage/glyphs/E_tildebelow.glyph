@@ -1,0 +1,21 @@
+{
+glyphname = Etildebelow;
+kernLeft = I;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (188,0);
+ref = tildebelowcomb;
+}
+);
+width = 608;
+}
+);
+unicode = 7706;
+}

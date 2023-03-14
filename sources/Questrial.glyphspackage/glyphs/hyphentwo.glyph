@@ -1,0 +1,15 @@
+{
+glyphname = hyphentwo;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 356;
+}
+);
+unicode = 8208;
+}

@@ -1,0 +1,71 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,300,l),
+(301,352,l),
+(116,352,l),
+(149,410,o),
+(301,446,o),
+(301,556,cs),
+(301,618,o),
+(255,665,o),
+(175,665,cs),
+(108,665,o),
+(55,614,o),
+(46,548,c),
+(102,548,l),
+(109,584,o),
+(138,612,o),
+(179,612,cs),
+(218,612,o),
+(246,591,o),
+(246,555,cs),
+(246,473,o),
+(52,435,o),
+(52,329,cs),
+(52,300,l)
+);
+}
+);
+};
+hints = (
+{
+place = (52, 64);
+place = (52, 64);
+type = Stem;
+},
+{
+place = (246, 55);
+place = (246, 55);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (300, 52);
+place = (300, 52);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (612, 53);
+place = (612, 53);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = two.sups;
+}
+);
+width = 357;
+}
+);
+unicode = 178;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = dcroat;
+kernLeft = o;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(580,550,l),
+(580,616,l),
+(335,616,l),
+(335,550,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 595;
+}
+);
+unicode = 273;
+}

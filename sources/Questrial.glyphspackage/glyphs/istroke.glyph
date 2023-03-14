@@ -1,0 +1,36 @@
+{
+glyphname = istroke;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (271.5,306);
+},
+{
+name = bottom;
+pos = (103,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,584,l),
+(143,682,l),
+(62,682,l),
+(62,584,l)
+);
+},
+{
+ref = istroke.dotless;
+}
+);
+width = 205;
+}
+);
+unicode = 616;
+}

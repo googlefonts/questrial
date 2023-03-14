@@ -1,0 +1,21 @@
+{
+glyphname = Ihookabove;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (28,0);
+ref = hookabovecomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 7880;
+}

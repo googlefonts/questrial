@@ -1,0 +1,22 @@
+{
+glyphname = Adblgrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (117,0);
+ref = dblgravecomb.case;
+}
+);
+width = 662;
+}
+);
+metricRight = A;
+unicode = 512;
+}

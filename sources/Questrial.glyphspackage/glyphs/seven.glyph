@@ -1,0 +1,43 @@
+{
+glyphname = seven;
+layers = (
+{
+hints = (
+{
+place = (47, 459);
+place = (47, 459);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (590, 72);
+place = (590, 72);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,0,l),
+(506,577,l),
+(506,662,l),
+(47,662,l),
+(47,590,l),
+(429,590,l),
+(143,0,l)
+);
+}
+);
+width = 550;
+}
+);
+unicode = 55;
+}

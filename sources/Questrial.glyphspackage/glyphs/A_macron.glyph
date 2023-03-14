@@ -1,0 +1,22 @@
+{
+glyphname = Amacron;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (199,0);
+ref = macroncomb.case;
+}
+);
+width = 662;
+}
+);
+metricRight = A;
+unicode = 256;
+}

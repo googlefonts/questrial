@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = tmacronbelow.sc;
+kernLeft = t.sc;
+kernRight = t.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (101,0);
+ref = macronbelowcomb;
+}
+);
+width = 467;
+}
+);
+}

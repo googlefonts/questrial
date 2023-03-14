@@ -1,0 +1,85 @@
+{
+glyphname = whook;
+kernLeft = v;
+kernRight = yhook;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (373,0);
+},
+{
+name = top;
+pos = (373,500);
+}
+);
+hints = (
+{
+place = (9, 736);
+place = (9, 736);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (0, 93);
+place = (0, 93);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (399, 101);
+place = (399, 101);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(725,670,o),
+(692,598,o),
+(661,500,cs),
+(541,93,l),
+(414,500,l),
+(332,500,l),
+(205,93,l),
+(85,500,l),
+(5,500,l),
+(162,0,l),
+(248,0,l),
+(373,399,l),
+(498,0,l),
+(584,0,l),
+(741,500,ls),
+(756,549,o),
+(770,596,o),
+(820,596,cs),
+(852,596,o),
+(865,571,o),
+(876,537,c),
+(932,562,l),
+(917,641,o),
+(869,670,o),
+(819,670,cs)
+);
+}
+);
+width = 892;
+}
+);
+unicode = 11379;
+}

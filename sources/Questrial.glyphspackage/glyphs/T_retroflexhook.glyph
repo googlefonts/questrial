@@ -1,0 +1,43 @@
+{
+glyphname = Tretroflexhook;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (120,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(245,0,l),
+(245,-19,ls),
+(245,-143,o),
+(321,-206,o),
+(422,-206,cs),
+(439,-206,o),
+(458,-205,o),
+(477,-201,c),
+(477,-133,l),
+(461,-136,o),
+(446,-137,o),
+(431,-137,cs),
+(363,-137,o),
+(320,-105,o),
+(320,0,c)
+);
+},
+{
+ref = T;
+}
+);
+width = 565;
+}
+);
+unicode = 430;
+}

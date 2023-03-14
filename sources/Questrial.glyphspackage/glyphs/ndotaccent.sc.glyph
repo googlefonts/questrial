@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ndotaccent.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (257,-116);
+ref = dotaccentcomb.case;
+}
+);
+width = 602;
+}
+);
+}

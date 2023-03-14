@@ -1,0 +1,21 @@
+{
+glyphname = ibreve;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-16,0);
+ref = brevecomb;
+}
+);
+width = 205;
+}
+);
+unicode = 301;
+}

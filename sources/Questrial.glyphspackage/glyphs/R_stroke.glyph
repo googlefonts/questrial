@@ -1,0 +1,26 @@
+{
+glyphname = Rstroke;
+kernLeft = I;
+kernRight = R;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-25,325,l),
+(-25,254,l),
+(262,254,l),
+(262,325,l)
+);
+},
+{
+ref = R;
+}
+);
+width = 669;
+}
+);
+unicode = 588;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = quoteleft;
+kernLeft = quoteleft;
+kernRight = quoteleft;
+layers = (
+{
+hints = (
+{
+place = (36, 156);
+place = (36, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,475,l),
+(192,688,l),
+(124,688,l),
+(36,475,l)
+);
+}
+);
+width = 218;
+}
+);
+unicode = 8216;
+}

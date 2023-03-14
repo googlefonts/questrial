@@ -1,0 +1,68 @@
+{
+glyphname = Tbar;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (283,0);
+},
+{
+name = center;
+pos = (283,331);
+},
+{
+name = top;
+pos = (283,662);
+}
+);
+hints = (
+{
+place = (245, 75);
+place = (245, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (590, 72);
+place = (590, 72);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(551,662,l),
+(14,662,l),
+(14,591,l),
+(245,591,l),
+(245,366,l),
+(99,366,l),
+(99,296,l),
+(245,296,l),
+(245,0,l),
+(320,0,l),
+(320,296,l),
+(466,296,l),
+(466,366,l),
+(320,366,l),
+(320,591,l),
+(551,591,l)
+);
+}
+);
+width = 565;
+}
+);
+unicode = 358;
+}
