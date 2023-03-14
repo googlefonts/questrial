@@ -379,8 +379,8 @@ name = aalt;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
 	@CombiningNonTopAccents = [brevebelowcomb breveinvertedbelowcomb cedillacomb circumflexbelowcomb dieresisbelowcomb dotbelowcomb lowlinecomb macronbelowcomb ogonekcomb ringbelowcomb tildebelowcomb verticallinebelowcomb dotaboverightcomb horncomb strokeshortcomb tildeoverlaycomb];
-	sub [i j istroke]' @CombiningTopAccents by [idotless jdotless istroke.dotless];
-	sub [i j istroke]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless istroke.dotless];
+	sub [i j idotbelow iogonek itildebelow]' @CombiningTopAccents by [idotless jdotless idotless_dotbelowcomb idotless_ogonekcomb idotless_tildebelowcomb];
+	sub [i j idotbelow iogonek itildebelow]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless idotless_dotbelowcomb idotless_ogonekcomb idotless_tildebelowcomb];
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
@@ -1344,6 +1344,12 @@ sub quotesingle by quotesingle.sc;
 sub florin by florin.sc;
 sub ampersand by ampersand.sc;
 ";
+name = smcp;
+},
+{
+code = "sub idotless_dotbelowcomb by idotbelow.sc;
+sub idotless_ogonekcomb by iogonek.sc;
+sub idotless_tildebelowcomb by iogonek.sc;";
 name = smcp;
 },
 {
@@ -31356,6 +31362,60 @@ width = 205;
 leftKerningGroup = i;
 rightKerningGroup = i;
 unicode = 0131;
+},
+{
+glyphname = idotless_dotbelowcomb;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 59, 0}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
+},
+{
+glyphname = idotless_ogonekcomb;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, -33, -2}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
+},
+{
+glyphname = idotless_tildebelowcomb;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = tildebelowcomb;
+transform = "{1, 0, 0, 1, -53, 0}";
+}
+);
+layerId = UUID0;
+width = 205;
+}
+);
 },
 {
 glyphname = ibreve;
