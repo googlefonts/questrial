@@ -1,0 +1,19 @@
+{
+glyphname = hcedilla.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+alignment = -1;
+pos = (-28,0);
+ref = cedillacomb;
+}
+);
+width = 573;
+}
+);
+}

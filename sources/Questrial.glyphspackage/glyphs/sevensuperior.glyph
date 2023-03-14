@@ -1,0 +1,19 @@
+{
+glyphname = sevensuperior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,173);
+ref = seven.numr;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-08-24 14:52:31 +0000";
+};
+width = 325;
+}
+);
+unicode = 8311;
+}

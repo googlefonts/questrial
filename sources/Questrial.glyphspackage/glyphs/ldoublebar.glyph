@@ -1,0 +1,54 @@
+{
+glyphname = ldoublebar;
+kernLeft = l;
+kernRight = l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (131,0);
+},
+{
+name = center;
+pos = (131,350);
+},
+{
+name = top;
+pos = (131,700);
+},
+{
+name = topright;
+pos = (213,499);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(7,466,l),
+(7,401,l),
+(254,401,l),
+(254,466,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(7,319,l),
+(7,254,l),
+(254,254,l),
+(254,319,l)
+);
+},
+{
+pos = (28,0);
+ref = l;
+}
+);
+width = 261;
+}
+);
+unicode = 11361;
+}

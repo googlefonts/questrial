@@ -1,0 +1,25 @@
+{
+glyphname = Utildeacute;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (208,0);
+ref = tildecomb.case;
+},
+{
+pos = (311,122);
+ref = acutecomb.case;
+}
+);
+width = 709;
+}
+);
+unicode = 7800;
+}

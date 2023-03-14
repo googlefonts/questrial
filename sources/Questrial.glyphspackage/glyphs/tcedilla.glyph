@@ -1,0 +1,21 @@
+{
+glyphname = tcedilla;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (40,0);
+ref = cedillacomb;
+}
+);
+width = 326;
+}
+);
+unicode = 355;
+}

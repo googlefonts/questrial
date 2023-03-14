@@ -1,0 +1,26 @@
+{
+glyphname = lmacronbelow;
+kernLeft = h;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,-108,l),
+(210,-48,l),
+(-5,-48,l),
+(-5,-108,l)
+);
+},
+{
+ref = l;
+}
+);
+width = 205;
+}
+);
+unicode = 7739;
+}

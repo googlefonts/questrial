@@ -1,0 +1,23 @@
+{
+glyphname = zstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(73,305,l),
+(73,241,l),
+(419,241,l),
+(419,305,l)
+);
+},
+{
+ref = z.sc;
+}
+);
+width = 482;
+}
+);
+}

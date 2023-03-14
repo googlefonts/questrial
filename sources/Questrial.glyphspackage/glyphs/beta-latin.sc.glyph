@@ -1,0 +1,23 @@
+{
+glyphname = "beta-latin.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,222,l),
+(65,-198,l),
+(140,-198,l),
+(140,222,l)
+);
+},
+{
+ref = b.sc;
+}
+);
+width = 545;
+}
+);
+}

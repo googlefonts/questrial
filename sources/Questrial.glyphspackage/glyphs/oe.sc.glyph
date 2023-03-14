@@ -1,0 +1,36 @@
+{
+color = 3;
+glyphname = oe.sc;
+kernLeft = o.sc;
+kernRight = e.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (494,0);
+},
+{
+name = ogonek;
+pos = (923,0);
+},
+{
+name = top;
+pos = (489,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+alignment = -1;
+pos = (444,0);
+ref = e.sc;
+}
+);
+width = 946;
+}
+);
+}

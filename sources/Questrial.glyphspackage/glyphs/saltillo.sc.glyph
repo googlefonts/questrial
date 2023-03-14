@@ -1,0 +1,14 @@
+{
+glyphname = saltillo.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = saltillo;
+}
+);
+width = 221;
+}
+);
+}

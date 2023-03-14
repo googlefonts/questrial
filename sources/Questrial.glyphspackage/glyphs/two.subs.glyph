@@ -1,0 +1,14 @@
+{
+glyphname = two.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = two.sinf;
+}
+);
+width = 357;
+}
+);
+}

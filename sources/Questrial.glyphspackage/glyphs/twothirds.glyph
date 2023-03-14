@@ -1,0 +1,29 @@
+{
+glyphname = twothirds;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = two.numr;
+},
+{
+alignment = -1;
+pos = (484,0);
+ref = three.dnom;
+},
+{
+alignment = -1;
+pos = (203,0);
+ref = fraction;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
+};
+width = 842;
+}
+);
+note = "\012    twothirds\012  ";
+unicode = 8532;
+}

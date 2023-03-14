@@ -1,0 +1,46 @@
+{
+color = 3;
+glyphname = ohorn.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (648,545);
+},
+{
+name = bottom;
+pos = (298,0);
+},
+{
+name = top;
+pos = (318,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,586,o),
+(486,552,o),
+(436,552,cs),
+(318,552,l),
+(416,477,l),
+(436,477,ls),
+(530,477,o),
+(595,540,o),
+(595,661,c),
+(520,661,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 615;
+}
+);
+}

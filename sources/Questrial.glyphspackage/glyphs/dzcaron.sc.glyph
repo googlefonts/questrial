@@ -1,0 +1,24 @@
+{
+color = 3;
+glyphname = dzcaron.sc;
+kernLeft = i.sc;
+kernRight = z.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (558,0);
+ref = zcaron.sc;
+},
+{
+alignment = -1;
+pos = (0,-1);
+ref = d.sc;
+}
+);
+width = 1040;
+}
+);
+}

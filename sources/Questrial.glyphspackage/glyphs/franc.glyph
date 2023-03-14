@@ -1,0 +1,26 @@
+{
+glyphname = franc;
+kernLeft = I;
+kernRight = F;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,174,l),
+(31,108,l),
+(368,108,l),
+(368,174,l)
+);
+},
+{
+ref = F;
+}
+);
+width = 600;
+}
+);
+unicode = 8355;
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ocircumflex.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (166,-116);
+ref = circumflexcomb.case;
+}
+);
+width = 615;
+}
+);
+}

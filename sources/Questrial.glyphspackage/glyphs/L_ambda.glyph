@@ -1,0 +1,17 @@
+{
+glyphname = Lambda;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Vturned;
+}
+);
+width = 628;
+}
+);
+unicode = 923;
+}

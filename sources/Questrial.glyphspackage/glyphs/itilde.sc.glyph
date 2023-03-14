@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = itilde.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-44,-116);
+ref = tildecomb.case;
+}
+);
+width = 205;
+}
+);
+}

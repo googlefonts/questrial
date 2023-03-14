@@ -1,0 +1,69 @@
+{
+color = 3;
+glyphname = rfishhook;
+kernLeft = r;
+kernRight = r;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (103,0);
+},
+{
+name = top;
+pos = (173,500);
+}
+);
+hints = (
+{
+place = (65, 75);
+place = (65, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (433, 75);
+place = (433, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,0,l),
+(140,310,ls),
+(140,374,o),
+(193,433,o),
+(280,433,cs),
+(289,433,l),
+(289,508,l),
+(284,508,ls),
+(179,508,o),
+(65,441,o),
+(65,310,cs),
+(65,0,l)
+);
+}
+);
+width = 305;
+}
+);
+metricLeft = r;
+metricRight = r;
+unicode = 638;
+}

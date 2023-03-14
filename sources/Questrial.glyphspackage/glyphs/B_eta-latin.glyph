@@ -1,0 +1,37 @@
+{
+glyphname = "Beta-latin";
+kernLeft = I;
+kernRight = B;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,69,l),
+(81,-198,l),
+(156,-198,l),
+(156,69,l)
+);
+},
+{
+ref = B;
+}
+);
+width = 662;
+},
+{
+associatedMasterId = UUID0;
+layerId = "B4EDB8CF-4B38-4FFA-85AF-F7B676A105E9";
+name = "May 18 20, 19:09";
+shapes = (
+{
+ref = B;
+}
+);
+width = 662;
+}
+);
+unicode = 42932;
+}

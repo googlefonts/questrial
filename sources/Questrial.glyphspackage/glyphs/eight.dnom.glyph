@@ -1,0 +1,16 @@
+{
+glyphname = eight.dnom;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-448);
+ref = eight.sups;
+}
+);
+width = 370;
+}
+);
+}

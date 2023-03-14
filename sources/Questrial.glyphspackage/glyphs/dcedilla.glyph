@@ -1,0 +1,21 @@
+{
+glyphname = dcedilla;
+kernLeft = o;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (217,0);
+ref = commaaccentcomb;
+}
+);
+width = 595;
+}
+);
+unicode = 7697;
+}

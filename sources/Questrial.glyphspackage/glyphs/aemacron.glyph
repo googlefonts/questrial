@@ -1,0 +1,21 @@
+{
+glyphname = aemacron;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (357,0);
+ref = macroncomb;
+}
+);
+width = 977;
+}
+);
+unicode = 483;
+}

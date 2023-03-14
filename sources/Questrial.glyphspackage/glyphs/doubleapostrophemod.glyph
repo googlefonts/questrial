@@ -1,0 +1,23 @@
+{
+glyphname = doubleapostrophemod;
+kernLeft = apostrophemod;
+kernRight = apostrophemod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (198,0);
+ref = apostrophemod;
+},
+{
+ref = apostrophemod;
+}
+);
+width = 409;
+}
+);
+metricLeft = apostrophemod;
+metricRight = apostrophemod;
+unicode = 750;
+}

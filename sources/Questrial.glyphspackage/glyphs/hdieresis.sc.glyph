@@ -1,0 +1,18 @@
+{
+glyphname = hdieresis.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (165,46);
+ref = dieresiscomb;
+}
+);
+width = 573;
+}
+);
+}

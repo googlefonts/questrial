@@ -1,0 +1,17 @@
+{
+glyphname = leftBlackTriangle;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+angle = 90;
+pos = (710,-40);
+ref = upBlackTriangle;
+}
+);
+width = 750;
+}
+);
+unicode = 9664;
+}

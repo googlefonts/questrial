@@ -1,0 +1,25 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (54,662);
+},
+{
+name = top;
+pos = (81,799);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (20,155);
+ref = acutecomb;
+}
+);
+width = 168;
+}
+);
+}

@@ -1,0 +1,25 @@
+{
+glyphname = scarondotaccent;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (100,0);
+ref = caroncomb;
+},
+{
+pos = (197,155);
+ref = dotaccentcomb;
+}
+);
+width = 482;
+}
+);
+unicode = 7783;
+}

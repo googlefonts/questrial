@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = macroncomb_gravecomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = macroncomb;
+},
+{
+pos = (48,142);
+ref = gravecomb;
+}
+);
+width = 264;
+}
+);
+}

@@ -1,0 +1,24 @@
+{
+glyphname = lambdastroke.uc;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(411,581,l),
+(386,642,l),
+(106,529,l),
+(130,468,l)
+);
+},
+{
+ref = Lambda.latin;
+}
+);
+width = 647;
+}
+);
+}

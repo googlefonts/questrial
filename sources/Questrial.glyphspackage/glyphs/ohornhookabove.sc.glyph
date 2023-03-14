@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ohornhookabove.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (227,-116);
+ref = hookabovecomb.case;
+}
+);
+width = 615;
+}
+);
+}

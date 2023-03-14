@@ -1,0 +1,18 @@
+{
+glyphname = six.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-586);
+ref = six.sups;
+}
+);
+width = 359;
+}
+);
+metricLeft = six.sups;
+metricRight = six.sups;
+}

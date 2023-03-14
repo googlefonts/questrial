@@ -1,0 +1,16 @@
+{
+glyphname = nine.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (5,-173);
+ref = nine.sups;
+}
+);
+width = 359;
+}
+);
+}

@@ -1,0 +1,92 @@
+{
+color = 3;
+glyphname = d.sc;
+kernLeft = i.sc;
+kernRight = o.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (248,0);
+},
+{
+name = center;
+pos = (275,265);
+},
+{
+name = top;
+pos = (289,546);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (589, 75);
+place = (589, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 71);
+place = (0, 71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591, 71);
+place = (591, 71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(295,0,ls),
+(438,0,o),
+(546,116,o),
+(546,273,cs),
+(546,429,o),
+(438,546,o),
+(295,546,cs),
+(65,546,l),
+(65,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,474,l),
+(293,474,ls),
+(395,474,o),
+(471,388,o),
+(471,273,cs),
+(471,157,o),
+(395,73,o),
+(293,73,cs),
+(140,73,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+weight = 10;
+width = 80;
+};
+};
+width = 578;
+}
+);
+userData = {
+RMXScaler = {
+source = D;
+};
+};
+}

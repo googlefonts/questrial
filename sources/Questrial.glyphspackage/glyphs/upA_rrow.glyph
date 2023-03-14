@@ -1,0 +1,44 @@
+{
+glyphname = upArrow;
+layers = (
+{
+guides = (
+{
+pos = (181,586);
+}
+);
+hints = (
+{
+place = (65, 61);
+place = (65, 61);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-179, 927);
+place = (-179, 927);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,530,l),
+(80,486,l),
+(181,585,l),
+(181,0,l),
+(243,0,l),
+(243,585,l),
+(344,486,l),
+(384,530,l),
+(212,700,l)
+);
+}
+);
+width = 424;
+}
+);
+unicode = 8593;
+}

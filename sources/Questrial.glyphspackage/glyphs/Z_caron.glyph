@@ -1,0 +1,21 @@
+{
+glyphname = Zcaron;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (151,0);
+ref = caroncomb.case;
+}
+);
+width = 584;
+}
+);
+unicode = 381;
+}

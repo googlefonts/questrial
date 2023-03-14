@@ -1,0 +1,15 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = macron;
+}
+);
+width = 382;
+}
+);
+unicode = 713;
+}

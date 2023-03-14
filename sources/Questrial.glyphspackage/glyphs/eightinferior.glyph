@@ -1,0 +1,17 @@
+{
+glyphname = eightinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eight.sinf;
+}
+);
+width = 370;
+}
+);
+metricLeft = eight;
+metricRight = eight;
+unicode = 8328;
+}

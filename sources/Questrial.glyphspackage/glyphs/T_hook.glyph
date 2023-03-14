@@ -1,0 +1,79 @@
+{
+color = 0;
+glyphname = Thook;
+kernLeft = Bhook;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = center;
+pos = (347,331);
+},
+{
+name = top;
+pos = (347,662);
+}
+);
+guides = (
+{
+pos = (384,590);
+showMeasurement = 1;
+}
+);
+hints = (
+{
+place = (245, 75);
+place = (245, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (590, 72);
+place = (590, 72);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,662,l),
+(66,658,o),
+(5,590,o),
+(5,488,cs),
+(5,471,o),
+(6,452,o),
+(10,433,c),
+(78,433,l),
+(75,449,o),
+(74,464,o),
+(74,479,cs),
+(74,547,o),
+(110,590,o),
+(204,590,cs),
+(309,590,l),
+(309,0,l),
+(384,0,l),
+(384,590,l),
+(615,590,l),
+(615,662,l)
+);
+}
+);
+width = 629;
+}
+);
+unicode = 428;
+}

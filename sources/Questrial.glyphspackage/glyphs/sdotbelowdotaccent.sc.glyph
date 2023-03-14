@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = sdotbelowdotaccent.sc;
+kernLeft = s.sc;
+kernRight = s.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (211,0);
+ref = dotbelowcomb;
+},
+{
+pos = (201,46);
+ref = dotaccentcomb;
+}
+);
+width = 507;
+}
+);
+}

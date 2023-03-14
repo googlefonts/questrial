@@ -1,0 +1,14 @@
+{
+glyphname = zero.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = zero.sinf;
+}
+);
+width = 375;
+}
+);
+}

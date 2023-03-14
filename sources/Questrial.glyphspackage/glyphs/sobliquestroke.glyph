@@ -1,0 +1,26 @@
+{
+glyphname = sobliquestroke;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,259,l),
+(22,193,l),
+(472,273,l),
+(472,339,l)
+);
+},
+{
+ref = s;
+}
+);
+width = 482;
+}
+);
+unicode = 42921;
+}

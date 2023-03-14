@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = acircumflexdotbelow.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (232,0);
+ref = dotbelowcomb;
+},
+{
+pos = (134,-116);
+ref = circumflexcomb.case;
+}
+);
+width = 551;
+}
+);
+}

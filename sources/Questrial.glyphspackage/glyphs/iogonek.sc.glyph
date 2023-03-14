@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = iogonek.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-52,-2);
+ref = ogonekcomb;
+}
+);
+width = 205;
+}
+);
+}

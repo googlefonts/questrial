@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = lj.sc;
+kernLeft = i.sc;
+kernRight = j.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (459,0);
+ref = j.sc;
+}
+);
+width = 900;
+}
+);
+}

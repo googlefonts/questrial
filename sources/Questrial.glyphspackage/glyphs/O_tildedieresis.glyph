@@ -1,0 +1,25 @@
+{
+glyphname = Otildedieresis;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (228,0);
+ref = tildecomb.case;
+},
+{
+pos = (262,122);
+ref = dieresiscomb.case;
+}
+);
+width = 750;
+}
+);
+unicode = 7758;
+}

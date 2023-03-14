@@ -1,0 +1,11 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = UUID0;
+width = 550;
+}
+);
+metricWidth = zero;
+unicode = 8199;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = lozenge;
+layers = (
+{
+hints = (
+{
+place = (36, 546);
+place = (36, 546);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-58, 778);
+place = (-58, 778);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,-58,l),
+(582,331,l),
+(348,720,l),
+(270,720,l),
+(36,331,l),
+(270,-58,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(118,331,l),
+(309,648,l),
+(500,331,l),
+(309,14,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 9674;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = obarred.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(62,305,l),
+(62,241,l),
+(553,241,l),
+(553,305,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 615;
+}
+);
+}

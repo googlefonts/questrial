@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = aogonek;
+kernLeft = o;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (358,-2);
+ref = ogonekcomb;
+}
+);
+width = 595;
+}
+);
+unicode = 261;
+}

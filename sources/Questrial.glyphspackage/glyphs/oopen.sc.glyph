@@ -1,0 +1,30 @@
+{
+glyphname = oopen.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (284,0);
+},
+{
+name = ogonek;
+pos = (323,0);
+},
+{
+name = top;
+pos = (275,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (569,0);
+ref = c.sc;
+scale = (-1,1);
+}
+);
+width = 569;
+}
+);
+}

@@ -1,0 +1,49 @@
+{
+glyphname = "iota-latin.sc";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (107,0);
+},
+{
+name = top;
+pos = (107,546);
+}
+);
+background = {
+shapes = (
+{
+ref = j.sc;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,68,o),
+(140,109,o),
+(140,211,cs),
+(140,546,l),
+(65,546,l),
+(65,187,ls),
+(65,63,o),
+(143,-6,o),
+(255,-6,cs),
+(274,-6,o),
+(294,-5,o),
+(315,-1,c),
+(315,73,l),
+(298,69,o),
+(281,68,o),
+(265,68,cs)
+);
+}
+);
+width = 325;
+}
+);
+}

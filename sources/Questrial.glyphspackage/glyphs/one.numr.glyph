@@ -1,0 +1,18 @@
+{
+glyphname = one.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-173);
+ref = one.sups;
+}
+);
+width = 319;
+}
+);
+metricLeft = "=one-80";
+metricRight = "=one-80";
+}

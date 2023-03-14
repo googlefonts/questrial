@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = exclamdown.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,546);
+ref = exclam.sc;
+scale = (1,-1);
+}
+);
+width = 196;
+}
+);
+}

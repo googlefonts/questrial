@@ -1,0 +1,21 @@
+{
+glyphname = Odieresis;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (252,0);
+ref = dieresiscomb.case;
+}
+);
+width = 750;
+}
+);
+unicode = 214;
+}

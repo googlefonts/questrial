@@ -1,0 +1,61 @@
+{
+glyphname = four;
+layers = (
+{
+hints = (
+{
+place = (347, 75);
+place = (347, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (169, 67);
+place = (169, 67);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (598, 64);
+place = (598, 64);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(422,0,l),
+(422,169,l),
+(511,169,l),
+(511,236,l),
+(422,236,l),
+(422,662,l),
+(309,662,l),
+(31,242,l),
+(31,169,l),
+(347,169,l),
+(347,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(347,598,l),
+(347,236,l),
+(101,236,l)
+);
+}
+);
+width = 550;
+}
+);
+unicode = 52;
+}

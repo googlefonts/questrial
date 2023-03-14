@@ -1,0 +1,87 @@
+{
+glyphname = doubleprimemod;
+layers = (
+{
+hints = (
+{
+place = (40, 306);
+place = (40, 306);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+},
+{
+place = (190, 156);
+place = (190, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+},
+{
+place = (346, -156);
+place = (346, -156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (688, -213);
+place = (688, -213);
+type = Stem;
+},
+{
+place = (40, 156);
+place = (40, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+},
+{
+place = (196, -156);
+place = (196, -156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (688, -213);
+place = (688, -213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,764,l),
+(40,475,l),
+(108,475,l),
+(222,764,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,764,l),
+(190,475,l),
+(258,475,l),
+(372,764,l)
+);
+}
+);
+width = 412;
+}
+);
+unicode = 698;
+}

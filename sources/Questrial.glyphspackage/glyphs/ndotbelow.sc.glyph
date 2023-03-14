@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ndotbelow.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (257,0);
+ref = dotbelowcomb;
+}
+);
+width = 602;
+}
+);
+}

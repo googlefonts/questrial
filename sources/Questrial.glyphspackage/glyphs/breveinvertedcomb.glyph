@@ -1,0 +1,26 @@
+{
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (118.5,500);
+},
+{
+name = top;
+pos = (118.5,714);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-153);
+ref = breveinvertedcomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 785;
+}

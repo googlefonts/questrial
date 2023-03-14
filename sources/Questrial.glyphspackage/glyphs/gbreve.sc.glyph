@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = gbreve.sc;
+kernLeft = o.sc;
+kernRight = g.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (182,-116);
+ref = brevecomb.case;
+}
+);
+width = 593;
+}
+);
+}

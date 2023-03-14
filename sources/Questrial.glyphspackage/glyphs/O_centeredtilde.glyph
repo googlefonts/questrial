@@ -1,0 +1,28 @@
+{
+glyphname = Ocenteredtilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,363,l),
+(70,298,l),
+(658,298,l),
+(658,363,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 750;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 415;
+}

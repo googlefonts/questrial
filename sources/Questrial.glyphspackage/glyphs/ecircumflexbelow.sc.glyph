@@ -1,0 +1,18 @@
+{
+glyphname = ecircumflexbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (129,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 502;
+}
+);
+}

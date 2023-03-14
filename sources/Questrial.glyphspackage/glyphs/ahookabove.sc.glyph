@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ahookabove.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (192,65);
+ref = hookabovecomb;
+}
+);
+width = 551;
+}
+);
+}

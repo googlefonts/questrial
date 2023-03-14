@@ -1,0 +1,21 @@
+{
+glyphname = divisionslash;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,-32,l),
+(329,680,l),
+(259,680,l),
+(30,-32,l)
+);
+}
+);
+width = 359;
+}
+);
+unicode = 8725;
+}

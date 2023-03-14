@@ -1,0 +1,18 @@
+{
+glyphname = ngrave.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (217,46);
+ref = gravecomb;
+}
+);
+width = 602;
+}
+);
+}

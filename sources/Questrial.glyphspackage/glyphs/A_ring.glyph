@@ -1,0 +1,104 @@
+{
+glyphname = Aring;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,651,l),
+(256,667,o),
+(241,694,o),
+(241,724,cs),
+(241,774,o),
+(281,814,o),
+(330,814,cs),
+(381,814,o),
+(421,774,o),
+(421,724,cs),
+(421,694,o),
+(406,667,o),
+(382,651,c),
+(659,0,l),
+(576,0,l),
+(495,192,l),
+(167,192,l),
+(86,0,l),
+(3,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(466,261,l),
+(331,584,l),
+(196,261,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(355,680,o),
+(375,700,o),
+(375,724,cs),
+(375,749,o),
+(355,769,o),
+(330,769,cs),
+(307,769,o),
+(287,749,o),
+(287,724,cs),
+(287,700,o),
+(307,680,o),
+(330,680,cs)
+);
+}
+);
+};
+hints = (
+{
+place = (241, 46);
+place = (241, 46);
+type = Stem;
+},
+{
+place = (375, 46);
+place = (375, 46);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (192, 69);
+place = (192, 69);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (769, 45);
+place = (769, 45);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (241,0);
+ref = ringcomb.case;
+}
+);
+width = 662;
+}
+);
+unicode = 197;
+}

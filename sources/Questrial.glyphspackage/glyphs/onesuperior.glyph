@@ -1,0 +1,46 @@
+{
+glyphname = onesuperior;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(321,301,l),
+(321,662,l),
+(193,662,l),
+(193,610,l),
+(266,610,l),
+(266,301,l)
+);
+}
+);
+};
+hints = (
+{
+place = (99, 55);
+place = (99, 55);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (610, 52);
+place = (610, 52);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = one.sups;
+}
+);
+width = 319;
+}
+);
+metricLeft = "=one-80";
+metricRight = "=one-80";
+unicode = 185;
+}

@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ecircumflexgrave.sc;
+kernLeft = i.sc;
+kernRight = e.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (124,46);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 502;
+}
+);
+}

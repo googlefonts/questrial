@@ -1,0 +1,55 @@
+{
+glyphname = commercialMinusSign;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(323,661,l),
+(329,680,l),
+(259,680,l),
+(253,661,l)
+);
+}
+);
+};
+hints = (
+{
+place = (0, 484);
+place = (0, 484);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-14, 688);
+place = (-14, 688);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(253,662,l),
+(40,0,l),
+(110,0,l),
+(323,662,l)
+);
+},
+{
+pos = (170,0);
+ref = period;
+},
+{
+pos = (-25,560);
+ref = period;
+}
+);
+width = 324;
+}
+);
+unicode = 8274;
+}

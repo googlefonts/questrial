@@ -1,0 +1,23 @@
+{
+glyphname = ubar.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1,305,l),
+(-1,241,l),
+(582,241,l),
+(582,305,l)
+);
+},
+{
+ref = u.sc;
+}
+);
+width = 581;
+}
+);
+}

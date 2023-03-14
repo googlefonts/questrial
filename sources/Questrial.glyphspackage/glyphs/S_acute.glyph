@@ -1,0 +1,21 @@
+{
+glyphname = Sacute;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (254,0);
+ref = acutecomb.case;
+}
+);
+width = 615;
+}
+);
+unicode = 346;
+}

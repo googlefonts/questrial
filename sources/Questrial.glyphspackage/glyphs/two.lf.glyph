@@ -1,0 +1,60 @@
+{
+glyphname = two.lf;
+layers = (
+{
+hints = (
+{
+place = (424, 75);
+place = (424, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 72);
+place = (0, 72);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597, 73);
+place = (597, 73);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(497,0,l),
+(497,72,l),
+(141,72,l),
+(153,189,o),
+(499,290,o),
+(499,475,cs),
+(499,585,o),
+(416,670,o),
+(273,670,cs),
+(151,670,o),
+(54,596,o),
+(43,482,c),
+(118,482,l),
+(128,556,o),
+(187,597,o),
+(275,597,cs),
+(371,597,o),
+(424,550,o),
+(424,473,cs),
+(424,321,o),
+(52,237,o),
+(52,41,cs),
+(52,0,l)
+);
+}
+);
+width = 550;
+}
+);
+metricLeft = two;
+metricRight = two;
+}

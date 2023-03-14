@@ -1,0 +1,18 @@
+{
+glyphname = etildebelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (114,0);
+ref = tildebelowcomb;
+}
+);
+width = 502;
+}
+);
+}

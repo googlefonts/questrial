@@ -1,0 +1,26 @@
+{
+glyphname = ystroke;
+kernLeft = y;
+kernRight = y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(13,283,l),
+(13,218,l),
+(494,218,l),
+(494,283,l)
+);
+},
+{
+ref = y;
+}
+);
+width = 497;
+}
+);
+unicode = 591;
+}

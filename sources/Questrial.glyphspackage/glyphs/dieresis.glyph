@@ -1,0 +1,48 @@
+{
+glyphname = dieresis;
+layers = (
+{
+hints = (
+{
+place = (74, 89);
+place = (74, 89);
+type = Stem;
+},
+{
+place = (231, 89);
+place = (231, 89);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (579, 83);
+place = (579, 83);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,579,l),
+(89,662,l),
+(0,662,l),
+(0,579,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(246,579,l),
+(246,662,l),
+(157,662,l),
+(157,579,l)
+);
+}
+);
+width = 246;
+}
+);
+unicode = 168;
+}

@@ -1,0 +1,97 @@
+{
+glyphname = peseta;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (314,0);
+},
+{
+name = top;
+pos = (314,662);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (532, 75);
+place = (532, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (236, 70);
+place = (236, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591, 71);
+place = (591, 71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(555,482,l),
+(541,593,o),
+(458,662,o),
+(329,662,cs),
+(81,662,l),
+(81,482,l),
+(31,482,l),
+(31,416,l),
+(81,416,l),
+(81,0,l),
+(156,0,l),
+(156,236,l),
+(329,236,ls),
+(458,236,o),
+(542,303,o),
+(555,416,c),
+(607,416,l),
+(607,482,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(324,591,ls),
+(414,591,o),
+(467,550,o),
+(479,482,c),
+(156,482,l),
+(156,591,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,306,l),
+(156,416,l),
+(479,416,l),
+(467,346,o),
+(415,306,o),
+(324,306,cs)
+);
+}
+);
+width = 607;
+}
+);
+unicode = 8359;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,700);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+width = 424;
+}
+);
+unicode = 8595;
+}

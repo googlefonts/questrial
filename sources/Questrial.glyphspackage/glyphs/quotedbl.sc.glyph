@@ -1,0 +1,20 @@
+{
+glyphname = quotedbl.sc;
+kernLeft = quotesingle.sc;
+kernRight = quotesingle.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-6);
+ref = quotedbl;
+scale = (0.8333,0.8333);
+}
+);
+width = 265;
+}
+);
+metricLeft = quotesingle.sc;
+metricRight = quotesingle.sc;
+}

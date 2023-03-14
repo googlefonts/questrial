@@ -1,0 +1,21 @@
+{
+glyphname = Hdieresis;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (226,0);
+ref = dieresiscomb.case;
+}
+);
+width = 697;
+}
+);
+unicode = 7718;
+}

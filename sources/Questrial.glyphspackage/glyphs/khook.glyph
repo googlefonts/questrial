@@ -1,0 +1,72 @@
+{
+glyphname = khook;
+kernLeft = l;
+kernRight = k;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (251,0);
+},
+{
+name = top;
+pos = (251,700);
+}
+);
+hints = (
+{
+place = (65, 75);
+place = (65, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(486,500,l),
+(381,500,l),
+(140,252,l),
+(140,564,ls),
+(140,597,o),
+(144,641,o),
+(216,641,cs),
+(224,641,o),
+(231,640,o),
+(240,638,c),
+(240,706,l),
+(229,707,o),
+(220,708,o),
+(210,708,cs),
+(85,708,o),
+(65,629,o),
+(65,564,cs),
+(65,0,l),
+(140,0,l),
+(140,158,l),
+(234,251,l),
+(409,0,l),
+(501,0,l),
+(285,303,l)
+);
+}
+);
+width = 502;
+}
+);
+unicode = 409;
+}

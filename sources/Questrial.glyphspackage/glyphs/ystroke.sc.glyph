@@ -1,0 +1,23 @@
+{
+glyphname = ystroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(18,450,l),
+(18,386,l),
+(520,386,l),
+(520,450,l)
+);
+},
+{
+ref = y.sc;
+}
+);
+width = 536;
+}
+);
+}

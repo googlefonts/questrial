@@ -1,0 +1,86 @@
+{
+glyphname = bhook.alt.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (258,546);
+}
+);
+hints = (
+{
+origin = (0,1);
+place = (65, -75);
+type = Stem;
+},
+{
+origin = (0,1);
+place = (65, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,1);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+origin = (0,1);
+place = (546, -70);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,1);
+place = (546, -71);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,546,l),
+(65,546,l),
+(65,0,l),
+(310,0,ls),
+(426,0,o),
+(501,61,o),
+(501,156,cs),
+(501,251,o),
+(427,310,o),
+(310,310,cs),
+(124,310,l),
+(124,239,l),
+(306,239,ls),
+(383,239,o),
+(426,210,o),
+(426,156,cs),
+(426,102,o),
+(383,72,o),
+(306,72,cs),
+(140,72,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(93,474,l),
+(417,474,l),
+(417,546,l),
+(93,546,l)
+);
+}
+);
+width = 518;
+}
+);
+metricRight = p.sc;
+}

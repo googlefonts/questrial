@@ -1,0 +1,48 @@
+{
+glyphname = one.sups;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,449,l),
+(199,835,l),
+(55,835,l),
+(55,775,l),
+(137,775,l),
+(137,449,l)
+);
+}
+);
+width = 319;
+},
+{
+associatedMasterId = UUID0;
+layerId = "52148038-2C95-434A-A62B-FDD3123C368C";
+name = "May 4 20, 17:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(308,448,l),
+(308,911,l),
+(135,911,l),
+(135,839,l),
+(233,839,l),
+(233,448,l)
+);
+},
+{
+pos = (41,449);
+ref = one;
+scale = (0.7,0.7);
+}
+);
+width = 508;
+}
+);
+metricLeft = "=one-80";
+metricRight = "=one-80";
+}

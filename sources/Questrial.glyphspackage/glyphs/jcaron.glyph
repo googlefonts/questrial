@@ -1,0 +1,19 @@
+{
+glyphname = jcaron;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-38,0);
+ref = caroncomb;
+}
+);
+width = 205;
+}
+);
+unicode = 496;
+}

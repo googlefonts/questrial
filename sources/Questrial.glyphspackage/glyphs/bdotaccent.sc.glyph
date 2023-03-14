@@ -1,0 +1,18 @@
+{
+glyphname = bdotaccent.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = b.sc;
+},
+{
+pos = (229,46);
+ref = dotaccentcomb;
+}
+);
+width = 545;
+}
+);
+}

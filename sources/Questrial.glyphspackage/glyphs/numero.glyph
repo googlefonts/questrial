@@ -1,0 +1,19 @@
+{
+glyphname = numero;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (733,0);
+ref = ordmasculine;
+}
+);
+width = 1075;
+}
+);
+unicode = 8470;
+}

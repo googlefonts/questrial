@@ -1,0 +1,21 @@
+{
+glyphname = Uhungarumlaut;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (223,0);
+ref = hungarumlautcomb.case;
+}
+);
+width = 709;
+}
+);
+unicode = 368;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = leftArrow;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+angle = 90;
+pos = (740,522);
+ref = upArrow;
+scale = (-1,1);
+}
+);
+width = 780;
+}
+);
+unicode = 8592;
+}

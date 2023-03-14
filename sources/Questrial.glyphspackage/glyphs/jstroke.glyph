@@ -1,0 +1,26 @@
+{
+glyphname = jstroke;
+kernLeft = j;
+kernRight = j;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,218,l),
+(205,283,l),
+(0,283,l),
+(0,218,l)
+);
+},
+{
+ref = j;
+}
+);
+width = 205;
+}
+);
+unicode = 585;
+}

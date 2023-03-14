@@ -1,0 +1,21 @@
+{
+glyphname = saltillo;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,320,l),
+(157,662,l),
+(64,662,l),
+(83,320,l)
+);
+}
+);
+width = 221;
+}
+);
+unicode = 42892;
+}

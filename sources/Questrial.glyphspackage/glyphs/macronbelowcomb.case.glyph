@@ -1,0 +1,31 @@
+{
+glyphname = macronbelowcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (132,0);
+},
+{
+name = bottom;
+pos = (132,-125);
+}
+);
+hints = (
+{
+place = (207, 75);
+place = (207, 75);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = macrobelow;
+}
+);
+width = 264;
+}
+);
+}

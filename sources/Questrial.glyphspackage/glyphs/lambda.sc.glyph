@@ -1,0 +1,16 @@
+{
+glyphname = lambda.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = vturned.sc;
+}
+);
+width = 524;
+}
+);
+}

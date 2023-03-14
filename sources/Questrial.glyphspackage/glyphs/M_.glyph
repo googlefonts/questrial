@@ -1,0 +1,75 @@
+{
+glyphname = M;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (403,0);
+},
+{
+name = ogonek;
+pos = (735,2);
+},
+{
+name = top;
+pos = (403,662);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (650, 75);
+place = (650, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (548, 114);
+place = (548, 114);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(156,548,l),
+(405,233,l),
+(650,548,l),
+(650,0,l),
+(725,0,l),
+(725,662,l),
+(638,662,l),
+(405,348,l),
+(168,662,l),
+(81,662,l),
+(81,0,l)
+);
+}
+);
+width = 806;
+}
+);
+unicode = 77;
+}

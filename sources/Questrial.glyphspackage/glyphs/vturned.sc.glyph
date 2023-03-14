@@ -1,0 +1,27 @@
+{
+glyphname = vturned.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (262,0);
+},
+{
+name = top;
+pos = (262,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (524,546);
+ref = v.sc;
+}
+);
+width = 524;
+}
+);
+}

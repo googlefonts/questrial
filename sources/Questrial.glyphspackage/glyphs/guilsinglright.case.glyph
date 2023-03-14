@@ -1,0 +1,15 @@
+{
+glyphname = guilsinglright.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,51);
+ref = guilsinglright;
+}
+);
+width = 303;
+}
+);
+}

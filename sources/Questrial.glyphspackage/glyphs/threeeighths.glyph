@@ -1,0 +1,29 @@
+{
+glyphname = threeeighths;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (169,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
+};
+width = 810;
+}
+);
+note = "\012    threeeighths\012  ";
+unicode = 8540;
+}

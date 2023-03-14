@@ -1,0 +1,18 @@
+{
+glyphname = hdotaccent.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (243,46);
+ref = dotaccentcomb;
+}
+);
+width = 573;
+}
+);
+}

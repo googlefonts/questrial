@@ -1,0 +1,23 @@
+{
+glyphname = udiagonalstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,-40,l),
+(618,583,l),
+(538,583,l),
+(67,-40,l)
+);
+},
+{
+ref = u.sc;
+}
+);
+width = 581;
+}
+);
+}

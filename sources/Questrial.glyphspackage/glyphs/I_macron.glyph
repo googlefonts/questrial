@@ -1,0 +1,21 @@
+{
+glyphname = Imacron;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-13,0);
+ref = macroncomb.case;
+}
+);
+width = 237;
+}
+);
+unicode = 298;
+}

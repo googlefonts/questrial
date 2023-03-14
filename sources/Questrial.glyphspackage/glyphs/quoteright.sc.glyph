@@ -1,0 +1,17 @@
+{
+glyphname = quoteright.sc;
+kernLeft = quoteright;
+kernRight = quoteright;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-142);
+ref = quoteright;
+}
+);
+width = 211;
+}
+);
+}

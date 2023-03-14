@@ -1,0 +1,21 @@
+{
+glyphname = Oogonekmacron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (243,0);
+ref = macroncomb.case;
+},
+{
+ref = Oogonek;
+}
+);
+width = 750;
+}
+);
+unicode = 492;
+}

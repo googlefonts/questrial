@@ -1,0 +1,66 @@
+{
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+hints = (
+{
+place = (53, 97);
+place = (53, 97);
+type = Stem;
+},
+{
+place = (345, 97);
+place = (345, 97);
+type = Stem;
+},
+{
+place = (637, 97);
+place = (637, 97);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 102);
+place = (0, 102);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,0,l),
+(150,102,l),
+(53,102,l),
+(53,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(442,0,l),
+(442,102,l),
+(345,102,l),
+(345,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(734,0,l),
+(734,102,l),
+(637,102,l),
+(637,0,l)
+);
+}
+);
+width = 787;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8230;
+}

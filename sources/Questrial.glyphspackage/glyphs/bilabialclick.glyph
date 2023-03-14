@@ -1,0 +1,21 @@
+{
+glyphname = bilabialclick;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (273,40);
+ref = periodcentered;
+},
+{
+ref = O;
+}
+);
+width = 751;
+}
+);
+unicode = 664;
+}

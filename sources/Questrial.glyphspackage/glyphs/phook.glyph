@@ -1,0 +1,46 @@
+{
+glyphname = phook;
+kernLeft = n;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-175,581);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,708,o),
+(65,629,o),
+(65,564,cs),
+(65,383,l),
+(140,383,l),
+(140,564,ls),
+(140,597,o),
+(144,641,o),
+(216,641,cs),
+(224,641,o),
+(231,640,o),
+(240,638,c),
+(240,706,l),
+(229,707,o),
+(220,708,o),
+(210,708,cs)
+);
+},
+{
+ref = p;
+}
+);
+width = 595;
+}
+);
+metricLeft = n;
+metricRight = o;
+unicode = 421;
+}

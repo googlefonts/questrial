@@ -1,0 +1,50 @@
+{
+color = 3;
+glyphname = colonmod;
+layers = (
+{
+hints = (
+{
+place = (53, 97);
+place = (53, 97);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 102);
+place = (0, 102);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (398, 102);
+place = (398, 102);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,348,l),
+(150,450,l),
+(53,450,l),
+(53,348,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(150,50,l),
+(150,152,l),
+(53,152,l),
+(53,50,l)
+);
+}
+);
+width = 203;
+}
+);
+unicode = 42889;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = vtilde;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = v;
+},
+{
+pos = (89,0);
+ref = tildecomb;
+}
+);
+width = 489;
+}
+);
+unicode = 7805;
+}

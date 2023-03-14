@@ -1,0 +1,38 @@
+{
+glyphname = Ismall;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,434,l),
+(267,500,l),
+(62,500,l),
+(62,434,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(267,0,l),
+(267,66,l),
+(62,66,l),
+(62,0,l)
+);
+},
+{
+pos = (62,0);
+ref = idotless;
+}
+);
+width = 329;
+}
+);
+metricLeft = i;
+metricRight = i;
+unicode = 618;
+}

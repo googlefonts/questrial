@@ -1,0 +1,72 @@
+{
+glyphname = commaabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (58.5,500);
+},
+{
+name = top;
+pos = (58.5,729);
+}
+);
+hints = (
+{
+place = (116.75, -117);
+place = (116.75, -117);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (728.75, -159.75);
+place = (728.75, -159.75);
+type = Stem;
+},
+{
+place = (156, -156);
+place = (156, -156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (791, -213);
+place = (791, -213);
+type = Stem;
+},
+{
+place = (0, 156);
+place = (0, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (578, 213);
+place = (578, 213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(59,729,l),
+(59,699,ls),
+(59,653,o),
+(47,623,o),
+(11,579,c),
+(59,579,l),
+(104,621,o),
+(121,656,o),
+(121,711,cs),
+(121,729,l)
+);
+}
+);
+width = 117;
+}
+);
+unicode = 787;
+}

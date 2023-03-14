@@ -1,0 +1,17 @@
+{
+glyphname = fourinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = four.sinf;
+}
+);
+width = 349;
+}
+);
+metricLeft = four;
+metricRight = four;
+unicode = 8324;
+}

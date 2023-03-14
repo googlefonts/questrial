@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = acircumflexacute.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (134,46);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 551;
+}
+);
+}

@@ -1,0 +1,27 @@
+{
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (132,500);
+},
+{
+name = top;
+pos = (132,642);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-57,2);
+ref = macron;
+}
+);
+width = 264;
+}
+);
+unicode = 772;
+}

@@ -1,0 +1,67 @@
+{
+glyphname = Cstroke;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (345,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,-40,l),
+(545,700,l),
+(475,700,l),
+(160,-40,l)
+);
+},
+{
+ref = C;
+}
+);
+width = 690;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (331,0);
+}
+);
+associatedMasterId = UUID0;
+layerId = "9441E252-5FF3-4E04-A78C-10E7418A71E5";
+name = "May 28 20, 14:39";
+shapes = (
+{
+closed = 1;
+nodes = (
+(294,-112,l),
+(478,760,l),
+(408,760,l),
+(224,-112,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,-75,l),
+(542,725,l),
+(472,725,l),
+(131,-75,l)
+);
+},
+{
+ref = C;
+}
+);
+width = 690;
+}
+);
+unicode = 571;
+}

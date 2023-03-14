@@ -1,0 +1,21 @@
+{
+glyphname = ebreve;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (161,0);
+ref = brevecomb;
+}
+);
+width = 557;
+}
+);
+unicode = 277;
+}

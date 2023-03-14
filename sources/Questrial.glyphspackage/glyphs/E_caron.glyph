@@ -1,0 +1,21 @@
+{
+glyphname = Ecaron;
+kernLeft = I;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (193,0);
+ref = caroncomb.case;
+}
+);
+width = 608;
+}
+);
+unicode = 282;
+}

@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = ecedillabreve.sc;
+kernLeft = i.sc;
+kernRight = e.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (154,0);
+ref = cedillacomb;
+},
+{
+pos = (147,-116);
+ref = brevecomb.case;
+}
+);
+width = 502;
+}
+);
+}

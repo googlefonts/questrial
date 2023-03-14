@@ -1,0 +1,23 @@
+{
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(229,294,l),
+(99,681,l),
+(40,681,l),
+(167,294,l),
+(40,-93,l),
+(99,-93,l)
+);
+}
+);
+width = 309;
+}
+);
+unicode = 10217;
+}

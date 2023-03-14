@@ -1,0 +1,21 @@
+{
+glyphname = LJ;
+kernLeft = I;
+kernRight = J;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (533,0);
+ref = J;
+}
+);
+width = 1060;
+}
+);
+unicode = 455;
+}

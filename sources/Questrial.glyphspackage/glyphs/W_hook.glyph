@@ -1,0 +1,197 @@
+{
+color = 11;
+glyphname = Whook;
+kernLeft = V;
+kernRight = Khook;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (479,0);
+},
+{
+name = top;
+pos = (479,662);
+}
+);
+hints = (
+{
+place = (9, 940);
+place = (9, 940);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (556, 106);
+place = (556, 106);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 106);
+place = (0, 106);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(884,663,o),
+(847,585,o),
+(814,480,cs),
+(700,106,l),
+(522,662,l),
+(436,662,l),
+(258,106,l),
+(88,662,l),
+(9,662,l),
+(215,0,l),
+(300,0,l),
+(479,556,l),
+(658,0,l),
+(743,0,l),
+(884,455,ls),
+(903,514,o),
+(931,590,o),
+(982,590,cs),
+(1026,590,o),
+(1032,555,o),
+(1036,520,c),
+(1096,534,l),
+(1096,617,o),
+(1057,663,o),
+(982,663,cs)
+);
+}
+);
+width = 1076;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (479,0);
+},
+{
+name = top;
+pos = (479,662);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(584,198,l),
+(864,499,l),
+(908,546,o),
+(946,590,o),
+(982,590,cs),
+(1026,590,o),
+(1032,555,o),
+(1036,520,c),
+(1096,534,l),
+(1096,617,o),
+(1057,663,o),
+(982,663,cs),
+(921,663,o),
+(879,623,o),
+(813,550,cs),
+(584,298,l)
+);
+}
+);
+};
+hints = (
+{
+place = (9, 940);
+place = (9, 940);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (556, 106);
+place = (556, 106);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 106);
+place = (0, 106);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "D45C1813-828E-4A47-9227-EE75FF3621A2";
+name = "May 12 20, 15:38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(884,455,l),
+(903,514,o),
+(932,590,o),
+(983,590,cs),
+(1010,590,o),
+(1022,565,o),
+(1036,535,c),
+(1088,566,l),
+(1068,636,o),
+(1028,663,o),
+(983,663,cs),
+(885,663,o),
+(847,585,o),
+(814,480,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,0,l),
+(479,556,l),
+(658,0,l),
+(743,0,l),
+(884,455,l),
+(814,480,l),
+(700,106,l),
+(522,662,l),
+(436,662,l),
+(258,106,l),
+(88,662,l),
+(9,662,l),
+(215,0,l)
+);
+}
+);
+width = 958;
+}
+);
+unicode = 11378;
+}

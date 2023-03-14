@@ -1,0 +1,26 @@
+{
+glyphname = ezhreversed.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (278,-198);
+},
+{
+name = top;
+pos = (278,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (527,0);
+ref = ezh.sc;
+scale = (-1,1);
+}
+);
+width = 527;
+}
+);
+}

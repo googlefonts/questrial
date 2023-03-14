@@ -1,0 +1,34 @@
+{
+glyphname = schwa;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (279,0);
+},
+{
+name = ogonek;
+pos = (344,0);
+},
+{
+name = top;
+pos = (279,500);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (564,500);
+ref = e;
+}
+);
+width = 557;
+}
+);
+unicode = 601;
+}

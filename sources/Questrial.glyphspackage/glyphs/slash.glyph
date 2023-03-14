@@ -1,0 +1,34 @@
+{
+glyphname = slash;
+layers = (
+{
+hints = (
+{
+place = (36, 299);
+place = (36, 299);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-32, 712);
+place = (-32, 712);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,-32,l),
+(335,680,l),
+(265,680,l),
+(36,-32,l)
+);
+}
+);
+width = 371;
+}
+);
+unicode = 47;
+}

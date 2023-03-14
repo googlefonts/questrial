@@ -1,0 +1,19 @@
+{
+glyphname = commaturnedmod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (236,1163);
+ref = apostrophemod;
+}
+);
+width = 218;
+}
+);
+metricLeft = quoteleft;
+metricRight = quoteleft;
+unicode = 699;
+}

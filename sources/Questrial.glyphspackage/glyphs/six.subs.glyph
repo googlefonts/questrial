@@ -1,0 +1,14 @@
+{
+glyphname = six.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = six.sinf;
+}
+);
+width = 359;
+}
+);
+}

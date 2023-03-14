@@ -1,0 +1,58 @@
+{
+glyphname = "iota-latin";
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (103,0);
+},
+{
+name = top;
+pos = (103,500);
+}
+);
+hints = (
+{
+place = (65, 75);
+place = (65, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,60,o),
+(140,97,o),
+(140,191,cs),
+(140,500,l),
+(65,500,l),
+(65,169,ls),
+(63,55,o),
+(136,-8,o),
+(239,-8,cs),
+(256,-8,o),
+(275,-7,o),
+(294,-3,c),
+(294,64,l),
+(278,61,o),
+(263,60,o),
+(248,60,cs)
+);
+}
+);
+width = 304;
+}
+);
+unicode = 617;
+}

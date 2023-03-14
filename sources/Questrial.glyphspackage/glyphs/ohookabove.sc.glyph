@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = ohookabove.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (224,65);
+ref = hookabovecomb;
+}
+);
+width = 615;
+}
+);
+}

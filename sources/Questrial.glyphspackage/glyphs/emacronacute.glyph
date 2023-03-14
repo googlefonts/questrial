@@ -1,0 +1,25 @@
+{
+glyphname = emacronacute;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (147,0);
+ref = macroncomb;
+},
+{
+pos = (225,142);
+ref = acutecomb;
+}
+);
+width = 557;
+}
+);
+unicode = 7703;
+}

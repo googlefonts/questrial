@@ -1,0 +1,16 @@
+{
+glyphname = verticallinemod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,650);
+ref = verticallinelowmod;
+}
+);
+width = 156;
+}
+);
+unicode = 712;
+}

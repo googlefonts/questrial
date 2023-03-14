@@ -1,0 +1,86 @@
+{
+color = 3;
+glyphname = questiondown.sc;
+layers = (
+{
+hints = (
+{
+place = (283, -73);
+place = (283, -73);
+type = Stem;
+},
+{
+place = (116, -71);
+place = (116, -71);
+type = Stem;
+},
+{
+place = (295, -97);
+place = (295, -97);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (500, -102);
+place = (500, -102);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-101, -69);
+place = (-101, -69);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(152,546,l),
+(152,449,l),
+(245,449,l),
+(245,546,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,400,l),
+(161,285,o),
+(30,282,o),
+(30,147,cs),
+(30,56,o),
+(98,-6,o),
+(201,-6,cs),
+(306,-6,o),
+(386,69,o),
+(386,172,c),
+(314,172,l),
+(314,106,o),
+(264,64,o),
+(196,64,cs),
+(137,64,o),
+(102,97,o),
+(102,147,cs),
+(102,241,o),
+(234,255,o),
+(234,400,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 406;
+}
+);
+userData = {
+RMXScaler = {
+source = questiondown;
+};
+};
+}

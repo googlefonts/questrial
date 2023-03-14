@@ -1,0 +1,18 @@
+{
+glyphname = dcircumflexbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (107,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 578;
+}
+);
+}

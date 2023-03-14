@@ -1,0 +1,18 @@
+{
+glyphname = idotless_tildebelowcomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-53,0);
+ref = tildebelowcomb;
+}
+);
+width = 205;
+}
+);
+}

@@ -1,0 +1,16 @@
+{
+glyphname = glottalstopreversed.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (532,0);
+ref = glottalstopsmall.sc;
+scale = (-1,1);
+}
+);
+width = 532;
+}
+);
+}

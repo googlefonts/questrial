@@ -1,0 +1,31 @@
+{
+color = 3;
+glyphname = kgreenlandic.sc;
+kernLeft = i.sc;
+kernRight = k.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,0,l),
+(140,160,l),
+(229,243,l),
+(414,0,l),
+(508,0,l),
+(284,294,l),
+(502,500,l),
+(395,500,l),
+(140,259,l),
+(140,500,l),
+(65,500,l),
+(65,0,l)
+);
+}
+);
+width = 509;
+}
+);
+}

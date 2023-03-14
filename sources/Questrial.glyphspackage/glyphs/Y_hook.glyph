@@ -1,0 +1,185 @@
+{
+color = 11;
+glyphname = Yhook;
+kernLeft = Y;
+kernRight = Khook;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (319,0);
+},
+{
+name = top;
+pos = (319,662);
+},
+{
+name = topleft;
+pos = (24,662);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,495,l),
+(551,547,o),
+(592,597,o),
+(628,597,cs),
+(671,597,o),
+(673,569,o),
+(682,535,c),
+(739,557,l),
+(729,631,o),
+(692,670,o),
+(631,670,cs),
+(557,670,o),
+(519,629,o),
+(457,538,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(457,538,l),
+(318,340,l),
+(94,662,l),
+(3,662,l),
+(281,262,l),
+(281,0,l),
+(356,0,l),
+(356,262,l),
+(514,495,l)
+);
+}
+);
+};
+hints = (
+{
+place = (277, 75);
+place = (277, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "4630726A-989F-4C97-946F-C5F696881971";
+name = "May 12 20, 15:33";
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,495,l),
+(551,547,o),
+(592,597,o),
+(628,597,cs),
+(671,597,o),
+(673,569,o),
+(682,535,c),
+(739,557,l),
+(729,631,o),
+(692,670,o),
+(631,670,cs),
+(557,670,o),
+(519,629,o),
+(457,538,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(457,538,l),
+(318,340,l),
+(94,662,l),
+(3,662,l),
+(281,262,l),
+(281,0,l),
+(356,0,l),
+(356,262,l),
+(514,495,l)
+);
+}
+);
+width = 742;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (319,0);
+},
+{
+name = top;
+pos = (319,662);
+},
+{
+name = topleft;
+pos = (24,662);
+}
+);
+hints = (
+{
+place = (277, 75);
+place = (277, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(557,670,o),
+(519,629,o),
+(457,538,cs),
+(318,340,l),
+(94,662,l),
+(3,662,l),
+(281,262,l),
+(281,0,l),
+(356,0,l),
+(356,262,l),
+(514,495,l),
+(545,545,o),
+(589,597,o),
+(628,597,cs),
+(671,597,o),
+(677,567,o),
+(682,527,c),
+(742,541,l),
+(742,635,o),
+(692,670,o),
+(631,670,cs)
+);
+}
+);
+width = 722;
+}
+);
+unicode = 435;
+}

@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = umacrondieresis.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (159,-116);
+ref = macroncomb.case;
+},
+{
+pos = (168,6);
+ref = dieresiscomb.case;
+}
+);
+width = 581;
+}
+);
+}

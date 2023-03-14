@@ -1,0 +1,83 @@
+{
+glyphname = thorn;
+kernLeft = h;
+kernRight = o;
+layers = (
+{
+hints = (
+{
+place = (65, 75);
+place = (65, 75);
+type = Stem;
+},
+{
+place = (486, 75);
+place = (486, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,-198,l),
+(140,80,l),
+(177,26,o),
+(236,-8,o),
+(319,-8,cs),
+(465,-8,o),
+(561,107,o),
+(561,250,cs),
+(561,393,o),
+(465,508,o),
+(319,508,cs),
+(236,508,o),
+(177,473,o),
+(140,419,c),
+(140,700,l),
+(65,700,l),
+(65,-198,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(198,60,o),
+(136,147,o),
+(136,250,cs),
+(136,353,o),
+(198,440,o),
+(309,440,cs),
+(420,440,o),
+(486,353,o),
+(486,250,cs),
+(486,147,o),
+(420,60,o),
+(309,60,cs)
+);
+}
+);
+width = 594;
+}
+);
+unicode = 254;
+}

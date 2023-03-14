@@ -1,0 +1,21 @@
+{
+glyphname = vdotbelow;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = v;
+},
+{
+pos = (201,0);
+ref = dotbelowcomb;
+}
+);
+width = 489;
+}
+);
+unicode = 7807;
+}

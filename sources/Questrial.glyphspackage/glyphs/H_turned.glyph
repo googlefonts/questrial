@@ -1,0 +1,286 @@
+{
+glyphname = Hturned;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (341,0);
+},
+{
+name = center;
+pos = (329,504);
+},
+{
+name = top;
+pos = (329,662);
+},
+{
+name = topleft;
+pos = (0,662);
+}
+);
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (541, 75);
+place = (541, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (295, 73);
+place = (295, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+},
+{
+place = (522, -75);
+place = (522, -75);
+type = Stem;
+},
+{
+place = (156, -75);
+place = (156, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (700, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (260, -68);
+place = (260, -68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,662,l),
+(501,412,ls),
+(501,323,o),
+(412,280,o),
+(325,280,cs),
+(240,280,o),
+(156,320,o),
+(156,411,cs),
+(156,662,l),
+(81,662,l),
+(81,409,ls),
+(81,279,o),
+(189,207,o),
+(307,207,cs),
+(374,207,o),
+(445,230,o),
+(501,278,c),
+(501,0,l),
+(576,0,l),
+(576,662,l)
+);
+}
+);
+width = 657;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (361,0);
+},
+{
+name = center;
+pos = (349,504);
+},
+{
+name = top;
+pos = (349,662);
+},
+{
+name = topleft;
+pos = (20,662);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (541, 75);
+place = (541, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (295, 73);
+place = (295, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "C16B7874-6073-4CE7-9277-D7BC06BDC075";
+name = "May 11 20, 13:50";
+shapes = (
+{
+closed = 1;
+nodes = (
+(541,295,l),
+(541,0,l),
+(616,0,l),
+(616,662,l),
+(541,662,l),
+(541,368,l),
+(156,368,l),
+(156,662,l),
+(81,662,l),
+(81,295,l)
+);
+}
+);
+visible = 1;
+width = 697;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (341,0);
+},
+{
+name = center;
+pos = (329,504);
+},
+{
+name = top;
+pos = (329,662);
+},
+{
+name = topleft;
+pos = (0,662);
+}
+);
+associatedMasterId = UUID0;
+hints = (
+{
+place = (81, 75);
+place = (81, 75);
+type = Stem;
+},
+{
+place = (541, 75);
+place = (541, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (295, 73);
+place = (295, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+},
+{
+place = (522, -75);
+place = (522, -75);
+type = Stem;
+},
+{
+place = (156, -75);
+place = (156, -75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (700, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (260, -68);
+place = (260, -68);
+type = Stem;
+}
+);
+layerId = "F373B25A-8C6E-4C76-B1A6-0E0FED417D5E";
+name = "May 11 20, 14:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,662,l),
+(501,412,ls),
+(501,322,o),
+(441,260,o),
+(316,260,cs),
+(232,260,o),
+(156,320,o),
+(156,411,cs),
+(156,662,l),
+(81,662,l),
+(81,409,ls),
+(81,267,o),
+(197,192,o),
+(301,192,cs),
+(408,192,o),
+(465,230,o),
+(501,278,c),
+(501,0,l),
+(576,0,l),
+(576,662,l)
+);
+}
+);
+width = 657;
+}
+);
+metricLeft = I;
+metricRight = I;
+unicode = 42893;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = quoteright;
+kernLeft = quoteright;
+kernRight = quoteright;
+layers = (
+{
+hints = (
+{
+place = (40, 156);
+place = (40, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (232,1163);
+ref = quoteleft;
+}
+);
+width = 211;
+}
+);
+unicode = 8217;
+}

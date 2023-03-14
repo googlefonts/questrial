@@ -1,0 +1,51 @@
+{
+glyphname = semicolon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+hints = (
+{
+place = (80, 97);
+place = (80, 97);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-133, 213);
+place = (-133, 213);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (398, 102);
+place = (398, 102);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,398,l),
+(177,500,l),
+(80,500,l),
+(80,398,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(93,-133,l),
+(181,80,l),
+(83,80,l),
+(25,-133,l)
+);
+}
+);
+width = 245;
+}
+);
+unicode = 59;
+}

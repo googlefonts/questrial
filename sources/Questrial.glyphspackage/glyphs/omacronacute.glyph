@@ -1,0 +1,25 @@
+{
+glyphname = omacronacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (150,0);
+ref = macroncomb;
+},
+{
+pos = (228,142);
+ref = acutecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 7763;
+}

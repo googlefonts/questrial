@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = agrave.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (161,-116);
+ref = gravecomb.case;
+}
+);
+width = 551;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Nj;
+kernLeft = I;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (733,0);
+ref = j;
+}
+);
+width = 938;
+}
+);
+unicode = 459;
+}

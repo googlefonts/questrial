@@ -1,0 +1,38 @@
+{
+glyphname = lowlinecomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (302,-108);
+}
+);
+hints = (
+{
+place = (0, 264);
+place = (0, 264);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-271, 60);
+place = (-271, 60);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = underscore;
+}
+);
+width = 600;
+}
+);
+unicode = 818;
+}

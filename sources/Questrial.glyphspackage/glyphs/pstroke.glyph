@@ -1,0 +1,26 @@
+{
+glyphname = pstroke;
+kernLeft = n;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,283,l),
+(0,218,l),
+(612,218,l),
+(612,283,l)
+);
+},
+{
+ref = p;
+}
+);
+width = 595;
+}
+);
+unicode = 7549;
+}

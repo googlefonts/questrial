@@ -1,0 +1,56 @@
+{
+glyphname = Istroke;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (119,0);
+},
+{
+name = top;
+pos = (119,662);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(7,364,l),
+(7,299,l),
+(230,299,l),
+(230,364,l)
+);
+},
+{
+ref = I;
+}
+);
+width = 237;
+},
+{
+associatedMasterId = UUID0;
+layerId = "EE32EF94-AEFE-40E7-8103-E6F0081A446C";
+name = "May 27 20, 14:28";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-25,363,l),
+(-25,298,l),
+(262,298,l),
+(262,363,l)
+);
+},
+{
+ref = I;
+}
+);
+width = 237;
+}
+);
+unicode = 407;
+}

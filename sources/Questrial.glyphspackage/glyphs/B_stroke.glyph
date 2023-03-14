@@ -1,0 +1,26 @@
+{
+glyphname = Bstroke;
+kernLeft = I;
+kernRight = B;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,217,l),
+(16,152,l),
+(344,152,l),
+(344,217,l)
+);
+},
+{
+ref = B;
+}
+);
+width = 662;
+}
+);
+unicode = 579;
+}

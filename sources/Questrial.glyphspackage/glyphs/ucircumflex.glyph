@@ -1,0 +1,21 @@
+{
+glyphname = ucircumflex;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (142,0);
+ref = circumflexcomb;
+}
+);
+width = 566;
+}
+);
+unicode = 251;
+}

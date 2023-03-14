@@ -1,0 +1,32 @@
+{
+glyphname = hbar;
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (192,591);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(260,546,l),
+(260,616,l),
+(15,616,l),
+(15,546,l)
+);
+},
+{
+ref = h;
+}
+);
+width = 566;
+}
+);
+unicode = 295;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (44.5,662);
+},
+{
+name = top;
+pos = (45,774);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (0,152);
+ref = dotaccentcomb;
+}
+);
+width = 89;
+}
+);
+}

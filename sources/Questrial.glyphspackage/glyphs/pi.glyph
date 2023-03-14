@@ -1,0 +1,65 @@
+{
+glyphname = pi;
+layers = (
+{
+hints = (
+{
+place = (116, 74);
+place = (116, 74);
+type = Stem;
+},
+{
+place = (387, 73);
+place = (387, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-7, 54);
+place = (-7, 54);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (424, 66);
+place = (424, 66);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(535,47,l),
+(490,47,o),
+(460,68,o),
+(460,119,cs),
+(460,424,l),
+(557,424,l),
+(557,490,l),
+(19,490,l),
+(19,424,l),
+(116,424,l),
+(116,0,l),
+(190,0,l),
+(190,424,l),
+(387,424,l),
+(387,129,ls),
+(387,16,o),
+(453,-7,o),
+(535,-7,c)
+);
+}
+);
+width = 578;
+}
+);
+unicode = 960;
+}

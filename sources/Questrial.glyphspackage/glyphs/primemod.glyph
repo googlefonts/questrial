@@ -1,0 +1,21 @@
+{
+glyphname = primemod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,764,l),
+(40,475,l),
+(108,475,l),
+(222,764,l)
+);
+}
+);
+width = 262;
+}
+);
+unicode = 697;
+}

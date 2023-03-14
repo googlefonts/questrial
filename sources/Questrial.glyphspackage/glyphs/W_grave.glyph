@@ -1,0 +1,21 @@
+{
+glyphname = Wgrave;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (365,0);
+ref = gravecomb.case;
+}
+);
+width = 958;
+}
+);
+unicode = 7808;
+}

@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = ezhcaron;
+kernLeft = ezh;
+kernRight = ezh;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ezh;
+},
+{
+pos = (94,0);
+ref = caroncomb;
+}
+);
+width = 499;
+}
+);
+unicode = 495;
+}

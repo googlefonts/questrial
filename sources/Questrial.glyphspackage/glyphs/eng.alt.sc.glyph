@@ -1,0 +1,67 @@
+{
+color = 3;
+glyphname = eng.alt.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = top;
+pos = (940,546);
+}
+);
+hints = (
+{
+place = (979, 75);
+place = (979, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 73);
+place = (-8, 73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (662, -20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(469,-206,o),
+(537,-134,o),
+(537,-17,cs),
+(537,346,l),
+(462,346,l),
+(462,-14,ls),
+(462,-94,o),
+(428,-132,o),
+(359,-132,cs),
+(298,-132,o),
+(248,-96,o),
+(248,-42,c),
+(171,-42,l),
+(171,-138,o),
+(252,-206,o),
+(356,-206,cs)
+);
+},
+{
+ref = n.sc;
+}
+);
+width = 602;
+}
+);
+}

@@ -1,0 +1,29 @@
+{
+glyphname = glottalstopreversed;
+kernLeft = question;
+kernRight = question;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (248,0);
+},
+{
+name = top;
+pos = (248,700);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (510,0);
+ref = glottalstop;
+scale = (-1,1);
+}
+);
+width = 510;
+}
+);
+unicode = 661;
+}

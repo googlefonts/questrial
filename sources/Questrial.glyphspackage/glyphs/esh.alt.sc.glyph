@@ -1,0 +1,46 @@
+{
+glyphname = esh.alt.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (261,0);
+},
+{
+name = ogonek;
+pos = (450,0);
+},
+{
+name = top;
+pos = (261,546);
+},
+{
+name = topleft;
+pos = (20,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,546,l),
+(76,475,l),
+(272,272,l),
+(70,73,l),
+(70,0,l),
+(439,0,l),
+(439,72,l),
+(166,72,l),
+(369,271,l),
+(179,476,l),
+(445,476,l),
+(445,546,l)
+);
+}
+);
+width = 482;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = acute;
+layers = (
+{
+hints = (
+{
+place = (86, 168);
+place = (86, 168);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (570, 105);
+place = (570, 105);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,570,l),
+(254,675,l),
+(147,675,l),
+(86,570,l)
+);
+}
+);
+width = 349;
+}
+);
+unicode = 180;
+}

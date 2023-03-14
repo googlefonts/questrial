@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = otildedieresis.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (160,-116);
+ref = tildecomb.case;
+},
+{
+pos = (194,6);
+ref = dieresiscomb.case;
+}
+);
+width = 615;
+}
+);
+}

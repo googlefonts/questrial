@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = zacute.sc;
+kernLeft = z.sc;
+kernRight = z.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (196,-116);
+ref = acutecomb.case;
+}
+);
+width = 482;
+}
+);
+}

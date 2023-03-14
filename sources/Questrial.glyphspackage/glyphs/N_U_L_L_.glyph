@@ -1,0 +1,9 @@
+{
+glyphname = NULL;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+}
+);
+}

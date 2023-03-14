@@ -1,0 +1,21 @@
+{
+glyphname = Tdotbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (239,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 565;
+}
+);
+unicode = 7788;
+}

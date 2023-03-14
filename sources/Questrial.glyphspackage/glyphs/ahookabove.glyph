@@ -1,0 +1,21 @@
+{
+glyphname = ahookabove;
+kernLeft = o;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (215,19);
+ref = hookabovecomb;
+}
+);
+width = 595;
+}
+);
+unicode = 7843;
+}

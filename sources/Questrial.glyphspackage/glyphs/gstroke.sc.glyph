@@ -1,0 +1,23 @@
+{
+glyphname = gstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(305,183,l),
+(305,119,l),
+(593,119,l),
+(593,183,l)
+);
+},
+{
+ref = g.sc;
+}
+);
+width = 593;
+}
+);
+}

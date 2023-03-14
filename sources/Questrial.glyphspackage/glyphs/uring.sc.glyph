@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = uring.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (201,-116);
+ref = ringcomb.case;
+}
+);
+width = 581;
+}
+);
+}

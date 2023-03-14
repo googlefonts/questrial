@@ -1,0 +1,14 @@
+{
+glyphname = eight.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eight.sinf;
+}
+);
+width = 370;
+}
+);
+}

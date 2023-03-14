@@ -1,0 +1,16 @@
+{
+glyphname = two.numr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-8,-173);
+ref = two.sups;
+}
+);
+width = 328;
+}
+);
+}

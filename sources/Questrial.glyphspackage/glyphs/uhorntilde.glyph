@@ -1,0 +1,21 @@
+{
+glyphname = uhorntilde;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (127,0);
+ref = tildecomb;
+}
+);
+width = 566;
+}
+);
+unicode = 7919;
+}

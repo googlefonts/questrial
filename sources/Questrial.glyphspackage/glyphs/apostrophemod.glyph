@@ -1,0 +1,51 @@
+{
+glyphname = apostrophemod;
+layers = (
+{
+hints = (
+{
+place = (40, 156);
+place = (40, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (475, 213);
+place = (475, 213);
+type = Stem;
+},
+{
+place = (196, -156);
+place = (196, -156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (688, -213);
+place = (688, -213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,688,l),
+(108,646,ls),
+(108,580,o),
+(91,537,o),
+(40,475,c),
+(108,475,l),
+(172,534,o),
+(196,585,o),
+(196,662,cs),
+(196,688,l)
+);
+}
+);
+width = 211;
+}
+);
+unicode = 700;
+}

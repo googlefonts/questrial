@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = eth.sc;
+kernLeft = i.sc;
+kernRight = o.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1,305,l),
+(-1,241,l),
+(305,241,l),
+(305,305,l)
+);
+},
+{
+ref = d.sc;
+}
+);
+width = 578;
+}
+);
+}

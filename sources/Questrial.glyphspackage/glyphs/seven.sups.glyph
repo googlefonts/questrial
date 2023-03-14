@@ -1,0 +1,56 @@
+{
+glyphname = seven.sups;
+layers = (
+{
+hints = (
+{
+place = (47, 275);
+place = (47, 275);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (382, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (726, 50);
+place = (726, 50);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(148,449,l),
+(312,774,l),
+(312,835,l),
+(26,835,l),
+(26,775,l),
+(244,775,l),
+(77,449,l)
+);
+}
+);
+width = 325;
+},
+{
+associatedMasterId = UUID0;
+layerId = "21DB95BB-6CC4-4694-8C5A-13FDE90C0BF6";
+name = "May 4 20, 17:19";
+shapes = (
+{
+alignment = -1;
+pos = (14,449);
+ref = seven;
+scale = (0.7,0.7);
+}
+);
+width = 412;
+}
+);
+}

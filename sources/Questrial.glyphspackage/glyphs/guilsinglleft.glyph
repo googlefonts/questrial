@@ -1,0 +1,38 @@
+{
+glyphname = guilsinglleft;
+kernLeft = guilsinglleft;
+kernRight = guilsinglleft;
+layers = (
+{
+hints = (
+{
+place = (39, 219);
+place = (39, 219);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (57, 404);
+place = (57, 404);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(258,57,l),
+(121,259,l),
+(258,461,l),
+(169,461,l),
+(39,259,l),
+(169,57,l)
+);
+}
+);
+width = 303;
+}
+);
+unicode = 8249;
+}

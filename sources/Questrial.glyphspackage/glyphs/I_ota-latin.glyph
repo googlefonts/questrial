@@ -1,0 +1,58 @@
+{
+glyphname = "Iota-latin";
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (103,0);
+},
+{
+name = top;
+pos = (103,700);
+}
+);
+hints = (
+{
+place = (65, 75);
+place = (65, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,61,o),
+(140,97,o),
+(140,191,cs),
+(140,662,l),
+(65,662,l),
+(65,169,ls),
+(65,53,o),
+(137,-8,o),
+(239,-8,cs),
+(256,-8,o),
+(275,-7,o),
+(294,-3,c),
+(294,65,l),
+(278,62,o),
+(263,61,o),
+(248,61,cs)
+);
+}
+);
+width = 304;
+}
+);
+unicode = 406;
+}

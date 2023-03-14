@@ -1,0 +1,36 @@
+{
+glyphname = hyphen;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+hints = (
+{
+place = (53, 250);
+place = (53, 250);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (259, 73);
+place = (259, 73);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(305,259,l),
+(305,332,l),
+(55,332,l),
+(55,259,l)
+);
+}
+);
+width = 360;
+}
+);
+unicode = 45;
+}

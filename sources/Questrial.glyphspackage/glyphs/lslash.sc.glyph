@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = lslash.sc;
+kernLeft = i.sc;
+kernRight = l.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(7,235,l),
+(7,162,l),
+(341,336,l),
+(341,409,l)
+);
+},
+{
+ref = l.sc;
+}
+);
+width = 459;
+}
+);
+}

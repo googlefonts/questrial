@@ -1,0 +1,14 @@
+{
+glyphname = glottalstop.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = glottalstopsmall.sc;
+}
+);
+width = 532;
+}
+);
+}

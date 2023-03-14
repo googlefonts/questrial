@@ -1,0 +1,21 @@
+{
+glyphname = Ytilde;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (172,0);
+ref = tildecomb.case;
+}
+);
+width = 636;
+}
+);
+unicode = 7928;
+}

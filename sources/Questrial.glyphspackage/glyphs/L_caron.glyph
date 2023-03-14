@@ -1,0 +1,21 @@
+{
+glyphname = Lcaron;
+kernLeft = I;
+kernRight = L;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (426,-36);
+ref = caroncomb.alt;
+}
+);
+width = 533;
+}
+);
+unicode = 317;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = ecedillabreve;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ecedilla;
+},
+{
+pos = (161,0);
+ref = brevecomb;
+}
+);
+width = 557;
+}
+);
+unicode = 7709;
+}

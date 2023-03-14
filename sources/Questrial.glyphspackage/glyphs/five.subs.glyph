@@ -1,0 +1,14 @@
+{
+glyphname = five.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = five.sinf;
+}
+);
+width = 359;
+}
+);
+}

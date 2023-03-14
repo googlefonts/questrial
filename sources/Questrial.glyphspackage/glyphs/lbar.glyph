@@ -1,0 +1,27 @@
+{
+glyphname = lbar;
+kernLeft = l;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(7,393,l),
+(7,328,l),
+(254,328,l),
+(254,393,l)
+);
+},
+{
+pos = (28,0);
+ref = l;
+}
+);
+width = 261;
+}
+);
+unicode = 410;
+}

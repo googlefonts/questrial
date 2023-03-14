@@ -1,0 +1,39 @@
+{
+glyphname = radical;
+layers = (
+{
+hints = (
+{
+place = (3, 666);
+place = (3, 666);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-163, 903);
+place = (-163, 903);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(397,-163,l),
+(669,723,l),
+(613,740,l),
+(358,-82,l),
+(191,294,l),
+(3,220,l),
+(25,164,l),
+(142,209,l),
+(310,-163,l)
+);
+}
+);
+width = 672;
+}
+);
+unicode = 8730;
+}

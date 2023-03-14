@@ -1,0 +1,66 @@
+{
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (292,0);
+},
+{
+name = center;
+pos = (292,331);
+},
+{
+name = ogonek;
+pos = (563,2);
+},
+{
+name = top;
+pos = (292,662);
+}
+);
+hints = (
+{
+place = (29, 524);
+place = (29, 524);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 70);
+place = (0, 70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (592, 70);
+place = (592, 70);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(553,0,l),
+(553,70,l),
+(121,70,l),
+(553,590,l),
+(553,662,l),
+(35,662,l),
+(35,592,l),
+(461,592,l),
+(29,71,l),
+(29,0,l)
+);
+}
+);
+width = 584;
+}
+);
+unicode = 90;
+}

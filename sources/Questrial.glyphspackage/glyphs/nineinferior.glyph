@@ -1,0 +1,17 @@
+{
+glyphname = nineinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = nine.sinf;
+}
+);
+width = 359;
+}
+);
+metricLeft = nine;
+metricRight = nine;
+unicode = 8329;
+}

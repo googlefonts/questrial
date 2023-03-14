@@ -1,0 +1,23 @@
+{
+glyphname = bstroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1,188,l),
+(-1,124,l),
+(305,124,l),
+(305,188,l)
+);
+},
+{
+ref = b.sc;
+}
+);
+width = 545;
+}
+);
+}

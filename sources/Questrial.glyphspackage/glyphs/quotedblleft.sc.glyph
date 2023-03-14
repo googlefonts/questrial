@@ -1,0 +1,23 @@
+{
+glyphname = quotedblleft.sc;
+kernLeft = quoteleft;
+kernRight = quoteleft;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (151,-142);
+ref = quoteleft;
+},
+{
+pos = (0,-142);
+ref = quoteleft;
+}
+);
+width = 369;
+}
+);
+metricLeft = quoteleft;
+metricRight = quoteleft;
+}

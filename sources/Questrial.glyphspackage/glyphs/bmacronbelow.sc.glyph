@@ -1,0 +1,18 @@
+{
+glyphname = bmacronbelow.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = b.sc;
+},
+{
+pos = (141,0);
+ref = macronbelowcomb;
+}
+);
+width = 545;
+}
+);
+}

@@ -1,0 +1,36 @@
+{
+color = 3;
+glyphname = oslash.sc;
+kernLeft = o.sc;
+kernRight = o.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (308,0);
+},
+{
+name = top;
+pos = (307,546);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(165,-40,l),
+(524,583,l),
+(450,583,l),
+(91,-40,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 615;
+}
+);
+}

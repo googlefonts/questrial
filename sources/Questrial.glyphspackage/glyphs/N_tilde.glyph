@@ -1,0 +1,21 @@
+{
+glyphname = Ntilde;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (220,0);
+ref = tildecomb.case;
+}
+);
+width = 733;
+}
+);
+unicode = 209;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = horizontalbar;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = emdash;
+}
+);
+width = 1110;
+}
+);
+unicode = 8213;
+}

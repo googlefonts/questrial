@@ -1,0 +1,51 @@
+{
+glyphname = glottalstopsmall;
+kernLeft = question;
+kernRight = question;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (264,0);
+},
+{
+name = top;
+pos = (264,500);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,508,o),
+(45,414,o),
+(39,304,c),
+(110,304,l),
+(116,374,o),
+(168,439,o),
+(266,439,cs),
+(364,439,o),
+(394,377,o),
+(394,327,cs),
+(394,212,o),
+(227,194,o),
+(227,41,cs),
+(227,0,l),
+(300,0,l),
+(300,41,ls),
+(300,173,o),
+(465,181,o),
+(465,327,cs),
+(465,417,o),
+(404,508,o),
+(260,508,cs)
+);
+}
+);
+width = 510;
+}
+);
+unicode = 578;
+}

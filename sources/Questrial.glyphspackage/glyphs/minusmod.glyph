@@ -1,0 +1,34 @@
+{
+glyphname = minusmod;
+layers = (
+{
+hints = (
+{
+place = (50, 450);
+place = (50, 450);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (203, 65);
+place = (203, 65);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(275,138,l),
+(275,203,l),
+(50,203,l),
+(50,138,l)
+);
+}
+);
+width = 325;
+}
+);
+unicode = 727;
+}

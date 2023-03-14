@@ -1,0 +1,15 @@
+{
+glyphname = second;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = quotedbl;
+}
+);
+width = 317;
+}
+);
+unicode = 8243;
+}

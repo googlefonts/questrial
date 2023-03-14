@@ -1,0 +1,21 @@
+{
+glyphname = dcaron;
+kernLeft = o;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (595,0);
+ref = caroncomb.alt;
+}
+);
+width = 595;
+}
+);
+unicode = 271;
+}

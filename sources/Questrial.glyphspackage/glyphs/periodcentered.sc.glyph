@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = periodcentered.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (17,49);
+ref = periodcentered;
+scale = (0.8333,0.8333);
+}
+);
+width = 203;
+}
+);
+}

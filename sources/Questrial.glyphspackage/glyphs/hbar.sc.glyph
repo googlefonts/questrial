@@ -1,0 +1,27 @@
+{
+color = 3;
+glyphname = hbar.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (287,421);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (15,-1);
+ref = strokelongcomb.case;
+}
+);
+width = 573;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+glyphname = agrave;
+kernLeft = o;
+kernRight = a;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (214,0);
+ref = gravecomb;
+}
+);
+width = 595;
+}
+);
+unicode = 224;
+}

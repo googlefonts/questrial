@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = edblgrave.sc;
+kernLeft = i.sc;
+kernRight = e.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (51,-116);
+ref = dblgravecomb.case;
+}
+);
+width = 502;
+}
+);
+}

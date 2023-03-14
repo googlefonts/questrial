@@ -1,0 +1,36 @@
+{
+glyphname = comma;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+hints = (
+{
+place = (11, 156);
+place = (11, 156);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-133, 213);
+place = (-133, 213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(79,-111,l),
+(167,102,l),
+(69,102,l),
+(11,-111,l)
+);
+}
+);
+width = 220;
+}
+);
+unicode = 44;
+}

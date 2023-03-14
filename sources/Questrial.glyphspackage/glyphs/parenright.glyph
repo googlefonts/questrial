@@ -1,0 +1,44 @@
+{
+glyphname = parenright;
+layers = (
+{
+hints = (
+{
+place = (134, 76);
+place = (134, 76);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-138, 838);
+place = (-138, 838);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,-138,l),
+(166,-8,o),
+(210,131,o),
+(210,281,cs),
+(210,429,o),
+(166,570,o),
+(82,700,c),
+(14,700,l),
+(90,578,o),
+(134,434,o),
+(134,281,cs),
+(134,127,o),
+(90,-17,o),
+(14,-138,c)
+);
+}
+);
+width = 245;
+}
+);
+unicode = 41;
+}

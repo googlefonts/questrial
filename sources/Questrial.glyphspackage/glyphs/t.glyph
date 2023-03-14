@@ -1,0 +1,72 @@
+{
+glyphname = t;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (156,0);
+},
+{
+name = center;
+pos = (163,250);
+},
+{
+name = ogonek;
+pos = (204,0);
+},
+{
+name = top;
+pos = (157,679);
+},
+{
+name = topright;
+pos = (306,500);
+}
+);
+hints = (
+{
+place = (119, 75);
+place = (119, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (434, 66);
+place = (434, 66);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,0,l),
+(194,434,l),
+(309,434,l),
+(309,500,l),
+(194,500,l),
+(194,679,l),
+(119,679,l),
+(119,500,l),
+(17,500,l),
+(17,434,l),
+(119,434,l),
+(119,0,l)
+);
+}
+);
+width = 326;
+}
+);
+unicode = 116;
+}

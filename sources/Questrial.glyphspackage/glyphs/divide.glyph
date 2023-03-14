@@ -1,0 +1,64 @@
+{
+glyphname = divide;
+layers = (
+{
+hints = (
+{
+place = (231, 88);
+place = (231, 88);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (17, 93);
+place = (17, 93);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (200, 69);
+place = (200, 69);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (359, 93);
+place = (359, 93);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,359,l),
+(319,452,l),
+(231,452,l),
+(231,359,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(512,200,l),
+(512,269,l),
+(38,269,l),
+(38,200,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(319,17,l),
+(319,110,l),
+(231,110,l),
+(231,17,l)
+);
+}
+);
+width = 550;
+}
+);
+unicode = 247;
+}

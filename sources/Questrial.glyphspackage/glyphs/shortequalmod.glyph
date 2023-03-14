@@ -1,0 +1,19 @@
+{
+glyphname = shortequalmod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (14,22);
+ref = equal;
+scale = (0.7513,0.9706);
+}
+);
+width = 441;
+}
+);
+metricLeft = equal;
+metricRight = equal;
+unicode = 42890;
+}

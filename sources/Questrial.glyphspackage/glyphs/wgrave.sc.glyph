@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = wgrave.sc;
+kernLeft = v.sc;
+kernRight = v.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (281,-116);
+ref = gravecomb.case;
+}
+);
+width = 776;
+}
+);
+}

@@ -1,0 +1,142 @@
+{
+glyphname = ou;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (282,0);
+},
+{
+name = center;
+pos = (282,183);
+},
+{
+name = ogonek;
+pos = (1075,0);
+},
+{
+name = top;
+pos = (282,700);
+},
+{
+name = topright;
+pos = (1222,493);
+}
+);
+hints = (
+{
+place = (624, 75);
+place = (624, 75);
+type = Stem;
+},
+{
+place = (990, 75);
+place = (990, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500, -20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+place = (34, 75);
+place = (34, 75);
+type = Stem;
+},
+{
+place = (455, 75);
+place = (455, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,378,o),
+(492,422,o),
+(492,484,cs),
+(492,700,l),
+(417,700,l),
+(417,486,ls),
+(417,423,o),
+(362,375,o),
+(282,375,cs),
+(202,375,o),
+(147,423,o),
+(147,486,cs),
+(147,700,l),
+(72,700,l),
+(72,484,ls),
+(72,422,o),
+(107,378,o),
+(158,352,c),
+(79,320,o),
+(34,256,o),
+(34,183,cs),
+(34,77,o),
+(129,-8,o),
+(282,-8,cs),
+(432,-8,o),
+(530,77,o),
+(530,183,cs),
+(530,259,o),
+(485,321,o),
+(407,352,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(171,62,o),
+(109,118,o),
+(109,183,cs),
+(109,249,o),
+(171,304,o),
+(282,304,cs),
+(393,304,o),
+(455,249,o),
+(455,183,cs),
+(455,118,o),
+(393,62,o),
+(282,62,cs)
+);
+}
+);
+width = 564;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 547;
+}

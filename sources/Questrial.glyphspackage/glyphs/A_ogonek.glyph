@@ -1,0 +1,22 @@
+{
+glyphname = Aogonek;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (487,-2);
+ref = ogonekcomb.case;
+}
+);
+width = 662;
+}
+);
+metricRight = A;
+unicode = 260;
+}

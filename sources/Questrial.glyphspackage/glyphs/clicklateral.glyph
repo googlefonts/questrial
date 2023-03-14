@@ -1,0 +1,30 @@
+{
+glyphname = clicklateral;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,-118,l),
+(161,690,l),
+(86,690,l),
+(86,-118,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(312,-118,l),
+(312,690,l),
+(237,690,l),
+(237,-118,l)
+);
+}
+);
+width = 398;
+}
+);
+unicode = 449;
+}

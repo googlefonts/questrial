@@ -1,0 +1,23 @@
+{
+glyphname = istroke.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(8,305,l),
+(8,241,l),
+(197,241,l),
+(197,305,l)
+);
+},
+{
+ref = i.sc;
+}
+);
+width = 205;
+}
+);
+}

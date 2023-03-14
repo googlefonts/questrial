@@ -1,0 +1,15 @@
+{
+glyphname = Ohm;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Omega;
+}
+);
+width = 678;
+}
+);
+unicode = 8486;
+}

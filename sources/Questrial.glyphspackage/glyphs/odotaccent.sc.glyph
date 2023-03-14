@@ -1,0 +1,18 @@
+{
+glyphname = odotaccent.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (263,46);
+ref = dotaccentcomb;
+}
+);
+width = 615;
+}
+);
+}

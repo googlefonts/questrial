@@ -1,0 +1,22 @@
+{
+glyphname = Dzcaron;
+kernLeft = I;
+kernRight = z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+pos = (696,0);
+ref = zcaron;
+}
+);
+width = 1154;
+}
+);
+unicode = 453;
+}

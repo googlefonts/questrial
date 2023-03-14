@@ -1,0 +1,206 @@
+{
+glyphname = oslash;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (312,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(492,544,l),
+(44,29,l),
+(96,-17,l),
+(532,484,l)
+);
+}
+);
+};
+hints = (
+{
+place = (34, 75);
+place = (34, 75);
+type = Stem;
+},
+{
+place = (455, 75);
+place = (455, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,-16,l),
+(481,525,l),
+(407,525,l),
+(96,-16,l)
+);
+},
+{
+ref = o;
+}
+);
+width = 564;
+},
+{
+anchors = (
+{
+name = top;
+pos = (282,500);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(492,544,l),
+(44,29,l),
+(96,-17,l),
+(532,484,l)
+);
+}
+);
+};
+hints = (
+{
+place = (34, 75);
+place = (34, 75);
+type = Stem;
+},
+{
+place = (455, 75);
+place = (455, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = "068D1C05-8420-4C2B-88FF-E6DDAC46A502";
+name = "May 28 20, 12:46";
+shapes = (
+{
+closed = 1;
+nodes = (
+(519,493,l),
+(493,516,l),
+(46,6,l),
+(72,-17,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(468,516,l),
+(44,29,l),
+(96,-17,l),
+(520,470,l)
+);
+},
+{
+ref = o;
+}
+);
+width = 564;
+},
+{
+anchors = (
+{
+name = top;
+pos = (282,500);
+}
+);
+associatedMasterId = UUID0;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(492,544,l),
+(44,29,l),
+(96,-17,l),
+(532,484,l)
+);
+}
+);
+};
+hints = (
+{
+place = (34, 75);
+place = (34, 75);
+type = Stem;
+},
+{
+place = (455, 75);
+place = (455, 75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-8, 68);
+place = (-8, 68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (440, 68);
+place = (440, 68);
+type = Stem;
+}
+);
+layerId = "DF26A780-3308-4AD9-A06B-7EBFD48EF95C";
+name = "May 28 20, 15:49";
+shapes = (
+{
+closed = 1;
+nodes = (
+(468,516,l),
+(44,29,l),
+(96,-17,l),
+(520,470,l)
+);
+},
+{
+ref = o;
+}
+);
+width = 564;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 248;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = quotedblbase;
+kernLeft = quotesinglbase;
+kernRight = quotesinglbase;
+layers = (
+{
+hints = (
+{
+place = (11, 306);
+place = (11, 306);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-133, 213);
+place = (-133, 213);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (150,0);
+ref = quotesinglbase;
+},
+{
+ref = quotesinglbase;
+}
+);
+width = 370;
+}
+);
+unicode = 8222;
+}

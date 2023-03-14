@@ -1,0 +1,28 @@
+{
+glyphname = rbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (90,0);
+},
+{
+name = bottom;
+pos = (90,-330);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-28,-330);
+ref = r;
+scale = (0.6,0.556);
+}
+);
+width = 0;
+}
+);
+unicode = 7626;
+}

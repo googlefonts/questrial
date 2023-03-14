@@ -1,0 +1,21 @@
+{
+glyphname = bmacronbelow;
+kernLeft = h;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = b;
+},
+{
+pos = (165,0);
+ref = macronbelowcomb;
+}
+);
+width = 595;
+}
+);
+unicode = 7687;
+}

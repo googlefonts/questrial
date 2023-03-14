@@ -1,0 +1,43 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+hints = (
+{
+place = (86, 324);
+place = (86, 324);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (570, 105);
+place = (570, 105);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,570,l),
+(254,675,l),
+(147,675,l),
+(86,570,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(303,570,l),
+(410,675,l),
+(303,675,l),
+(242,570,l)
+);
+}
+);
+width = 523;
+}
+);
+unicode = 733;
+}

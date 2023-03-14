@@ -1,0 +1,21 @@
+{
+glyphname = blackSquare;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,0,l),
+(710,0,l),
+(710,670,l),
+(40,670,l)
+);
+}
+);
+width = 750;
+}
+);
+unicode = 9632;
+}

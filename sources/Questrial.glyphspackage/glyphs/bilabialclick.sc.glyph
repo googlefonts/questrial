@@ -1,0 +1,18 @@
+{
+glyphname = bilabialclick.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (206,-20);
+ref = periodcentered;
+}
+);
+width = 615;
+}
+);
+}

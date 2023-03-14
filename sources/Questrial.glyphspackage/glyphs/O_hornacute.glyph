@@ -1,0 +1,21 @@
+{
+glyphname = Ohornacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (321,0);
+ref = acutecomb.case;
+}
+);
+width = 750;
+}
+);
+unicode = 7898;
+}

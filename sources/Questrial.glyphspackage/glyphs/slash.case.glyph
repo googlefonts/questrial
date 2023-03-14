@@ -1,0 +1,15 @@
+{
+glyphname = slash.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,12);
+ref = slash;
+}
+);
+width = 371;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+glyphname = Ismall.sc;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,474,l),
+(272,546,l),
+(48,546,l),
+(48,474,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(272,0,l),
+(272,72,l),
+(48,72,l),
+(48,0,l)
+);
+},
+{
+pos = (48,0);
+ref = idotless;
+scale = (1.0919,1.0919);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,64,l),
+(65,0,l),
+(254,0,l),
+(254,64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(65,545,l),
+(65,481,l),
+(254,481,l),
+(254,545,l)
+);
+},
+{
+pos = (57,0);
+ref = i.sc;
+}
+);
+width = 319;
+}
+);
+metricLeft = i.sc;
+metricRight = i.sc;
+}

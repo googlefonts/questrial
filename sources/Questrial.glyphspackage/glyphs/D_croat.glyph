@@ -1,0 +1,17 @@
+{
+glyphname = Dcroat;
+kernLeft = I;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 703;
+}
+);
+unicode = 272;
+}

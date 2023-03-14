@@ -1,0 +1,29 @@
+{
+glyphname = onethird;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (400,0);
+ref = three.dnom;
+},
+{
+ref = one.numr;
+},
+{
+alignment = -1;
+pos = (119,0);
+ref = fraction;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
+};
+width = 758;
+}
+);
+note = "\012    onethird\012  ";
+unicode = 8531;
+}

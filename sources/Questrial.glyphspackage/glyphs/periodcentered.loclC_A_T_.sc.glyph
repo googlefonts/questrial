@@ -1,0 +1,14 @@
+{
+glyphname = periodcentered.loclCAT.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = periodcentered.sc;
+}
+);
+width = 203;
+}
+);
+}

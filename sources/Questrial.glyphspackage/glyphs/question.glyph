@@ -1,0 +1,77 @@
+{
+glyphname = question;
+kernLeft = question;
+kernRight = question;
+layers = (
+{
+hints = (
+{
+place = (227, 73);
+place = (227, 73);
+type = Stem;
+},
+{
+place = (394, 71);
+place = (394, 71);
+type = Stem;
+},
+{
+place = (215, 97);
+place = (215, 97);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0, 102);
+place = (0, 102);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (601, 69);
+place = (601, 69);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,183,l),
+(300,324,o),
+(465,333,o),
+(465,489,cs),
+(465,579,o),
+(404,670,o),
+(260,670,cs),
+(128,670,o),
+(45,576,o),
+(39,466,c),
+(110,466,l),
+(116,536,o),
+(168,601,o),
+(266,601,cs),
+(364,601,o),
+(394,539,o),
+(394,489,cs),
+(394,366,o),
+(227,347,o),
+(227,183,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(312,0,l),
+(312,102,l),
+(215,102,l),
+(215,0,l)
+);
+}
+);
+width = 510;
+}
+);
+unicode = 63;
+}

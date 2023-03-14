@@ -1,0 +1,17 @@
+{
+glyphname = twoinferior;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = two.sinf;
+}
+);
+width = 357;
+}
+);
+metricLeft = two;
+metricRight = two;
+unicode = 8322;
+}

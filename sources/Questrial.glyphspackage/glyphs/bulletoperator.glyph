@@ -1,0 +1,15 @@
+{
+glyphname = bulletoperator;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = bullet;
+}
+);
+width = 340;
+}
+);
+unicode = 8729;
+}
