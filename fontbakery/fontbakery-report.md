@@ -30,16 +30,16 @@ Fontbakery version: 0.8.9
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0207
-	* exclamdown.sc
-	* oslash.sc
-	* uni0312.case
-	* oslashacute.sc
-	* uni0295
-	* uni1DC6
-	* uni01B9
-	* uni0212
-	* uni25BD and 36 more.
+	* uni25BD
+	* uni01C3
+	* triagdn
+	* uni0245
+	* uni02BE
+	* uni0311
+	* uni0202
+	* uni0206
+	* uni018E
+	* exclamdown and 36 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -67,27 +67,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.sinf
-
-	- zero.subs
-
-	- uni0220
+	- five.subs
 
 	- one.subs
 
-	- seven.sinf
+	- zero.subs
 
-	- oopenmod
-
-	- germandbls.alt.sc
+	- seven.subs
 
 	- U1D453
 
-	- nine.sinf
+	- nine.subs
 
-	- NULL 
+	- germandbls.alt.sc
 
-	- And 19 more.
+	- NULL
+
+	- four.sinf
+
+	- four.subs 
+
+	- And 20 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
