@@ -2,7 +2,7 @@
 
 Fontbakery version: 0.8.9
 
-<details><summary><b>[12] Questrial-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[13] Questrial-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -30,16 +30,16 @@ Fontbakery version: 0.8.9
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0202
-	* uni020F.sc
-	* uni0213.sc
-	* uni0203.sc
+	* uni0207
+	* exclamdown.sc
+	* oslash.sc
 	* uni0312.case
-	* uni0213
-	* arrowdown
+	* oslashacute.sc
+	* uni0295
 	* uni1DC6
-	* uni1DC5
-	* uni0217 and 28 more.
+	* uni01B9
+	* uni0212
+	* uni25BD and 36 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -67,27 +67,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- nine.subs
+	- eight.sinf
 
 	- zero.subs
 
-	- five.subs
+	- uni0220
 
-	- zero.sinf
-
-	- seven.subs
-
-	- one.sinf
-
-	- NULL
-
-	- two.sinf
+	- one.subs
 
 	- seven.sinf
 
-	- three.subs 
+	- oopenmod
 
-	- And 15 more.
+	- germandbls.alt.sc
+
+	- U1D453
+
+	- nine.sinf
+
+	- NULL 
+
+	- And 19 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -138,7 +138,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* eogonek (U+0119) contains a short segment B<<300.0,-8.0>-<293.0,-8.0>-<287.0,-8.0>> 
 
-	* And 88 more.
+	* And 84 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -146,14 +146,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni019B (U+019B): L<<276.0,556.0>--<318.0,456.0>> -> L<<318.0,456.0>--<457.0,128.0>> [code: found-colinear-vectors]
+	* lambda (U+03BB): L<<276.0,556.0>--<318.0,456.0>> -> L<<318.0,456.0>--<457.0,128.0>> 
+
+	* And uni019B (U+019B): L<<276.0,556.0>--<318.0,456.0>> -> L<<318.0,456.0>--<457.0,128.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* uni0280 (U+0280): L<<140.0,253.0>--<260.0,252.0>> [code: found-semi-vertical]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 3 | 9 | 112 | 8 | 103 | 0 |
-| 0% | 1% | 4% | 48% | 3% | 44% | 0% |
+| 0 | 3 | 10 | 112 | 8 | 102 | 0 |
+| 0% | 1% | 4% | 48% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
