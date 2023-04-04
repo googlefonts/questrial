@@ -1,6 +1,6 @@
 {
 glyphname = idblgrave;
-kernLeft = i.ultrawidetop;
+kernLeft = i.xwidetop;
 kernRight = i.widetop;
 layers = (
 {

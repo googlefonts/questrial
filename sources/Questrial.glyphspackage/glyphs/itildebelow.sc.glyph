@@ -1,5 +1,7 @@
 {
 glyphname = itildebelow.sc;
+kernLeft = i.sc.xwidebottom;
+kernRight = i.sc.xwidebottom;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,7 @@
 {
 color = 3;
 glyphname = iogonek.sc;
-kernLeft = i.sc;
+kernLeft = i.sc.xwidebottom;
 kernRight = i.sc;
 layers = (
 {

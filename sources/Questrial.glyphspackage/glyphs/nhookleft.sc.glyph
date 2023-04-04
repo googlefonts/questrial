@@ -1,5 +1,6 @@
 {
 glyphname = nhookleft.sc;
+kernLeft = nhookleft.sc;
 layers = (
 {
 anchors = (

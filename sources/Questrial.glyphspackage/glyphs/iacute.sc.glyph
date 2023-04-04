@@ -1,5 +1,6 @@
 {
 glyphname = iacute.sc;
+kernRight = i.sc.widetop;
 layers = (
 {
 layerId = UUID0;
