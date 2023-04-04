@@ -1,5 +1,6 @@
 {
 glyphname = idotless_ogonekcomb;
+kernLeft = i.xwidebottom;
 layers = (
 {
 layerId = UUID0;

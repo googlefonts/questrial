@@ -1,6 +1,6 @@
 {
 glyphname = nhookleft;
-kernLeft = n;
+kernLeft = nhookleft;
 kernRight = n;
 layers = (
 {

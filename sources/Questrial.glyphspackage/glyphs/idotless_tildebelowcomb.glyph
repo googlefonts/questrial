@@ -1,5 +1,7 @@
 {
 glyphname = idotless_tildebelowcomb;
+kernLeft = i.xwidebottom;
+kernRight = i.xwidebottom;
 layers = (
 {
 layerId = UUID0;

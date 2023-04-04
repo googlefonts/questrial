@@ -1,7 +1,7 @@
 {
 glyphname = itilde;
-kernLeft = i.ultrawidetop;
-kernRight = i.ultrawidetop;
+kernLeft = i.xwidetop;
+kernRight = i.xwidetop;
 layers = (
 {
 layerId = UUID0;

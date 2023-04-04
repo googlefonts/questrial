@@ -1,7 +1,7 @@
 {
 glyphname = Itildebelow;
-kernLeft = I;
-kernRight = I;
+kernLeft = I.xwidebottom;
+kernRight = I.xwidebottom;
 layers = (
 {
 layerId = UUID0;

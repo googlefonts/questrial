@@ -1,5 +1,7 @@
 {
 glyphname = icaron.sc;
+kernLeft = i.sc.widetop;
+kernRight = i.sc.widetop;
 layers = (
 {
 layerId = UUID0;

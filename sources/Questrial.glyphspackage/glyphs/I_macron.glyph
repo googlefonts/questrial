@@ -1,7 +1,7 @@
 {
 glyphname = Imacron;
-kernLeft = I;
-kernRight = I;
+kernLeft = I.widetop;
+kernRight = I.widetop;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = nhookleft.alt.sc;
+kernLeft = nhookleft.sc;
 layers = (
 {
 layerId = UUID0;

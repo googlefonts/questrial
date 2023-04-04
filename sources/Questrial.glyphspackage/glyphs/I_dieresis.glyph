@@ -1,5 +1,7 @@
 {
 glyphname = Idieresis;
+kernLeft = I.widetop;
+kernRight = I.widetop;
 layers = (
 {
 layerId = UUID0;
