@@ -16,20 +16,17 @@ pos = (272,500);
 );
 hints = (
 {
-place = (34, 75);
-place = (34, 75);
+place = (34,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-8, 68);
-place = (-8, 68);
+place = (-8,68);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (440, 68);
-place = (440, 68);
+place = (440,68);
 type = Stem;
 }
 );
@@ -98,20 +95,17 @@ pos = (272,500);
 associatedMasterId = UUID0;
 hints = (
 {
-place = (34, 75);
-place = (34, 75);
+place = (34,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-8, 68);
-place = (-8, 68);
+place = (-8,68);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (440, 68);
-place = (440, 68);
+place = (440,68);
 type = Stem;
 }
 );

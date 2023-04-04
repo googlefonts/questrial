@@ -46,31 +46,26 @@ nodes = (
 };
 hints = (
 {
-place = (89, 75);
-place = (89, 75);
+place = (89,75);
 type = Stem;
 },
 {
-place = (597, 75);
-place = (597, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0, 71);
-place = (0, 71);
+place = (597,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (298, 65);
-place = (298, 65);
+place = (0,71);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (591, 71);
-place = (591, 71);
+place = (298,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591,71);
 type = Stem;
 }
 );

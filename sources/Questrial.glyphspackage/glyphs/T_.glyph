@@ -24,20 +24,18 @@ pos = (283,662);
 );
 hints = (
 {
-place = (245, 75);
-place = (245, 75);
+place = (245,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (0, 21);
+place = (0,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (590, 72);
-place = (590, 72);
+place = (590,72);
 type = Stem;
 }
 );

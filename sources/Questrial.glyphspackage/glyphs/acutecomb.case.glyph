@@ -15,6 +15,7 @@ pos = (81,799);
 layerId = UUID0;
 shapes = (
 {
+alignment = -1;
 pos = (20,155);
 ref = acutecomb;
 }

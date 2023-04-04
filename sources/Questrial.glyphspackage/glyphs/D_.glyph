@@ -20,25 +20,21 @@ pos = (352,662);
 );
 hints = (
 {
-place = (81, 75);
-place = (81, 75);
+place = (81,75);
 type = Stem;
 },
 {
-place = (589, 75);
-place = (589, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0, 71);
-place = (0, 71);
+place = (589,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (591, 71);
-place = (591, 71);
+place = (0,71);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591,71);
 type = Stem;
 }
 );

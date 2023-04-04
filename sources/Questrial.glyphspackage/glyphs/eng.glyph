@@ -17,31 +17,28 @@ pos = (283,500);
 );
 hints = (
 {
-place = (431, 75);
-place = (431, 75);
+place = (431,75);
 type = Stem;
 },
 {
-place = (428, 81);
-place = (428, 81);
+place = (428,81);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-198, 21);
+place = (-198,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (500, -20);
+place = (500,-20);
 target = down;
 type = TopGhost;
 },
 {
 horizontal = 1;
-place = (584, 98);
-place = (584, 98);
+place = (584,98);
 type = Stem;
 }
 );
@@ -88,31 +85,28 @@ pos = (469,500);
 associatedMasterId = UUID0;
 hints = (
 {
-place = (431, 75);
-place = (431, 75);
+place = (431,75);
 type = Stem;
 },
 {
-place = (428, 81);
-place = (428, 81);
+place = (428,81);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-198, 21);
+place = (-198,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (500, -20);
+place = (500,-20);
 target = down;
 type = TopGhost;
 },
 {
 horizontal = 1;
-place = (584, 98);
-place = (584, 98);
+place = (584,98);
 type = Stem;
 }
 );

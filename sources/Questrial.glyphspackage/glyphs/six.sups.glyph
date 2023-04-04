@@ -4,31 +4,26 @@ layers = (
 {
 hints = (
 {
-place = (43, 51);
-place = (43, 51);
+place = (43,51);
 type = Stem;
 },
 {
-place = (276, 51);
-place = (276, 51);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (376, 50);
-place = (376, 50);
+place = (276,51);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (586, 49);
-place = (586, 49);
+place = (376,50);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (730, 50);
-place = (730, 50);
+place = (586,49);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (730,50);
 type = Stem;
 }
 );
@@ -88,31 +83,26 @@ width = 359;
 associatedMasterId = UUID0;
 hints = (
 {
-place = (43.1, 52.5);
-place = (43.1, 52.5);
+place = (43.1,52.5);
 type = Stem;
 },
 {
-place = (321.7, 52.5);
-place = (321.7, 52.5);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (443.4, 51.1);
-place = (443.4, 51.1);
+place = (321.7,52.5);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (694.7, 49.7);
-place = (694.7, 49.7);
+place = (443.4,51.1);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (866.9, 51.1);
-place = (866.9, 51.1);
+place = (694.7,49.7);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (866.9,51.1);
 type = Stem;
 }
 );

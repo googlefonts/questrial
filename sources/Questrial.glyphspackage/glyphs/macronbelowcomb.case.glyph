@@ -14,8 +14,7 @@ pos = (132,-125);
 );
 hints = (
 {
-place = (207, 75);
-place = (207, 75);
+place = (207,75);
 type = Stem;
 }
 );

@@ -28,30 +28,27 @@ pos = (20,662);
 );
 hints = (
 {
-place = (81, 75);
-place = (81, 75);
+place = (81,75);
 type = Stem;
 },
 {
-place = (541, 75);
-place = (541, 75);
+place = (541,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (0, 21);
+place = (0,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (295, 73);
-place = (295, 73);
+place = (295,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (662, -20);
+place = (662,-20);
 target = down;
 type = TopGhost;
 }

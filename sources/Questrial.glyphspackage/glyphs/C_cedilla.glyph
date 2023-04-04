@@ -79,71 +79,59 @@ nodes = (
 };
 hints = (
 {
-place = (39, 75);
-place = (39, 75);
+place = (39,75);
 type = Stem;
 },
 {
-place = (390, 73);
-place = (390, 73);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-210, 44);
-place = (-210, 44);
+place = (390,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-97, 45);
-place = (-97, 45);
+place = (-210,44);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-7, 72);
-place = (-7, 72);
+place = (-97,45);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (597, 73);
-place = (597, 73);
-type = Stem;
-},
-{
-place = (39, 75);
-place = (39, 75);
+place = (-7,72);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-8, 73);
-place = (-8, 73);
+place = (597,73);
+type = Stem;
+},
+{
+place = (39,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (597, 73);
-place = (597, 73);
-type = Stem;
-},
-{
-place = (389, 73);
-place = (389, 73);
+place = (-8,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-210, 44);
-place = (-210, 44);
+place = (597,73);
+type = Stem;
+},
+{
+place = (389,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-97, 45);
-place = (-97, 45);
+place = (-210,44);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-97,45);
 type = Stem;
 }
 );

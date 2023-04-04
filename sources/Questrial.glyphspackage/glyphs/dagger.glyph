@@ -4,19 +4,17 @@ layers = (
 {
 hints = (
 {
-place = (187, 61);
-place = (187, 61);
+place = (187,61);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (439, 61);
-place = (439, 61);
+place = (439,61);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (662, -20);
+place = (662,-20);
 target = down;
 type = TopGhost;
 }

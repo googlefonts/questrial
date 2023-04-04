@@ -67,14 +67,12 @@ nodes = (
 };
 hints = (
 {
-place = (0, 77);
-place = (0, 77);
+place = (0,77);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-193, 54);
-place = (-193, 54);
+place = (-193,54);
 type = Stem;
 }
 );

@@ -8,9 +8,11 @@ layers = (
 layerId = UUID0;
 shapes = (
 {
+alignment = -1;
 ref = i.sc;
 },
 {
+alignment = -1;
 pos = (-16,-116);
 ref = breveinvertedcomb.case;
 }

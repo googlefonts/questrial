@@ -4,42 +4,35 @@ layers = (
 {
 hints = (
 {
-place = (63, 73);
-place = (63, 73);
+place = (63,73);
 type = Stem;
 },
 {
-place = (298, 37);
-place = (298, 37);
+place = (298,37);
 type = Stem;
 },
 {
-place = (516, 75);
-place = (516, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-8, 71);
-place = (-8, 71);
+place = (516,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (600, 70);
-place = (600, 70);
+place = (-8,71);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (599, 70);
-place = (599, 70);
+place = (600,70);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-7, 70);
-place = (-7, 70);
+place = (599,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-7,70);
 type = Stem;
 }
 );
@@ -64,42 +57,35 @@ width = 615;
 associatedMasterId = UUID0;
 hints = (
 {
-place = (63, 73);
-place = (63, 73);
+place = (63,73);
 type = Stem;
 },
 {
-place = (298, 37);
-place = (298, 37);
+place = (298,37);
 type = Stem;
 },
 {
-place = (516, 75);
-place = (516, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-8, 71);
-place = (-8, 71);
+place = (516,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (600, 70);
-place = (600, 70);
+place = (-8,71);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (599, 70);
-place = (599, 70);
+place = (600,70);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-7, 70);
-place = (-7, 70);
+place = (599,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-7,70);
 type = Stem;
 }
 );

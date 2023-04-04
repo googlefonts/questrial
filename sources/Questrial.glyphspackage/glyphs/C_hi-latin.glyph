@@ -52,19 +52,18 @@ nodes = (
 };
 hints = (
 {
-place = (-3, 804.139);
-place = (-3, 804.139);
+place = (-3,804.139);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-198, 21);
+place = (-198,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (662, -20);
+place = (662,-20);
 target = down;
 type = TopGhost;
 }
@@ -175,19 +174,18 @@ nodes = (
 };
 hints = (
 {
-place = (-3, 804.139);
-place = (-3, 804.139);
+place = (-3,804.139);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-198, 21);
+place = (-198,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (662, -20);
+place = (662,-20);
 target = down;
 type = TopGhost;
 }

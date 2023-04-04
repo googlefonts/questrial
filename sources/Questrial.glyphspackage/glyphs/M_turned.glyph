@@ -17,35 +17,31 @@ pos = (450,662);
 associatedMasterId = UUID0;
 hints = (
 {
-place = (65, -75);
-place = (65, -75);
+place = (65,-75);
 type = Stem;
 },
 {
-place = (399, -75);
-place = (399, -75);
+place = (399,-75);
 type = Stem;
 },
 {
-place = (733, -75);
-place = (733, -75);
+place = (733,-75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (662, 21);
+place = (662,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (222, -68);
-place = (222, -68);
+place = (222,-68);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (162, 21);
+place = (162,21);
 target = up;
 type = BottomGhost;
 }
@@ -109,35 +105,31 @@ pos = (450,662);
 );
 hints = (
 {
-place = (65, -75);
-place = (65, -75);
+place = (65,-75);
 type = Stem;
 },
 {
-place = (399, -75);
-place = (399, -75);
+place = (399,-75);
 type = Stem;
 },
 {
-place = (733, -75);
-place = (733, -75);
+place = (733,-75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (662, 21);
+place = (662,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (222, -68);
-place = (222, -68);
+place = (222,-68);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (162, 21);
+place = (162,21);
 target = up;
 type = BottomGhost;
 }

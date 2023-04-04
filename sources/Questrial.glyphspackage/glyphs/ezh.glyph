@@ -53,31 +53,26 @@ nodes = (
 };
 hints = (
 {
-place = (323.571, 56.833);
-place = (323.571, 56.833);
+place = (323.571,56.833);
 type = Stem;
 },
 {
-place = (306.9, 56.833);
-place = (306.9, 56.833);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-6.062, 55.318);
-place = (-6.062, 55.318);
+place = (306.9,56.833);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (237.942, 52.287);
-place = (237.942, 52.287);
+place = (-6.062,55.318);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (452.394, 55.318);
-place = (452.394, 55.318);
+place = (237.942,52.287);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (452.394,55.318);
 type = Stem;
 }
 );
@@ -184,31 +179,26 @@ nodes = (
 };
 hints = (
 {
-place = (323.571, 56.833);
-place = (323.571, 56.833);
+place = (323.571,56.833);
 type = Stem;
 },
 {
-place = (306.9, 56.833);
-place = (306.9, 56.833);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-6.062, 55.318);
-place = (-6.062, 55.318);
+place = (306.9,56.833);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (237.942, 52.287);
-place = (237.942, 52.287);
+place = (-6.062,55.318);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (452.394, 55.318);
-place = (452.394, 55.318);
+place = (237.942,52.287);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (452.394,55.318);
 type = Stem;
 }
 );
@@ -318,31 +308,26 @@ nodes = (
 };
 hints = (
 {
-place = (323.571, 56.833);
-place = (323.571, 56.833);
+place = (323.571,56.833);
 type = Stem;
 },
 {
-place = (306.9, 56.833);
-place = (306.9, 56.833);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-6.062, 55.318);
-place = (-6.062, 55.318);
+place = (306.9,56.833);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (237.942, 52.287);
-place = (237.942, 52.287);
+place = (-6.062,55.318);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (452.394, 55.318);
-place = (452.394, 55.318);
+place = (237.942,52.287);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (452.394,55.318);
 type = Stem;
 }
 );

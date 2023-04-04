@@ -7,9 +7,11 @@ layers = (
 layerId = UUID0;
 shapes = (
 {
+alignment = -1;
 ref = i;
 },
 {
+alignment = -1;
 pos = (-54,0);
 ref = tildebelowcomb;
 }

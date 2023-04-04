@@ -43,20 +43,17 @@ nodes = (
 };
 hints = (
 {
-place = (-11, 258.989);
-place = (-11, 258.989);
+place = (-11,258.989);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (770.912, 48.819);
-place = (770.912, 48.819);
+place = (770.912,48.819);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (737.814, 47.992);
-place = (737.814, 47.992);
+place = (737.814,47.992);
 type = Stem;
 }
 );
@@ -136,20 +133,17 @@ nodes = (
 };
 hints = (
 {
-place = (-11, 258.989);
-place = (-11, 258.989);
+place = (-11,258.989);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (770.912, 48.819);
-place = (770.912, 48.819);
+place = (770.912,48.819);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (737.814, 47.992);
-place = (737.814, 47.992);
+place = (737.814,47.992);
 type = Stem;
 }
 );

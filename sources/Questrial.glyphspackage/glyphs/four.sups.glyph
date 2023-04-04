@@ -15,26 +15,23 @@ nodes = (
 };
 hints = (
 {
-place = (497, 49);
-place = (497, 49);
+place = (497,49);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (379, 21);
+place = (379,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (478, 44);
-place = (478, 44);
+place = (478,44);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (729, 43);
-place = (729, 43);
+place = (729,43);
 type = Stem;
 }
 );
@@ -71,26 +68,23 @@ width = 349;
 associatedMasterId = UUID0;
 hints = (
 {
-place = (589.9, 52.5);
-place = (589.9, 52.5);
+place = (589.9,52.5);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (449, 21);
+place = (449,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (567.3, 46.9);
-place = (567.3, 46.9);
+place = (567.3,46.9);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (867.6, 44.8);
-place = (867.6, 44.8);
+place = (867.6,44.8);
 type = Stem;
 }
 );

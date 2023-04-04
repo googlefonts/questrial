@@ -12,48 +12,42 @@ pos = (269,0);
 );
 hints = (
 {
-place = (99, 75);
-place = (99, 75);
+place = (99,75);
 type = Stem;
 },
 {
-place = (357, 75);
-place = (357, 75);
+place = (357,75);
 type = Stem;
 },
 {
-place = (354, 81);
-place = (354, 81);
+place = (354,81);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-198, 21);
+place = (-198,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (0, 21);
+place = (0,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (434, 66);
-place = (434, 66);
+place = (434,66);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (584, 98);
-place = (584, 98);
+place = (584,98);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (637, 71);
-place = (637, 71);
+place = (637,71);
 type = Stem;
 }
 );

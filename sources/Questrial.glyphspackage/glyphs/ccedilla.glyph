@@ -16,71 +16,59 @@ pos = (272,500);
 );
 hints = (
 {
-place = (34, 75);
-place = (34, 75);
+place = (34,75);
 type = Stem;
 },
 {
-place = (314, 73);
-place = (314, 73);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-210, 44);
-place = (-210, 44);
+place = (314,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-97, 45);
-place = (-97, 45);
+place = (-210,44);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-6, 66);
-place = (-6, 66);
+place = (-97,45);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (440, 68);
-place = (440, 68);
-type = Stem;
-},
-{
-place = (34, 75);
-place = (34, 75);
+place = (-6,66);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-8, 68);
-place = (-8, 68);
+place = (440,68);
+type = Stem;
+},
+{
+place = (34,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (440, 68);
-place = (440, 68);
-type = Stem;
-},
-{
-place = (316, 73);
-place = (316, 73);
+place = (-8,68);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-210, 44);
-place = (-210, 44);
+place = (440,68);
+type = Stem;
+},
+{
+place = (316,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-97, 45);
-place = (-97, 45);
+place = (-210,44);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-97,45);
 type = Stem;
 }
 );

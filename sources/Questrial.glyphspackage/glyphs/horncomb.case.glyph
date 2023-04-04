@@ -15,6 +15,7 @@ pos = (121,830);
 layerId = UUID0;
 shapes = (
 {
+alignment = -1;
 pos = (-35,118);
 ref = horncomb;
 }

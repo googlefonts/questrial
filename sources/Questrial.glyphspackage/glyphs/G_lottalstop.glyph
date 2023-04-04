@@ -17,30 +17,25 @@ pos = (305,660);
 );
 hints = (
 {
-place = (227, 73);
-place = (227, 73);
+place = (227,73);
 type = Stem;
 },
 {
-place = (394, 71);
-place = (394, 71);
+place = (394,71);
 type = Stem;
 },
 {
-place = (215, 97);
-place = (215, 97);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0, 102);
-place = (0, 102);
+place = (215,97);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (601, 69);
-place = (601, 69);
+place = (0,102);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (601,69);
 type = Stem;
 }
 );
@@ -80,30 +75,25 @@ width = 591;
 associatedMasterId = UUID0;
 hints = (
 {
-place = (227, 73);
-place = (227, 73);
+place = (227,73);
 type = Stem;
 },
 {
-place = (394, 71);
-place = (394, 71);
+place = (394,71);
 type = Stem;
 },
 {
-place = (215, 97);
-place = (215, 97);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0, 102);
-place = (0, 102);
+place = (215,97);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (601, 69);
-place = (601, 69);
+place = (0,102);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (601,69);
 type = Stem;
 }
 );

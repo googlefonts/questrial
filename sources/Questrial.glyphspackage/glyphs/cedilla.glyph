@@ -4,20 +4,17 @@ layers = (
 {
 hints = (
 {
-place = (192, 73);
-place = (192, 73);
+place = (192,73);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-210, 44);
-place = (-210, 44);
+place = (-210,44);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-97, 45);
-place = (-97, 45);
+place = (-97,45);
 type = Stem;
 }
 );

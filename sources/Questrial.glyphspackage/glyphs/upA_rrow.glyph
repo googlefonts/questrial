@@ -9,14 +9,12 @@ pos = (181,586);
 );
 hints = (
 {
-place = (65, 61);
-place = (65, 61);
+place = (65,61);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-179, 927);
-place = (-179, 927);
+place = (-179,927);
 type = Stem;
 }
 );

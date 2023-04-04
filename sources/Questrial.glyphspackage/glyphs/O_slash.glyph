@@ -79,37 +79,33 @@ nodes = (
 };
 hints = (
 {
-place = (39, 75);
-place = (39, 75);
+place = (39,75);
 type = Stem;
 },
 {
-place = (636, 75);
-place = (636, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-8, 73);
-place = (-8, 73);
+place = (636,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (670, -20);
+place = (-8,73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (670,-20);
 target = down;
 type = TopGhost;
 },
 {
 horizontal = 1;
-place = (-8, 21);
+place = (-8,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (597, 73);
-place = (597, 73);
+place = (597,73);
 type = Stem;
 }
 );
@@ -207,37 +203,33 @@ nodes = (
 };
 hints = (
 {
-place = (39, 75);
-place = (39, 75);
+place = (39,75);
 type = Stem;
 },
 {
-place = (636, 75);
-place = (636, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-8, 73);
-place = (-8, 73);
+place = (636,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (670, -20);
+place = (-8,73);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (670,-20);
 target = down;
 type = TopGhost;
 },
 {
 horizontal = 1;
-place = (-8, 21);
+place = (-8,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (597, 73);
-place = (597, 73);
+place = (597,73);
 type = Stem;
 }
 );

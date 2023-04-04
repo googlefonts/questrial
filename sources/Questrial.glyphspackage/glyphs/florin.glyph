@@ -7,20 +7,17 @@ layers = (
 {
 hints = (
 {
-place = (-73, 437);
-place = (-73, 437);
+place = (-73,437);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (367, 49);
-place = (367, 49);
+place = (367,49);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (637, 71);
-place = (637, 71);
+place = (637,71);
 type = Stem;
 }
 );
@@ -57,20 +54,17 @@ width = 307;
 associatedMasterId = UUID0;
 hints = (
 {
-place = (-73, 437);
-place = (-73, 437);
+place = (-73,437);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (367, 49);
-place = (367, 49);
+place = (367,49);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (637, 71);
-place = (637, 71);
+place = (637,71);
 type = Stem;
 }
 );

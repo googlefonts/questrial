@@ -24,42 +24,37 @@ pos = (658,493);
 );
 hints = (
 {
-place = (60, 75);
-place = (60, 75);
+place = (60,75);
 type = Stem;
 },
 {
-place = (426, 75);
-place = (426, 75);
+place = (426,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (0, 21);
+place = (0,21);
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (500, -20);
+place = (500,-20);
 target = down;
 type = TopGhost;
 },
 {
 horizontal = 1;
-place = (-8, 68);
-place = (-8, 68);
+place = (-8,68);
 type = Stem;
 },
 {
-place = (329, 77);
-place = (329, 77);
+place = (329,77);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-195, 54);
-place = (-195, 54);
+place = (-195,54);
 type = Stem;
 }
 );

@@ -17,46 +17,40 @@ pos = (314,662);
 );
 hints = (
 {
-place = (81, 75);
-place = (81, 75);
+place = (81,75);
 type = Stem;
 },
 {
-place = (546, 75);
-place = (546, 75);
+place = (546,75);
 type = Stem;
 },
 {
-place = (512, 75);
-place = (512, 75);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0, 71);
-place = (0, 71);
+place = (512,75);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (298, 68);
-place = (298, 68);
+place = (0,71);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (591, 71);
-place = (591, 71);
+place = (298,68);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (591,71);
 type = Stem;
 },
 {
 origin = (0,11);
-place = (81, -75);
+place = (81,-75);
 type = Stem;
 },
 {
 origin = (0,11);
-place = (81, -75);
+place = (81,-75);
 type = Stem;
 },
 {
@@ -68,13 +62,13 @@ type = TopGhost;
 {
 horizontal = 1;
 origin = (0,11);
-place = (662, -70);
+place = (662,-70);
 type = Stem;
 },
 {
 horizontal = 1;
 origin = (0,11);
-place = (662, -71);
+place = (662,-71);
 type = Stem;
 }
 );

@@ -17,14 +17,12 @@ nodes = (
 };
 hints = (
 {
-place = (0, 484);
-place = (0, 484);
+place = (0,484);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-14, 688);
-place = (-14, 688);
+place = (-14,688);
 type = Stem;
 }
 );
