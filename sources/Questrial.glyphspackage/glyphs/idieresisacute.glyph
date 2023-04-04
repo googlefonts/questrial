@@ -1,7 +1,7 @@
 {
 glyphname = idieresisacute;
-kernLeft = i;
-kernRight = i;
+kernLeft = i.widetop;
+kernRight = i.widetop;
 layers = (
 {
 layerId = UUID0;
