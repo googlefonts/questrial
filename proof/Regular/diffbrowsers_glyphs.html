@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="auto">
 <head>
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -13,7 +13,6 @@
 	}
 	.box-title{
 	  width: 100%;
-	  float: left;
 	  font-size: 8pt;
 	  font-weight: 700;
 	  border-top: 1px solid black;
@@ -23,42 +22,144 @@
 	}
 	.box{
 	  margin-bottom: 20pt;
+	  width: 100%;
+	  float: left;
+	}
+	.box-text{
 	}
 	
 	#nav{
 	  position: fixed;
 	  right: 20px;
+	  z-index: 100;
 	}
 	#font-toggle{
-	  display: block;
-	  font-weight: 700;
-	  cursor: pointer;
-	  -webkit-user-select: none; /* Safari */        
-	  -moz-user-select: none; /* Firefox */
-          -ms-user-select: none; /* IE10+/Edge */
-	  user-select: none; /* Standard */
-	  text-align: center;
-	  color: white;
-	  background-color: black;
-	  width: 50px;
-	  display: block;
-	  padding: 10px;
+	}
+	.nav-item{
+		display: block;
+		cursor: pointer;
+		-webkit-user-select: none; /* Safari */        
+		-moz-user-select: none; /* Firefox */
+			-ms-user-select: none; /* IE10+/Edge */
+		user-select: none; /* Standard */
+		text-align: center;
+		color: white;
+		background-color: black;
+		display: block;
+		font-size: 9pt;
+		padding: 5px;
+		margin: 2px;
+	}
+	.tooltip {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
 	}
 
+	.tooltip .tooltiptext {
+	font-family: sans-serif;
+	visibility: hidden;
+	width: 500px;
+	background-color: black;
+	color: #fff;
+	text-align: left;
+	font-size: 12pt;
+	line-height: 15pt;
+	border-radius: 6px;
+	padding: 5px 0;
+
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	}
+
+	.tooltip:hover .tooltiptext {
+	padding: 10px;
+	visibility: visible;
+	}
+	.tooltipleft {
+		float:left;
+		width: 249px;
+	}
+	.tooltipright {
+		float:right;
+		width:250px;
+	}
+
+			/* Stuff needed for the table differ */
+            body {
+                font-family: Helvetica;
+            }
+            .node {
+                font-family: courier;
+                cursor: pointer;
+                position: relative;
+                left: 30px;
+                padding: 5px;
+                display: block;
+                border: 1px dashed grey;
+            }
+            .header {
+            font-weight: bold;
+            }
+            .attrib-old{
+                color: red;
+                cursor: text;
+            }
+            .attrib-new{
+                color: green;
+                cursor: text;
+            }
+            .leaf {
+            font-weight: bold;
+            }
+            .old .cell .new {
+            	display:  none;
+            }
+            .new .cell .old {
+            	display:  none;
+            }
+            .both .cell .old {
+            	opacity: 0.75;
+            	color:  red;
+            }
+            .both .cell .new {
+            	opacity: 0.75;
+            	position: absolute;
+            	top: 0;
+            	color:  green;
+            }
+			.spacer {
+				display:block;
+				float:left;
+				width:100%;
+			}
+
+	  
+
+	  
+
+	  
+	    @font-face{
+    src: url(Questrial-Regular.ttf);
+    font-family: "Questrial";
+    font-weight: 400;
+    
+    font-style: normal;
+}
 	  
 
 	  
 
 	  
-	    @font-face { src: url(fonts/Questrial-Regular.ttf); font-family: Questrial-Regular; font-weight: 400; font-stretch: 100%; font-style: normal; }
-	  
 
 	  
-
-	  
-
-	  
-	    .Questrial-Regular { font-family: Questrial-Regular; font-weight: 400; font-style: normal; font-stretch: 100%; }
+	    .Regular{
+    font-family: "Questrial";
+    font-weight: 400;
+    font-stretch: 100%;
+    font-style: normal;
+}
 	  
 	
 .cell{
@@ -70,14 +171,17 @@
   text-align: center;
   padding: 5pt;
   margin: 5pt;
-  width: 21.0px;
-  line-height: 21.0px;
+  width: 30.0px;
+  line-height: 30.0px;
 }
 
     </style>
 </head>
 <body>
-    
+    <div id="nav">
+		
+		
+	</div>
     <div id="content">
 	<h2>
 <b>Text</b>
@@ -85,8 +189,8 @@
 	
   
       <div class="box">
-	<div class="box-title">Questrial-Regular 14pt</div>
-	  <span class="Questrial-Regular" style="font-size: 14pt">
+	<div class="box-title">Regular 20pt</div>
+	  <span class="Regular" style="font-size: 20pt">
 	    
 	      <div class="cell"></div>
 	    
@@ -94,7 +198,7 @@
 	    
 	      <div class="cell">!</div>
 	    
-	      <div class="cell">&#34;</div>
+	      <div class="cell">"</div>
 	    
 	      <div class="cell">#</div>
 	    
@@ -102,9 +206,9 @@
 	    
 	      <div class="cell">%</div>
 	    
-	      <div class="cell">&amp;</div>
+	      <div class="cell">&</div>
 	    
-	      <div class="cell">&#39;</div>
+	      <div class="cell">'</div>
 	    
 	      <div class="cell">(</div>
 	    
@@ -146,11 +250,11 @@
 	    
 	      <div class="cell">;</div>
 	    
-	      <div class="cell">&lt;</div>
+	      <div class="cell"><</div>
 	    
 	      <div class="cell">=</div>
 	    
-	      <div class="cell">&gt;</div>
+	      <div class="cell">></div>
 	    
 	      <div class="cell">?</div>
 	    
@@ -2078,27 +2182,50 @@
 </body>
 	<script>
 
-	POSITION = "after"
+	POSITION = "old"
 	fontToggle = document.getElementById("font-toggle")
 	function switchFonts() {
-	  items = document.getElementsByClassName("box")
+	boxTitles = document.getElementsByClassName("box-title")
+	items = document.getElementsByClassName("box-text");
 	  
-	  if (POSITION === "before") {
-	  POSITION = "after"
-	  for (item of items) {
-	    item.firstElementChild.textContent = item.firstElementChild.textContent.replace("before", "after")
-            item.lastElementChild.className = item.lastElementChild.className.replace("before", "after")
-	    fontToggle.textContent = "After"
+	if (POSITION === "old") {
+	  POSITION = "new"
+	  for (item of boxTitles) {
+	    item.textContent = item.textContent.replace("old", "new")
+	    fontToggle.textContent = "new"
 	  }
+	  for (item of items) {
+		item.className = item.className.replace("old", "new")
+	  }
+
 	  } else {
-	  POSITION = "before"
+	  POSITION = "old"
+	  for (item of boxTitles) {
+	    item.textContent = item.textContent.replace("new", "old")
+	    fontToggle.textContent = "old"
+	  }
 	  for (item of items) {
-	    item.firstElementChild.textContent = item.firstElementChild.textContent.replace("after", "before")
-            item.lastElementChild.className = item.lastElementChild.className.replace("after", "before")
-	    fontToggle.textContent = "Before"
+		item.className = item.className.replace("new", "old")
 	  }
 	}
 	}
-	fontToggle.addEventListener("click", switchFonts);
-	</script>
+	if (fontToggle !== null) {
+		fontToggle.addEventListener("click", switchFonts);
+	}
+
+    const divs = document.querySelectorAll('.node');
+    divs.forEach(el => el.addEventListener('click', event => {
+    var children = event.target.querySelectorAll(".node");
+    children.forEach(function(e) {
+        if (e.style.display === "none") {
+            e.style.display = "block";
+        } else {
+            e.style.display = "none";
+        }
+    })
+    }));
+    
+	
+
+    </script>
 </html>
