@@ -1,7 +1,7 @@
 {
 glyphname = idblgrave;
-kernLeft = i;
-kernRight = i;
+kernLeft = i.ultrawidetop;
+kernRight = i.widetop;
 layers = (
 {
 layerId = UUID0;
