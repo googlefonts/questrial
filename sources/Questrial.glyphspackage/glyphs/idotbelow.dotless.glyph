@@ -1,5 +1,5 @@
 {
-glyphname = idotless_dotbelowcomb;
+glyphname = idotbelow.dotless;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,5 @@
 {
-glyphname = idotless_ogonekcomb;
+glyphname = iogonek.dotless;
 kernLeft = i.xwidebottom;
 layers = (
 {

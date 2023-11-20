@@ -1,5 +1,5 @@
 {
-glyphname = idotless_tildebelowcomb;
+glyphname = itildebelow.dotless;
 kernLeft = i.xwidebottom;
 kernRight = i.xwidebottom;
 layers = (
