@@ -24,6 +24,8 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
 width = 810;
 }
 );
-note = "\012    threeeighths\012  ";
+note = "
+    threeeighths
+  ";
 unicode = 8540;
 }

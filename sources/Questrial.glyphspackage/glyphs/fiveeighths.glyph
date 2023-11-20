@@ -24,6 +24,8 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
 width = 820;
 }
 );
-note = "\012    fiveeighths\012  ";
+note = "
+    fiveeighths
+  ";
 unicode = 8541;
 }

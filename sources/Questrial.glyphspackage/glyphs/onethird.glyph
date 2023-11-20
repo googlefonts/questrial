@@ -24,6 +24,8 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
 width = 758;
 }
 );
-note = "\012    onethird\012  ";
+note = "
+    onethird
+  ";
 unicode = 8531;
 }

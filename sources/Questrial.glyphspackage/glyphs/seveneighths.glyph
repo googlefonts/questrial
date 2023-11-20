@@ -24,6 +24,8 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-09 15:12:51 +0000";
 width = 728;
 }
 );
-note = "\012    seveneighths\012  ";
+note = "
+    seveneighths
+  ";
 unicode = 8542;
 }
