@@ -1,4 +1,6 @@
 {
+case = upper;
+category = Letter;
 glyphname = Ramshorn;
 layers = (
 {
@@ -88,4 +90,6 @@ nodes = (
 width = 723;
 }
 );
+script = latin;
+unicode = 42955;
 }
