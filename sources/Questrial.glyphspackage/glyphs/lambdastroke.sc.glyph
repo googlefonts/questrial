@@ -16,7 +16,7 @@ nodes = (
 );
 },
 {
-ref = lambda.latin.sc;
+ref = "lambda-latin.sc";
 }
 );
 width = 550;

@@ -55,7 +55,7 @@ nodes = (
 layerId = UUID0;
 shapes = (
 {
-ref = lambda.latin;
+ref = "lambda-latin";
 }
 );
 width = 600;

@@ -71,7 +71,7 @@ nodes = (
 );
 },
 {
-ref = lambda.latin;
+ref = "lambda-latin";
 }
 );
 width = 600;

@@ -1,5 +1,5 @@
 {
-glyphname = lambda.latin.sc;
+glyphname = "lambda-latin.sc";
 kernRight = a.sc;
 layers = (
 {
@@ -48,4 +48,5 @@ nodes = (
 width = 550;
 }
 );
+script = latin;
 }

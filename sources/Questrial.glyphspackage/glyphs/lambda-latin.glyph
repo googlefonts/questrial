@@ -1,5 +1,7 @@
 {
-glyphname = lambda.latin;
+case = lower;
+category = Letter;
+glyphname = "lambda-latin";
 layers = (
 {
 anchors = (
@@ -106,4 +108,5 @@ nodes = (
 width = 600;
 }
 );
+script = latin;
 }
