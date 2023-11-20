@@ -1518,5 +1518,6 @@ barcomp,
 macrobelow,
 nlongrightleg.sc,
 oopenmod,
-udiagonalstroke.sc
+udiagonalstroke.sc,
+tcaron.loclLAZ
 )

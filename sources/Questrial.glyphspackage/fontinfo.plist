@@ -342,6 +342,7 @@ languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn LAZ;
 languagesystem latn CAT;
 languagesystem latn NSM;
 languagesystem latn ISM;
@@ -1391,6 +1392,8 @@ sub quotedbl by quotedbl.sc;
 sub quotesingle by quotesingle.sc;
 sub florin by florin.sc;
 sub ampersand by ampersand.sc;
+sub tcaron.loclLAZ by tcaron.sc;
+sub istroke.dotless by istroke.sc;
 ";
 tag = smcp;
 },
