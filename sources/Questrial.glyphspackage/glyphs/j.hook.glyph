@@ -1,0 +1,76 @@
+{
+glyphname = j.hook;
+kernLeft = nhookleft;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (103,-198);
+}
+);
+hints = (
+{
+place = (65,75);
+type = Stem;
+},
+{
+place = (62,81);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-198,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (500,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (584,98);
+type = Stem;
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,584,l),
+(143,682,l),
+(62,682,l),
+(62,584,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(65,-62,ls),
+(65,-95,o),
+(61,-139,o),
+(-11,-139,cs),
+(-19,-139,o),
+(-26,-138,o),
+(-35,-136,c),
+(-35,-204,l),
+(-24,-205,o),
+(-15,-206,o),
+(-5,-206,cs),
+(120,-206,o),
+(140,-127,o),
+(140,-62,cs),
+(140,500,l),
+(65,500,l)
+);
+}
+);
+width = 205;
+}
+);
+}
