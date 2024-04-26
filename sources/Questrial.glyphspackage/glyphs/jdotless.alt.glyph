@@ -1,5 +1,5 @@
 {
-glyphname = j.alt.dotless;
+glyphname = jdotless.alt;
 kernLeft = nhookleft;
 kernRight = i;
 layers = (

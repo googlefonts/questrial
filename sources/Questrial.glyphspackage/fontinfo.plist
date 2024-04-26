@@ -1544,6 +1544,11 @@ sub lambda.sc by lambda-latin.sc;
 ";
 notes = "Name: ";
 tag = ss01;
+},
+{
+code = "sub j by j.alt;
+sub jdotless by jdotless.alt;";
+tag = cv01;
 }
 );
 fontMaster = (
