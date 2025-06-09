@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Oslashacute Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Ydieresis Omega Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresismacron Adotaccent Adotbelow Adotmacron Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aringacute Aringbelow Astroke AEacute AEmacron Bdotaccent Bdotbelow Beta-latin Bhook Bhook.alt Bmacronbelow Bstroke Cacute Ccaron Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke DZcaron Dafrican Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dmacronbelow Dzcaron Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotaccent Edotbelow Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Ereversed Esh Esh.alt Estroke Etilde Etildebelow Schwa Ezh Ezhcaron Ezhreversed Fdotaccent Fhook Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstop Gmacron Gstroke Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned Ibreve Icaron Idblgrave Idieresisacute Idotaccent Idotbelow Ihookabove Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde Itildebelow Jcircumflex Jcrossedtail Jstroke Kacute Kcaron Kcommaaccent Kdotbelow Khook Kmacronbelow Kstroke LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Lmacronbelow Lmiddletilde Lslash Macute Mdotaccent Mdotbelow Mturned NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Nhookleft.alt Nj Nlongrightleg Nmacronbelow Eng Eng.alt OU Obreve Ocaron Ocenteredtilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Otildeacute Otildedieresis Otildemacron Pacute Pdotaccent Phook Pstroke Qhooktail Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tmacronbelow Tretroflexhook Ubar Ubreve Ucaron Ucircumflexbelow Udblgrave Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilon-latin Uring Utilde Utildeacute Utildebelow Gamma-latin Vdotbelow Vhook Vtilde Vturned Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook Xdieresis Xdotaccent Ycircumflex Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Yr Ystroke Ytilde Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zmacronbelow Zstroke Theta Lambda Lambda-latin";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Oslashacute Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Ydieresis Omega Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresismacron Adotaccent Adotbelow Adotmacron Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aringacute Aringbelow Astroke AEacute AEmacron Bdotaccent Bdotbelow Beta-latin Bhook Bhook.alt Bmacronbelow Bstroke Cacute Ccaron Ccedillaacute Ccircumflex Cdotaccent Chi-latin Chook Cstroke DZcaron Dafrican Dcaron Dcedilla Dcircumflexbelow Dcroat Ddotaccent Ddotbelow Dhook Dmacronbelow Dzcaron Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflexacute Ecircumflexbelow Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotaccent Edotbelow Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Eopen Ereversed Esh Esh.alt Estroke Etilde Etildebelow Schwa Ezh Ezhcaron Ezhreversed Fdotaccent Fhook Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstop Gmacron Gstroke Hbar Hbrevebelow Hcaron Hcedilla Hcircumflex Hdieresis Hdotaccent Hdotbelow Heng Hhook Hturned Ibreve Icaron Idblgrave Idieresisacute Idotaccent Idotbelow Ihookabove Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde Itildebelow Jcircumflex Jcrossedtail Jstroke Kacute Kcaron Kcommaaccent Kdotbelow Khook Kmacronbelow Kstroke LJ Lacute Lbar Lbelt Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Ldoublebar Lj Lmacronbelow Lmiddletilde Lslash Macute Mdotaccent Mdotbelow Mturned NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Nhookleft.alt Nj Nlongrightleg Nmacronbelow Eng Eng.alt OU Obreve Ocaron Ocenteredtilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Omega-latin Oogonek Oogonekmacron Oopen Otildeacute Otildedieresis Otildemacron Pacute Pdotaccent Phook Pstroke Qhooktail Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Sobliquestroke Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdiagonalstroke Tdotaccent Tdotbelow Thook Tmacronbelow Tretroflexhook Ubar Ubreve Ucaron Ucircumflexbelow Udblgrave Udieresisacute Udieresisbelow Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Upsilon-latin Uring Utilde Utildeacute Utildebelow Gamma-latin Vdotbelow Vhook Vtilde Vturned Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook Xdieresis Xdotaccent Ycircumflex Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Yr Ystroke Ytilde Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zmacronbelow Zstroke Theta Lambda Lambda-latin uniA7AE Udiagonalstroke Ramshorn";
 name = Uppercase;
 }
 );
@@ -391,6 +391,17 @@ tag = aalt;
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb acutemacroncomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb gravemacroncomb hookabovecomb hungarumlautcomb macronacutecomb macroncomb macrongravecomb ringcomb tildecomb verticallineabovecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub iogonek' @CombiningTopAccents by iogonek.dotless;
+	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
+	sub itildebelow' @CombiningTopAccents by itildebelow.dotless;
+	sub istroke' @CombiningTopAccents by istroke.dotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_DFLT_2 {
 	lookupflag 0;
 	sub acutecomb macroncomb by acutecomb_macroncomb;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
@@ -404,32 +415,21 @@ code = "lookup ccmp_DFLT_1 {
 	sub gravecomb macroncomb by gravecomb_macroncomb;
 	sub macroncomb acutecomb by macroncomb_acutecomb;
 	sub macroncomb gravecomb by macroncomb_gravecomb;
-} ccmp_DFLT_1;
+} ccmp_DFLT_2;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub iogonek' @CombiningTopAccents by iogonek.dotless;
-	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
-	sub itildebelow' @CombiningTopAccents by itildebelow.dotless;
-	sub istroke' @CombiningTopAccents by istroke.dotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
 	lookupflag 0;
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
+} ccmp_Other_1;
 
-lookup ccmp_Other_3 {
+lookup ccmp_Other_2 {
 	lookupflag 0;
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_3;
+} ccmp_Other_2;
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
